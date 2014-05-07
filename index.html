@@ -31,6 +31,14 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+<h3 onclick="clearit()" id="browser"></h3>
+  <div id="application">
+    <div id="store"></div>
+          <div id="show"></div>
+          <div id="puffer"><span style="color:white">.</span></div>
+          <div id="msa"></div>
+    <div id="db" style="display:inline"></div>
+  </div>
 <h3 onclick="clearit();"><a name='browse' style="color:black">Browse the Data</a></h3>
 
   <ol style="list-style:upper-roman;">
@@ -39,13 +47,7 @@
     <li id="acd" style="cursor:pointer;" onclick="toggleData('acd');"> Cognate detection benchmark</li>
     <li id="racd" style="cursor:pointer;" onclick="toggleData('racd');">Results for automatic cognate detection analyses</li>  
   </ol>
-  <div id="application">
-    <div id="store"></div>
-          <div id="show"></div>
-          <div id="puffer"><span style="color:white">.</span></div>
-          <div id="msa"></div>
-    <div id="db" style="display:inline"></div>
-  </div>
+
 <h3 onclick="clearit();">Download the Data</h3>
 <div style="overflow:hidden">
   <a class="zip_download_link" href="https://github.com/SequenceComparison/SupplementaryMaterial/zipball/master">Download this project as a .zip file</a>
@@ -57,6 +59,10 @@
 
 
 <h3 onclick="clearit();">Download the Source Code</h3>
+<div style="overflow:hidden">
+  <a class="zip_download_link" href="https://github.com/SequenceComparison/lingpy/zipball/master">Download this project as a .zip file</a>
+  <a class="tar_download_link" href="https://github.com/SequenceComparison//tarball/master">Download this project as a tar.gz file</a>
+</div>
 <script>
 if(document.URL.indexOf('msa') != -1)
 {

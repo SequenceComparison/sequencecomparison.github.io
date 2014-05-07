@@ -44,10 +44,14 @@ function clearit()
   document.getElementById('puffer').innerHTML = '';
   document.getElementById('msa').innerHTML = '';
   document.getElementById('store').innerText = '';
+  document.getElementById('application').style.display="none";
+  document.getElementById('browser').style.display="none";
 }
 
 function toggleData(source)
 {
+  clearit();
+  document.getElementById('application').style.display = "block";
   var show = document.getElementById("show");
   show.innerHTML = '';
   
@@ -80,6 +84,12 @@ function toggleData(source)
     }
     text += '</select>';
     
+    // assign values to the browser
+    var browser = document.getElementById('browser');
+    browser.style.display = "block";
+    browser.innerHTML = "Browse the Multiple Alignments (Benchmark Data)";
+    browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+
     show.innerHTML = text;
   }
   else if(source=="ralm")
@@ -96,6 +106,12 @@ function toggleData(source)
     }
     text += '</select>';
     
+    // assign values to the browser
+    var browser = document.getElementById('browser');
+    browser.style.display = "block";
+    browser.innerHTML = "Browse the Multiple Alignments (Results of the Automatic Analyses)";
+    browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+
     show.innerHTML = text;
   }
   else if(source=="acd")
@@ -108,6 +124,12 @@ function toggleData(source)
       text += '<option value="'+myfile+'">'+f+'</option>';
     }
     text += '</select>';
+    // assign values to the browser
+    var browser = document.getElementById('browser');
+    browser.style.display = "block";
+    browser.innerHTML = "Browse the Cognate Sets (Benchmark Data)";
+    browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+
     show.innerHTML = text;
   }
   else if(source=="racd")
@@ -120,6 +142,12 @@ function toggleData(source)
       text += '<option value="'+myfile+'">'+f+'</option>';
     }
     text += '</select>';
+    // assign values to the browser
+    var browser = document.getElementById('browser');
+    browser.style.display = "block";
+    browser.innerHTML = "Browse the Cognate Sets (Results of the Automatic Analyses)";
+    browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+
     show.innerHTML = text;
   }
 }
@@ -143,7 +171,7 @@ function browseCSV(url)
   var store = document.getElementById('store');
   var data = store.innerText;
   var lines = data.split('\n');
-  var text = '<table style="border:2px solid black;max-width=900px;">';
+  var text = '<table style="border:2px solid black;max-width:900px;">';
   var head = 0;
   for(var i=0,line;line=lines[i];i++)
   {
@@ -183,6 +211,7 @@ function browseCSV(url)
 
   var show = document.getElementById('msa');
   show.innerHTML = text;
+  highLight();
 }
 
 function selectMSA(url)
@@ -541,3 +570,49 @@ $(document).keydown(function(e){
 });}
 }
 
+
+function plotWord(word)
+{
+	var phones = word.split(' ');
+	var text = '';
+	for(var i=0;i<phones.length;i++)// in phones)
+	{
+		var phon = phones[i];
+
+    /* now try to find the column */
+    var dolgo = "dolgo_ERROR";
+    
+		if (phon in DOLGO){dolgo = "dolgo_"+DOLGO[phon]}
+    else if (phon.slice(0,2) in DOLGO){dolgo = "dolgo_"+DOLGO[phon.slice(0,2)];}
+    else if (phon.slice(0,1) in DOLGO){dolgo = "dolgo_"+DOLGO[phon.slice(0,1)];}
+    else if (phon.slice(1,3) in DOLGO){dolgo = "dolgo_"+DOLGO[phon.slice(1,3)];}
+    else if (phon.slice(1,2) in DOLGO){dolgo = "dolgo_"+DOLGO[phon.slice(1,2)];}
+    else if (phon == "-"){dolgo = "dolgo_GAP";}
+    
+    if(phon != '-')
+    {            
+	    text += '<span class="residue '+dolgo+'">'+phon+'</span>';
+    }
+		else
+    {
+	    text += '<span class="residue '+dolgo+'">'+phon+'</span>';
+    }
+  }
+
+	return text;
+}
+
+function highLight()
+{
+	var db = document.getElementById('db');
+	var tokens = document.getElementsByClassName('Tokens');
+	for(var i=0;i<tokens.length;i++)
+	{
+		//if(tokens[i].innerHTML == tokens[i].dataset.value)
+		//{
+			var word = plotWord(tokens[i].innerHTML);
+			//tokens[i].innerText = tokens[i].dataset.value;
+			tokens[i].innerHTML = word;
+		//}
+	}
+}
