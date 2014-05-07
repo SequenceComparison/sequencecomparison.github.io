@@ -43,6 +43,7 @@ function clearit()
   document.getElementById('show').innerHTML = '';
   document.getElementById('puffer').innerHTML = '';
   document.getElementById('msa').innerHTML = '';
+  document.getElementById('store').innerText = '';
 }
 
 function toggleData(source)
@@ -142,7 +143,7 @@ function browseCSV(url)
   var store = document.getElementById('store');
   var data = store.innerText;
   var lines = data.split('\n');
-  var text = '<table style="border:2px solid black">';
+  var text = '<table style="border:2px solid black;max-width=900px;">';
   var head = 0;
   for(var i=0,line;line=lines[i];i++)
   {
