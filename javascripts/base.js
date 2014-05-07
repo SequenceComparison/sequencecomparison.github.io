@@ -56,7 +56,6 @@ function toggleData(source)
   var puffer = document.getElementById("puffer");
   puffer.innerHTML = '';
 
-
   var db = document.getElementById("db");
 
   document.getElementById('alm').style.fontWeight="normal";
@@ -166,7 +165,7 @@ function browseCSV(url)
 	text += '<tr id="headline" style="border:1px solid black;">'
 	for(var j=0,h;h=headline[j];j++)
 	{
-	  header[j] = h;
+	  header[j] = h;https://sequencecomparison.github.io?msa=evobench_102.msa
 	  text += '<th style="font-weight:bold;border:1px solid gray;">'+h+'</th>';
 	}
 	head = 1;
@@ -183,7 +182,6 @@ function browseCSV(url)
 
   var show = document.getElementById('msa');
   show.innerHTML = text;
-  window.location.hash = '#headline';
 }
 
 function selectMSA(url)
