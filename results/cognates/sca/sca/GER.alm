@@ -1,0 +1,925 @@
+GER
+
+1	Swedish..	all	1	a	lː	-
+1	Danish...	all	1	æˀ	l	-
+1	German...	all	1	a	l	-
+1	English..	all	1	ɔː	l	-
+1	Norwegian	all	1	ɑ	l	ə
+1	Dutch....	all	1	ɑ	l	ə
+2	Icelandic	all	1	a t͡l i r
+
+3	Swedish..	ashes	2	a	sː	k	a
+3	Danish...	ashes	2	a	s	g	-
+3	Icelandic	ashes	2	a	s	k	a
+3	German...	ashes	2	a	ʃ	-	ə
+3	English..	ashes	2	æ	ʃ	-	-
+3	Norwegian	ashes	2	ɑ	s	k	-
+3	Dutch....	ashes	2	ɑ	s	-	-
+
+4	Swedish..	bark	3	b	a	rː	k	-	-
+4	Danish...	bark	3	b	ɑː	-	g	-	-
+4	Icelandic	bark	3	b	œ	r	k	ʏ	r
+4	English..	bark	3	b	ɑː	r	k	-	-
+4	Norwegian	bark	3	b	ɑ	ɾ	k	-	-
+5	German...	bark	3	r ɪ n d ə
+6	Dutch....	bark	3	b ɑ s t
+
+7	Swedish..	belly	4	m	aː	g	e
+7	Norwegian	belly	4	m	ɑː	g	ə
+7	Danish...	belly	4	m	æː	v	ə
+8	Danish...	belly	4	ɔ n ʌ l i wˀ
+9	Icelandic	belly	4	kʰ v ɪː ð ʏ r
+10	German...	belly	4	b	au	x
+10	Dutch....	belly	4	b	œy	k
+10	Swedish..	belly	4	b	u	k
+10	Norwegian	belly	4	b	ʉː	k
+11	English..	belly	4	b ɛ l ɪ
+
+12	Swedish..	big	5	s	t	oː	r
+12	Danish...	big	5	s	d	oˀ	ʁ
+12	Icelandic	big	5	s	t	ouː	r
+12	Norwegian	big	5	s	t	uː	ɾ
+13	German...	big	5	ɡ	r	oː	s
+13	Dutch....	big	5	x	r	oː	t
+13	English..	big	5	ɡ	r	eɪ	t
+14	English..	big	5	b ɪ ɡ
+15	Icelandic	big	5	m ɪː c ɪ t͡l
+
+16	Swedish..	bird	6	f	oː	g	e	l
+16	Danish...	bird	6	f	uˀ	-	-	l
+16	Icelandic	bird	6	f	ʏ	k	-	l
+16	German...	bird	6	f	oː	ɡ	ə	l
+16	Norwegian	bird	6	f	ʉː	-	-	l
+16	Dutch....	bird	6	v	oː	ɣ	ə	l
+17	English..	bird	6	b ɜː r d
+
+18	Swedish..	bite (V)	7	b	iː	t	a	-
+18	Danish...	bite (V)	7	b	iː	ð	ə	-
+18	Icelandic	bite (V)	7	p	iː	t	a	-
+18	German...	bite (V)	7	b	ai	s	ə	n
+18	English..	bite (V)	7	b	aɪ	t	-	-
+18	Norwegian	bite (V)	7	b	iː	t	ə	-
+18	Dutch....	bite (V)	7	b	ɛɪ	t	ə	-
+
+19	Swedish..	black	8	s	v	a	r	tː	-	-
+19	Icelandic	black	8	s	v	a	r̥	t	ʏ	r
+19	German...	black	8	ʃ	v	a	r	t͡s	-	-
+19	Dutch....	black	8	z	ʋ	ɑ	r	t	-	-
+20	Danish...	black	8	s	ɒː	d
+20	Norwegian	black	8	s	ɔ	ʈ
+21	English..	black	8	b l æ k
+
+22	Swedish..	blood	9	b	l	oː	d
+22	Danish...	blood	9	b	l	oˀ	ð
+22	Icelandic	blood	9	p	l	ouː	θ
+22	German...	blood	9	b	l	uː	t
+22	English..	blood	9	b	l	ʌ	d
+22	Norwegian	blood	9	b	l	uː	-
+22	Dutch....	blood	9	b	l	uː	t
+
+23	Swedish..	bone	10	b	eː	n
+23	Danish...	bone	10	b	eˀ	n
+23	Icelandic	bone	10	p	eiː	n
+23	English..	bone	10	b	əʊ	n
+23	Norwegian	bone	10	b	eː	n
+23	Dutch....	bone	10	b	eː	n
+24	German...	bone	10	k n ɔ x ə n
+
+25	Swedish..	breast	11	b	-	r	-	ø	s	t
+25	Danish...	breast	11	b	-	ʁ	-	œ	s	d
+25	Icelandic	breast	11	b̥	-	r	j	ou	s	d̥
+25	German...	breast	11	b	-	r	-	ʊ	s	t
+25	English..	breast	11	b	-	r	-	ɛ	s	t
+25	Norwegian	breast	11	b	-	ɾ	-	y	s	t
+25	Dutch....	breast	11	b	ɔ	r	-	-	s	t
+
+26	Swedish..	burn (V)	12	b	-	r	ɛ	-	nː	-	a	-
+26	Danish...	burn (V)	12	b	-	ʁ	a	-	n	-	ə	-
+26	Icelandic	burn (V)	12	b̥	-	r	ɛ	t	n	-	a	-
+26	German...	burn (V)	12	b	-	r	ɛ	-	n	-	ə	n
+26	English..	burn (V)	12	b	ɜː	r	-	-	n	-	-	-
+26	Norwegian	burn (V)	12	b	-	ɾ	e	-	n	-	ə	-
+26	Dutch....	burn (V)	12	b	-	r	ɑ	-	n	d	ə	-
+
+27	Swedish..	claw	13	n	aː	g	e	l
+27	Danish...	claw	13	n	ɑ	jˀ	-	l
+27	Icelandic	claw	13	n	a	k	-	l
+27	German...	claw	13	n	aː	ɡ	ə	l
+27	English..	claw	13	n	eɪ	-	-	l
+27	Norwegian	claw	13	n	æ	j	-	l
+27	Dutch....	claw	13	n	aː	ɣ	ə	l
+
+28	Swedish..	cloud	14	ɧ	-	yː
+28	Danish...	cloud	14	s	g	yˀ
+28	Icelandic	cloud	14	s	c	iː
+28	Norwegian	cloud	14	ʃ	-	yː
+29	German...	cloud	14	v	ɔ	l	k	ə
+29	Dutch....	cloud	14	ʋ	ɔ	l	k	-
+30	English..	cloud	14	k l aʊ d
+31	Swedish..	cloud	14	m oː l n
+
+32	Swedish..	cold	15	k	a	lː	-	-	-
+32	Danish...	cold	15	k	ʌ	lˀ	-	-	-
+32	Icelandic	cold	15	kʰ	a	l	t	ʏ	r
+32	German...	cold	15	k	a	l	t	-	-
+32	English..	cold	15	k	əʊ	l	d	-	-
+32	Norwegian	cold	15	k	ɑ	l	-	-	-
+32	Dutch....	cold	15	k	ɑu	t	-	-	-
+
+33	Swedish..	come (V)	16	-	-	k	o	mː	a	-
+33	Danish...	come (V)	16	-	-	k	ʌ	m	ə	-
+33	Icelandic	come (V)	16	-	-	kʰ	ɔː	m	a	-
+33	German...	come (V)	16	-	-	k	ɔ	m	ə	n
+33	English..	come (V)	16	-	-	k	ʌ	m	-	-
+33	Norwegian	come (V)	16	-	-	k	ɔ	m	ə	-
+33	Dutch....	come (V)	16	aː	ŋ	k	oː	m	ə	-
+
+34	Swedish..	die (V)	17	d	ø	-	-
+34	Danish...	die (V)	17	d	øˀ	-	-
+34	Icelandic	die (V)	17	t	eiː	j	a
+34	English..	die (V)	17	d	aɪ	-	-
+34	Norwegian	die (V)	17	d	øː	-	-
+35	German...	die (V)	17	ʃ	t	ɛ	r	b	ə	n
+35	Dutch....	die (V)	17	s	t	ɛ	r	v	ə	-
+
+36	Swedish..	dog	18	h	u	nː	d	-	-
+36	Danish...	dog	18	h	u	nˀ	-	-	-
+36	Icelandic	dog	18	h	ʏ	n	t	ʏ	r
+36	German...	dog	18	h	ʊ	n	t	-	-
+36	Norwegian	dog	18	h	ʉ	n	-	-	-
+36	Dutch....	dog	18	h	ɔ	n	t	-	-
+37	English..	dog	18	d ɔ ɡ
+
+38	Swedish..	drink (V)	19	d	r	i	-	kː	a	-
+38	Danish...	drink (V)	19	d	ʁ	ɛ	-	g	ə	-
+38	Icelandic	drink (V)	19	t	r	ɛʰ	-	k	a	-
+38	German...	drink (V)	19	t	r	ɪ	ŋ	k	ə	n
+38	English..	drink (V)	19	d	r	ɪ	ŋ	k	-	-
+38	Norwegian	drink (V)	19	d	ɾ	i	-	k	ə	-
+38	Dutch....	drink (V)	19	d	r	ɪ	ŋ	k	ə	-
+
+39	Swedish..	dry	20	t	o	rː
+39	Danish...	dry	20	t	ɶˀ	ʁ
+39	Icelandic	dry	20	θ	ʏ	rː
+39	Norwegian	dry	20	t	œ	ɾ
+40	German...	dry	20	t	r	ɔ	k	ə	n
+40	English..	dry	20	d	r	aɪ	-	-	-
+40	Dutch....	dry	20	d	r	oː	x	-	-
+
+41	Swedish..	ear	21	øː	r	a
+41	Icelandic	ear	21	eiː	r	a
+41	German...	ear	21	oː	r	-
+41	English..	ear	21	ɪə	r	-
+41	Norwegian	ear	21	øː	ɾ	ə
+41	Dutch....	ear	21	oː	r	-
+42	Danish...	ear	21	øːʌ
+
+43	Swedish..	earth	22	j	oː	r	d	-
+43	Danish...	earth	22	j	oˀ	ʁ	-	-
+43	Icelandic	earth	22	j	œ	r	ð	-
+43	German...	earth	22	-	eː	r	d	ə
+43	English..	earth	22	-	ɜː	r	θ	-
+43	Norwegian	earth	22	j	uː	ɾ	-	-
+43	Dutch....	earth	22	-	aː	r	d	ə
+
+44	Swedish..	eat (V)	23	ɛː	t	a
+44	English..	eat (V)	23	iː	t	-
+44	Dutch....	eat (V)	23	eː	t	ə
+45	Danish...	eat (V)	23	s	b	iː	s	ə
+45	Norwegian	eat (V)	23	s	p	iː	s	ə
+46	Icelandic	eat (V)	23	p ɔ r ð a
+47	German...	eat (V)	23	ɛ s ə n
+
+48	Swedish..	egg	24	e	gː
+48	Danish...	egg	24	ɛˀ	g
+48	Icelandic	egg	24	ɛ	kː
+48	English..	egg	24	ɛ	ɡ
+48	Norwegian	egg	24	e	g
+49	German...	egg	24	ai
+49	Dutch....	egg	24	ɛɪ
+
+50	Swedish..	eye	25	øː	g	a
+50	Icelandic	eye	25	øyː	ɣ	a
+50	German...	eye	25	au	ɡ	ə
+50	Dutch....	eye	25	oː	x	-
+51	Danish...	eye	25	ʌ	j	ə
+51	Norwegian	eye	25	œ	j	ə
+52	English..	eye	25	aɪ
+
+53	Swedish..	fat	26	f	ɛ	t	-
+53	Danish...	fat	26	f	e	d	-
+53	Icelandic	fat	26	f	ɪː	t	a
+53	German...	fat	26	f	ɛ	t	-
+53	English..	fat	26	f	æ	t	-
+53	Norwegian	fat	26	f	e	t	-
+53	Dutch....	fat	26	v	ɛ	t	-
+
+54	Swedish..	feather	27	f	j	ɛː	d	e	r
+54	Danish...	feather	27	f	j	e	ðˀ	ʌ	-
+54	Icelandic	feather	27	f	j	œː	ð	ʏ	r
+54	German...	feather	27	f	-	eː	d	ə	r
+54	English..	feather	27	f	-	ɛ	ð	ə	r
+54	Norwegian	feather	27	f	-	-	j	æː	ɾ
+54	Dutch....	feather	27	v	-	-	-	eː	r
+
+55	Swedish..	fire	28	e	lː	d	-	-
+55	Danish...	fire	28	i	lˀ	-	-	-
+55	Icelandic	fire	28	ɛ	l	t	ʏ	r
+55	Norwegian	fire	28	i	l	-	-	-
+56	German...	fire	28	f	ɔyə	r	-	-
+56	English..	fire	28	f	aɪə	r	-	-
+56	Norwegian	fire	28	ʋ	ɑ	ɾ	m	ə
+56	Dutch....	fire	28	v	yː	r	-	-
+
+57	Swedish..	fish	29	f	i	sː	k	-	-
+57	Danish...	fish	29	f	e	s	g	-	-
+57	Icelandic	fish	29	f	ɪ	s	k	ʏ	r
+57	German...	fish	29	f	ɪ	ʃ	-	-	-
+57	English..	fish	29	f	ɪ	ʃ	-	-	-
+57	Norwegian	fish	29	f	i	s	k	-	-
+57	Dutch....	fish	29	v	ɪ	s	-	-	-
+
+58	Swedish..	fly (V)	30	f	l	-	ʉ	g	a	-
+58	Danish...	fly (V)	30	f	l	-	yː	v	ə	-
+58	Icelandic	fly (V)	30	f	l	j	uːa	-	-	-
+58	German...	fly (V)	30	f	l	-	iː	ɡ	ə	n
+58	English..	fly (V)	30	f	l	-	aɪ	-	-	-
+58	Norwegian	fly (V)	30	f	l	-	yː	-	-	-
+58	Dutch....	fly (V)	30	v	l	-	iː	ɣ	ə	-
+
+59	Swedish..	foot	31	f	oː	t	-	-
+59	Danish...	foot	31	f	oˀ	ð	-	-
+59	Icelandic	foot	31	f	ouː	t	ʏ	r
+59	German...	foot	31	f	uː	s	-	-
+59	English..	foot	31	f	ʊ	t	-	-
+59	Norwegian	foot	31	f	uː	t	-	-
+59	Dutch....	foot	31	v	uː	t	-	-
+
+60	Swedish..	full	32	f	u	lː
+60	Danish...	full	32	f	u	lˀ
+60	German...	full	32	f	ɔ	l
+60	English..	full	32	f	ʊ	l
+60	Norwegian	full	32	f	ʉ	l
+60	Dutch....	full	32	v	ɔ	l
+61	Icelandic	full	32	f ʏ t͡l ʏ r
+
+62	Swedish..	give (V)	33	j	iː	v	a
+62	Norwegian	give (V)	33	j	iː	-	-
+63	Danish...	give (V)	33	g	iˀ	-	-
+63	Icelandic	give (V)	33	c	ɛː	v	a
+63	English..	give (V)	33	ɡ	ɪ	v	-
+63	Dutch....	give (V)	33	x	eː	v	ə
+64	German...	give (V)	33	ɡ eː b ə n
+
+65	Swedish..	good	34	g	uː	d
+65	Danish...	good	34	g	oˀ	-
+65	German...	good	34	ɡ	uː	t
+65	English..	good	34	ɡ	ʊ	d
+65	Norwegian	good	34	g	uː	-
+65	Dutch....	good	34	x	uː	t
+66	Icelandic	good	34	k ouː ð ʏ r
+
+67	Swedish..	green	35	g	r	øː	n
+67	Danish...	green	35	g	ʁ	ɶ	nˀ
+67	Icelandic	green	35	k	r	ai	t͡n
+67	German...	green	35	ɡ	r	yː	n
+67	English..	green	35	ɡ	r	iː	n
+67	Norwegian	green	35	g	ɾ	œ	n
+67	Dutch....	green	35	x	r	uː	n
+
+68	Swedish..	hair	36	h	oː	r
+68	Danish...	hair	36	h	ɒˀ	-
+68	Icelandic	hair	36	h	auː	r
+68	German...	hair	36	h	aː	r
+68	English..	hair	36	h	ɛə	r
+68	Norwegian	hair	36	h	oː	ɾ
+68	Dutch....	hair	36	h	aː	r
+
+69	Swedish..	hand	37	h	a	nː	d
+69	Danish...	hand	37	h	ʌ	nˀ	-
+69	Icelandic	hand	37	h	œ	n	t
+69	German...	hand	37	h	a	n	t
+69	English..	hand	37	h	æ	n	d
+69	Norwegian	hand	37	h	ɔ	n	-
+69	Dutch....	hand	37	h	ɑ	n	t
+
+70	Swedish..	head	38	h	uː	v	u	d	-
+70	Danish...	head	38	h	oːə	-	-	ð	-
+70	Icelandic	head	38	h	œ	v	ʏ	ð	-
+70	English..	head	38	h	ɛ	-	-	d	-
+70	Norwegian	head	38	h	uː	-	-	d	ə
+70	Dutch....	head	38	h	oː	f	-	t	-
+71	German...	head	38	k ɔ p͡f
+
+72	Swedish..	hear (V)	39	h	øː	r	a	-
+72	Danish...	hear (V)	39	h	øːʌ	-	-	-
+72	Icelandic	hear (V)	39	h	eiː	r	a	-
+72	German...	hear (V)	39	h	øː	r	ə	n
+72	English..	hear (V)	39	h	ɪə	r	-	-
+72	Norwegian	hear (V)	39	h	øː	ɾ	ə	-
+72	Dutch....	hear (V)	39	h	oː	r	ə	-
+
+73	Swedish..	heart	40	j	ɛ	r	t	a
+73	Danish...	heart	40	j	æ	ʁ	d	ə
+73	Norwegian	heart	40	j	æ	-	ʈ	ə
+74	Icelandic	heart	40	ç	a	r̥	t	a
+74	German...	heart	40	h	ɛ	r	t͡s	-
+74	English..	heart	40	h	ɑː	r	t	-
+74	Dutch....	heart	40	h	ɑ	r	t	-
+
+75	Swedish..	horn	41	h	oː	r	n
+75	Danish...	horn	41	h	o	ʁˀ	n
+75	Icelandic	horn	41	h	ɔ	r	t͡n
+75	German...	horn	41	h	ɔ	r	n
+75	English..	horn	41	h	ɔː	r	n
+75	Norwegian	horn	41	h	uː	-	ɳ
+75	Dutch....	horn	41	h	oː	r	n
+
+76	Swedish..	I	42	j	aː	g
+76	Icelandic	I	42	j	ɛ	ɣ
+76	German...	I	42	-	ɪ	x
+76	Dutch....	I	42	-	ɪ	k
+77	Danish...	I	42	j	ɑ	j
+77	Norwegian	I	42	j	æ	j
+78	English..	I	42	aɪ
+
+79	Swedish..	kill (V)	43	d	øː	d	a	-
+79	German...	kill (V)	43	t	øː	t	ə	n
+79	Dutch....	kill (V)	43	d	oː	d	ə	-
+80	Danish...	kill (V)	43	d	ʁ	ɛː	b	ə
+80	Icelandic	kill (V)	43	t	r	ɛː	p	a
+80	Norwegian	kill (V)	43	d	ɾ	eː	p	ə
+80	Swedish..	kill (V)	43	d	r	ɛ	p	a
+81	English..	kill (V)	43	k ɪ l
+
+82	Swedish..	knee	44	k	n	ɛː
+82	Danish...	knee	44	k	n	ɛˀ
+82	Icelandic	knee	44	kʰ	n	iɛː
+82	German...	knee	44	k	n	iː
+82	English..	knee	44	-	n	iː
+82	Norwegian	knee	44	k	n	eː
+82	Dutch....	knee	44	k	n	iː
+
+83	Swedish..	know (V)	45	-	-	ɕ	ɛ	nː	a	-
+83	German...	know (V)	45	v	ɪ	s	ə	n	-	-
+83	English..	know (V)	45	-	-	-	-	n	əʊ	-
+83	Danish...	know (V)	45	-	-	k	ɛ	n	ə	-
+83	German...	know (V)	45	-	-	k	ɛ	n	ə	n
+83	Norwegian	know (V)	45	-	-	ç	e	n	ə	-
+83	Dutch....	know (V)	45	-	-	k	ɛ	n	ə	-
+84	Danish...	know (V)	45	v	iː	ð	ə
+84	Icelandic	know (V)	45	v	ɪː	t	a
+84	Norwegian	know (V)	45	ʋ	iː	t	ə
+84	Dutch....	know (V)	45	ʋ	eː	t	ə
+84	Swedish..	know (V)	45	v	e	t	a
+
+85	Swedish..	leaf	46	b	l	a	d
+85	Danish...	leaf	46	b	l	a	ð
+85	Icelandic	leaf	46	p	l	aː	ð
+85	German...	leaf	46	b	l	a	t
+85	Norwegian	leaf	46	b	l	ɑː	-
+85	Dutch....	leaf	46	b	l	ɑ	t
+85	Swedish..	leaf	46	b	l	a	d
+86	English..	leaf	46	l	iː	f
+86	Icelandic	leaf	46	l	øyː	v
+86	Norwegian	leaf	46	l	øː	ʋ
+
+87	Swedish..	lie (V)	47	l	i	gː	a	-
+87	Danish...	lie (V)	47	l	e	g	ə	-
+87	Icelandic	lie (V)	47	l	ɪ	cː	a	-
+87	German...	lie (V)	47	l	iː	ɡ	ə	n
+87	English..	lie (V)	47	l	aɪ	-	-	-
+87	Norwegian	lie (V)	47	l	i	g	ə	-
+87	Dutch....	lie (V)	47	l	ɪ	ɣ	ə	-
+
+88	Swedish..	liver	48	l	eː	v	e	r
+88	Danish...	liver	48	l	e	wˀ	ʌ	-
+88	Icelandic	liver	48	l	ɪː	v	ʏ	r
+88	German...	liver	48	l	eː	b	ə	r
+88	English..	liver	48	l	ɪ	v	ə	r
+88	Norwegian	liver	48	l	e	ʋ	ə	ɾ
+88	Dutch....	liver	48	l	eː	v	ə	r
+
+89	Swedish..	long	49	l	o	ŋː	-	-	-
+89	Danish...	long	49	l	ɑ	ŋˀ	-	-	-
+89	Icelandic	long	49	l	a	ŋ	k	ʏ	r
+89	German...	long	49	l	a	ŋ	-	-	-
+89	English..	long	49	l	ɔ	ŋ	-	-	-
+89	Norwegian	long	49	l	ɑ	ŋ	-	-	-
+89	Dutch....	long	49	l	ɑ	ŋ	-	-	-
+
+90	Swedish..	louse	50	l	uː	s
+90	Danish...	louse	50	l	uˀ	s
+90	Icelandic	louse	50	l	uː	s
+90	German...	louse	50	l	au	s
+90	English..	louse	50	l	aʊ	s
+90	Norwegian	louse	50	l	ʉː	s
+90	Dutch....	louse	50	l	œy	s
+
+91	Swedish..	man	51	m	a	nː
+91	Danish...	man	51	m	a	nˀ
+91	German...	man	51	m	a	n
+91	English..	man	51	m	æ	n
+91	Norwegian	man	51	m	ɑ	n
+91	Dutch....	man	51	m	ɑ	n
+92	Icelandic	man	51	m aː ð ʏ r
+
+93	Swedish..	many	52	m	ʏ	k	ɛ	t
+93	Icelandic	many	52	m	ɪː	c	ɪ	ð
+93	English..	many	52	m	ʌ	ʧ	-	-
+93	Norwegian	many	52	m	eː	g	ə	t
+94	Danish...	many	52	m	ɑ	ŋ	ə	n
+94	English..	many	52	m	ɛ	n	ɪ	-
+94	Norwegian	many	52	m	ɑ	ŋ	ə	-
+94	Swedish..	many	52	m	o	ŋː	a	-
+95	German...	many	52	f	iː	l
+95	Dutch....	many	52	v	eː	l
+
+96	Swedish..	meat	53	ɕ	ø	tː
+96	Norwegian	meat	53	ç	œ	t
+97	Danish...	meat	53	k	-	ø	ð
+97	Icelandic	meat	53	kʰ	j	œː	t
+98	German...	meat	53	f	l	ai	ʃ
+98	Dutch....	meat	53	v	l	eː	s
+99	English..	meat	53	m iː t
+
+100	Swedish..	moon	54	m	oː	n	e
+100	Danish...	moon	54	m	ɔː	n	ə
+100	German...	moon	54	m	oː	n	t
+100	English..	moon	54	m	uː	n	-
+100	Norwegian	moon	54	m	ɑː	n	ə
+100	Dutch....	moon	54	m	aː	n	-
+100	Icelandic	moon	54	m	auː	n	ɪ
+101	Icelandic	moon	54	tʰ u ŋ l
+
+102	Swedish..	mountain	55	b	ɛ	rː	j
+102	German...	mountain	55	b	ɛ	r	k
+102	Dutch....	mountain	55	b	ɛ	r	x
+103	Danish...	mountain	55	b j æ ʁˀ w
+104	Icelandic	mountain	55	f	j	a	t͡l
+104	Norwegian	mountain	55	f	j	e	l
+104	Danish...	mountain	55	f	j	ɛ	lˀ
+105	English..	mountain	55	m aʊ n t ɪ n
+
+106	Swedish..	mouth	56	m	u	nː	-	-
+106	Danish...	mouth	56	m	ɔ	nˀ	-	-
+106	Icelandic	mouth	56	m	ʏ	nː	ʏ	r
+106	German...	mouth	56	m	ʊ	n	-	t
+106	Norwegian	mouth	56	m	ʉ	n	-	-
+106	Dutch....	mouth	56	m	ɔ	n	-	t
+107	English..	mouth	56	m aʊ ð
+
+108	Swedish..	name	57	n	a	mː	n
+108	German...	name	57	n	aː	m	ə
+108	English..	name	57	n	eɪ	m	-
+108	Dutch....	name	57	n	aː	m	-
+109	Danish...	name	57	n	ɑ	wˀ	n
+109	Icelandic	name	57	n	a	p	n
+109	Norwegian	name	57	n	ɑ	ʋ	n
+
+110	Swedish..	neck	58	h	a	lː	s
+110	Danish...	neck	58	h	a	lˀ	s
+110	Icelandic	neck	58	h	au	l	s
+110	German...	neck	58	h	a	l	s
+110	Norwegian	neck	58	h	ɑ	l	s
+110	Dutch....	neck	58	h	ɑ	l	s
+111	English..	neck	58	n	ɛ	k
+111	Dutch....	neck	58	n	ɛ	k
+
+112	Swedish..	new	59	n	-	yː	-
+112	Danish...	new	59	n	-	yˀ	-
+112	Icelandic	new	59	n	-	iː	r
+112	German...	new	59	n	-	ɔy	-
+112	English..	new	59	n	j	uː	-
+112	Norwegian	new	59	n	-	yː	-
+112	Dutch....	new	59	n	-	iː	ʋ
+
+113	Swedish..	night	60	n	a	-	tː
+113	Danish...	night	60	n	a	-	d
+113	Icelandic	night	60	n	ouʰ	-	t
+113	German...	night	60	n	a	x	t
+113	English..	night	60	n	aɪ	-	t
+113	Norwegian	night	60	n	ɑ	-	t
+113	Dutch....	night	60	n	ɑ	x	t
+
+114	Swedish..	nose	61	n	ɛː	s	a
+114	Danish...	nose	61	n	ɛː	s	ə
+114	German...	nose	61	n	aː	z	ə
+114	English..	nose	61	n	əʊ	z	-
+114	Norwegian	nose	61	n	eː	s	ə
+114	Dutch....	nose	61	n	œː	s	-
+115	Icelandic	nose	61	n ɛː v
+
+116	Swedish..	not	62	i	kː	e
+116	Danish...	not	62	e	g	ə
+116	Icelandic	not	62	ɛʰ	c	ɪ
+116	Norwegian	not	62	i	k	ə
+117	German...	not	62	n	ɪ	x	t
+117	English..	not	62	n	ɔ	-	t
+117	Dutch....	not	62	n	iː	-	t
+
+118	Swedish..	one	63	-	e	n
+118	Danish...	one	63	-	eˀ	n
+118	German...	one	63	-	ai	n
+118	English..	one	63	ʋ	ʌ	n
+118	Norwegian	one	63	-	eː	n
+118	Dutch....	one	63	-	eː	n
+119	Icelandic	one	63	ei t͡n
+
+120	Swedish..	person	64	m	ɛ	n	i	ʃ	-	a
+120	Danish...	person	64	m	ɛ	n	ə	s	g	ə
+120	German...	person	64	m	ɛ	n	-	ʃ	-	-
+120	English..	person	64	m	æ	n	-	-	-	-
+120	Norwegian	person	64	m	e	n	ə	s	k	ə
+120	Dutch....	person	64	m	ɛ	n	-	s	-	-
+121	Icelandic	person	64	m aː ð ʏ r
+
+122	Swedish..	rain (V)	65	r	e	ŋː	-	n	-
+122	Danish...	rain (V)	65	ʁ	ɑ	jˀ	-	n	-
+122	Icelandic	rain (V)	65	r	ɛ	k	-	n	-
+122	German...	rain (V)	65	r	eː	ɡ	ə	n	-
+122	English..	rain (V)	65	r	eɪ	-	-	n	-
+122	Norwegian	rain (V)	65	ɾ	æ	j	-	n	ə
+122	Dutch....	rain (V)	65	r	eː	ɣ	ə	-	-
+
+123	Swedish..	red	66	r	øː	d	-	-
+123	Danish...	red	66	ʁ	œ	ðˀ	-	-
+123	Icelandic	red	66	r	øyː	ð	ʏ	r
+123	German...	red	66	r	oː	t	-	-
+123	English..	red	66	r	ɛ	d	-	-
+123	Dutch....	red	66	r	oː	t	-	-
+
+124	Swedish..	road	67	v	ɛː	g	-	-
+124	Icelandic	road	67	v	e	k	ʏ	r
+124	German...	road	67	v	eː	k	-	-
+125	Danish...	road	67	v ɑ jˀ
+126	English..	road	67	r əʊ d
+127	Dutch....	road	67	ʋ	ɛ	x
+127	English..	road	67	ʋ	eɪ	-
+
+128	Swedish..	root	68	r	oː	t
+128	Danish...	root	68	ʁ	oˀ	ð
+128	Icelandic	root	68	r	ouː	t
+128	English..	root	68	r	uː	t
+129	German...	root	68	v	ʊ	r	t͡s	ə	l
+129	Dutch....	root	68	ʋ	ɔ	r	t	ə	l
+
+130	Swedish..	round	69	r	u	nː	d
+130	Danish...	round	69	ʁ	ɔ	nˀ	-
+130	German...	round	69	r	ʊ	n	t
+130	English..	round	69	r	aʊ	n	d
+130	Dutch....	round	69	r	ɔ	n	t
+131	Icelandic	round	69	kʰ r i ŋ l ouʰ t ʏ r
+
+132	Swedish..	sand	70	s	a	nː	d	-	-
+132	Danish...	sand	70	s	a	nˀ	-	-	-
+132	Icelandic	sand	70	s	a	n	t	ʏ	r
+132	German...	sand	70	z	a	n	t	-	-
+132	English..	sand	70	s	æ	n	d	-	-
+132	Dutch....	sand	70	z	ɑ	n	t	-	-
+
+133	Swedish..	say (V)	71	s	ɛ	j	a
+133	Danish...	say (V)	71	s	iː	-	-
+133	Icelandic	say (V)	71	s	eiː	j	a
+133	English..	say (V)	71	s	eɪ	-	-
+133	Norwegian	say (V)	71	s	iː	-	-
+134	German...	say (V)	71	z	aː	ɡ	ə	n
+134	Dutch....	say (V)	71	z	ɛ	ɣ	ə	-
+
+135	Swedish..	see (V)	72	s	eː	-
+135	Danish...	see (V)	72	s	eˀ	-
+135	German...	see (V)	72	z	eːə	n
+135	English..	see (V)	72	s	iː	-
+135	Norwegian	see (V)	72	s	eː	-
+135	Dutch....	see (V)	72	z	iː	n
+136	Icelandic	see (V)	72	s j auː
+
+137	Swedish..	seed	73	f	r	øː
+137	Danish...	seed	73	f	ʁ	œˀ
+137	Icelandic	seed	73	f	r	aiː
+137	Norwegian	seed	73	f	ɾ	øː
+138	German...	seed	73	z aː m ə n
+139	English..	seed	73	s	iː	d
+139	Dutch....	seed	73	z	aː	t
+
+140	Swedish..	sit (V)	74	s	i	tː	-	a	-
+140	Danish...	sit (V)	74	s	e	ð	-	ə	-
+140	Icelandic	sit (V)	74	s	ɪː	t	j	a	-
+140	German...	sit (V)	74	z	ɪ	t͡s	-	ə	n
+140	English..	sit (V)	74	s	ɪ	t	-	-	-
+140	Norwegian	sit (V)	74	s	i	t	-	ə	-
+140	Dutch....	sit (V)	74	z	ɪ	t	-	ə	-
+
+141	Swedish..	skin	75	ɧ	-	i	nː
+141	English..	skin	75	s	k	ɪ	n
+141	Icelandic	skin	75	s	c	ɪ	nː
+142	Danish...	skin	75	h	u	ðˀ
+142	Icelandic	skin	75	h	uː	ð
+142	German...	skin	75	h	au	t
+142	Norwegian	skin	75	h	ʉː	d
+142	Swedish..	skin	75	h	uː	d
+142	Dutch....	skin	75	h	œy	t
+143	Dutch....	skin	75	v ɛ l
+
+144	Swedish..	sleep (V)	76	s	oː	v	a
+144	Danish...	sleep (V)	76	s	ɒ	w	ə
+144	Icelandic	sleep (V)	76	s	ɔː	v	a
+144	Norwegian	sleep (V)	76	s	oː	ʋ	ə
+145	German...	sleep (V)	76	ʃ	l	aː	f	ə	n
+145	English..	sleep (V)	76	s	l	iː	p	-	-
+145	Dutch....	sleep (V)	76	s	l	aː	p	ə	-
+
+146	Swedish..	small	77	l	iː	t	e	n
+146	Icelandic	small	77	l	iː	t	ɪ	t͡l
+146	Norwegian	small	77	l	iː	t	ə	n
+146	Danish...	small	77	l	iː	ð	ə	n
+147	Danish...	small	77	l	i	-	l	ə
+147	English..	small	77	l	ɪ	t	ḷ	-
+148	German...	small	77	k	l	ai	n
+148	Dutch....	small	77	k	l	ɛɪ	n
+149	English..	small	77	s	m	ɔː	l
+149	Swedish..	small	77	s	m	oː	-
+149	Icelandic	small	77	s	m	auː	r
+
+150	Swedish..	smoke	78	r	ø	-	k	-	-
+150	Danish...	smoke	78	ʁ	ʌ	jˀ	-	-	-
+150	Icelandic	smoke	78	r	eiː	-	k	ʏ	r
+150	German...	smoke	78	r	au	-	x	-	-
+150	Norwegian	smoke	78	ɾ	œ	j	k	-	-
+150	Dutch....	smoke	78	r	oː	-	k	-	-
+151	English..	smoke	78	s m əʊ k
+
+152	Swedish..	stand (V)	79	s	t	oː	-	-	-
+152	Danish...	stand (V)	79	s	d	ɔˀ	-	-	-
+152	Icelandic	stand (V)	79	s	t	a	n	t	a
+152	German...	stand (V)	79	ʃ	t	eːə	n	-	-
+152	English..	stand (V)	79	s	t	æ	n	d	-
+152	Norwegian	stand (V)	79	s	t	oː	-	-	-
+152	Dutch....	stand (V)	79	s	t	aː	n	-	-
+
+153	Swedish..	star	80	ɧ	-	-	ɛː	r	n	a
+153	Danish...	star	80	s	d	j	æ	ʁ	n	ə
+153	Icelandic	star	80	s	t	j	a	r	t͡n	a
+153	German...	star	80	ʃ	t	-	ɛ	r	n	-
+153	English..	star	80	s	t	-	ɑː	r	-	-
+153	Norwegian	star	80	s	t	j	æː	-	ɳ	ə
+153	Dutch....	star	80	s	t	-	ɛ	r	-	-
+
+154	Swedish..	stone	81	s	t	eː	-	n
+154	Danish...	stone	81	s	d	eˀ	-	n
+154	Icelandic	stone	81	s	t	ei	-	t͡n
+154	German...	stone	81	ʃ	t	ai	-	n
+154	English..	stone	81	s	t	əʊ	-	n
+154	Norwegian	stone	81	s	t	æ	j	n
+154	Dutch....	stone	81	s	t	eː	-	n
+
+155	Swedish..	sun	82	s	oː	l
+155	Danish...	sun	82	s	oˀ	l
+155	Icelandic	sun	82	s	ouː	l
+155	Norwegian	sun	82	s	uː	l
+156	German...	sun	82	z	ɔ	n	ə
+156	English..	sun	82	s	ʌ	n	-
+156	Dutch....	sun	82	z	ɔ	n	-
+
+157	Swedish..	swim (V)	83	s	-	i	mː	a	-
+157	Danish...	swim (V)	83	s	v	œ	m	ə	-
+157	German...	swim (V)	83	ʃ	v	ɪ	m	ə	n
+157	English..	swim (V)	83	s	ʋ	ɪ	m	-	-
+157	Norwegian	swim (V)	83	s	ʋ	œ	m	ə	-
+157	Dutch....	swim (V)	83	z	ʋ	ɛ	m	ə	-
+158	Icelandic	swim (V)	83	s y n t a
+
+159	Swedish..	tail	84	ɧ	-	ɛ	r	t
+159	Dutch....	tail	84	s	t	aː	r	t
+160	Danish...	tail	84	h	æː	l	ə
+160	Icelandic	tail	84	h	aː	l	ɪ
+160	Norwegian	tail	84	h	ɑː	l	ə
+161	German...	tail	84	ʃ v a n t͡s
+162	English..	tail	84	t eɪ l
+163	Icelandic	tail	84	s k ɔʰ t
+
+164	Swedish..	that	85	d	ə
+164	Danish...	that	85	d	e
+164	Norwegian	that	85	d	eː
+164	Dutch....	that	85	d	iː
+165	Icelandic	that	85	θ	ɛ	sː	ɪ
+165	Icelandic	that	85	-	-	s	auː
+166	German...	that	85	j eː n ə r
+167	English..	that	85	ð æ t
+168	Danish...	that	85	h iˀ n
+
+169	Swedish..	this	86	d	ɛ	t	a
+169	Danish...	this	86	d	ɛ	n	ə
+169	Norwegian	this	86	d	e	t	ə
+169	Danish...	this	86	d	ɛ	n	ə
+170	Icelandic	this	86	θ	ɛ	sː	ɪ	-
+170	German...	this	86	d	iː	z	ə	r
+170	English..	this	86	ð	ɪ	s	-	-
+170	Dutch....	this	86	d	eː	z	ə	-
+
+171	Swedish..	thou	87	d	ʉ
+171	Danish...	thou	87	d	uˀ
+171	Icelandic	thou	87	θ	uː
+171	German...	thou	87	d	uː
+171	Norwegian	thou	87	d	ʉː
+172	English..	thou	87	j	uː
+172	Dutch....	thou	87	j	ɛɪ
+
+173	Swedish..	tongue	88	t	u	ŋː	-	a
+173	Danish...	tongue	88	t	ɔ	ŋ	-	ə
+173	Icelandic	tongue	88	tʰ	u	ŋ	k	a
+173	German...	tongue	88	t͡s	ʊ	ŋ	-	ə
+173	English..	tongue	88	t	ʌ	ŋ	-	-
+173	Norwegian	tongue	88	t	u	ŋ	-	ə
+173	Dutch....	tongue	88	t	ɔ	ŋ	-	-
+
+174	Swedish..	tooth	89	t	a	nː	d
+174	Danish...	tooth	89	t	a	nˀ	-
+174	Icelandic	tooth	89	tʰ	œ	nː	-
+174	German...	tooth	89	t͡s	aː	n	-
+174	Norwegian	tooth	89	t	ɑ	n	-
+174	Dutch....	tooth	89	t	ɑ	n	t
+175	English..	tooth	89	t uː θ
+
+176	Swedish..	tree	90	t	r	-	ɛː	d
+176	Danish...	tree	90	t	ʁ	-	ɛˀ	-
+176	Icelandic	tree	90	tʰ	r	j	ɛː	-
+176	English..	tree	90	t	r	-	iː	-
+176	Norwegian	tree	90	t	ɾ	-	eː	-
+177	German...	tree	90	b	au	m
+177	Dutch....	tree	90	b	oː	m
+178	Icelandic	tree	90	v ɪː ð ʏ r
+
+179	Swedish..	two	91	t	v	oː	-
+179	Icelandic	two	91	tʰ	v	ei	r
+179	German...	two	91	t͡s	v	ai	-
+179	Dutch....	two	91	t	ʋ	eː	-
+180	Danish...	two	91	t	oˀ
+180	English..	two	91	t	uː
+180	Norwegian	two	91	t	uː
+
+181	Swedish..	walk (V)	92	g	oː	-
+181	Danish...	walk (V)	92	g	ɔˀ	-
+181	German...	walk (V)	92	ɡ	eːə	n
+181	English..	walk (V)	92	ɡ	əʊ	-
+181	Norwegian	walk (V)	92	g	oː	-
+181	Dutch....	walk (V)	92	x	aː	n
+182	Icelandic	walk (V)	92	f aː r a
+
+183	Swedish..	warm	93	v	a	rː	m
+183	Danish...	warm	93	v	ɑˀ	-	m
+183	German...	warm	93	v	a	r	m
+183	English..	warm	93	ʋ	ɔː	r	m
+183	Norwegian	warm	93	ʋ	ɑ	ɾ	m
+183	Dutch....	warm	93	ʋ	ɑ	r	m
+184	Icelandic	warm	93	l̥ iː r
+
+185	Swedish..	water	94	v	a	tː	e	n
+185	Danish...	water	94	v	a	-	-	nˀ
+185	Icelandic	water	94	v	aʰ	t	-	n̥
+185	Norwegian	water	94	ʋ	ɑ	-	-	n
+186	German...	water	94	v	a	s	ə	r
+186	English..	water	94	ʋ	ɔː	t	ə	r
+186	Dutch....	water	94	ʋ	aː	t	ə	r
+
+187	Swedish..	we	95	v	iː	-
+187	Danish...	we	95	v	iˀ	-
+187	Icelandic	we	95	v	ɪː	ð
+187	German...	we	95	v	iː	r
+187	English..	we	95	ʋ	iː	-
+187	Norwegian	we	95	ʋ	iː	-
+187	Dutch....	we	95	ʋ	ɛɪ	-
+
+188	Swedish..	what	96	v	ɑ	d
+188	Danish...	what	96	v	a	-
+188	German...	what	96	v	a	s
+188	English..	what	96	ʋ	ɔ	t
+188	Norwegian	what	96	ʋ	ɑː	-
+188	Dutch....	what	96	ʋ	ɑ	t
+189	Icelandic	what	96	xʷ aː ð
+
+190	Swedish..	white	97	v	iː	t
+190	Danish...	white	97	v	i	ðˀ
+190	German...	white	97	v	ai	s
+190	English..	white	97	ʋ	aɪ	t
+190	Norwegian	white	97	ʋ	iː	t
+190	Dutch....	white	97	ʋ	ɪ	t
+191	Icelandic	white	97	xʷ iː t ʏ r
+
+192	Swedish..	who	98	v	e	m
+192	Danish...	who	98	v	ɛ	mˀ
+192	Norwegian	who	98	ʋ	e	m
+193	Icelandic	who	98	xʷ	ɛː	r
+193	German...	who	98	v	eː	r
+194	English..	who	98	h uː
+195	Dutch....	who	98	ʋ iː
+
+196	Swedish..	woman	99	k	v	i	nː	a
+196	Danish...	woman	99	k	v	e	n	ə
+196	Icelandic	woman	99	kʰ	-	ɔː	n	a
+196	Norwegian	woman	99	k	ʋ	i	n	ə
+197	German...	woman	99	f	r	au	-
+197	Dutch....	woman	99	v	r	ɑu	ʋ
+198	English..	woman	99	ʋ ʊ m ə n
+199	German...	woman	99	v ai p
+
+200	Swedish..	yellow	100	g	uː	l	-	-
+200	Danish...	yellow	100	g	uˀ	l	-	-
+200	Icelandic	yellow	100	k	ʏː	l	ʏ	r
+200	German...	yellow	100	ɡ	ɛ	l	-	p
+200	Norwegian	yellow	100	g	ʉː	l	-	-
+200	Dutch....	yellow	100	x	eː	l	-	-
+201	English..	yellow	100	j ɛ l əʊ
+
+202	Swedish..	far	101	l	o	ŋ
+202	Icelandic	far	101	l	a	ŋ
+202	Danish...	far	101	l	ɑ	ŋˀ
+203	Danish...	far	101	f	j	æ	ʁˀ	-	n
+203	German...	far	101	f	-	ɛ	r	-	n
+203	English..	far	101	f	-	ɑː	r	-	-
+203	Dutch....	far	101	v	-	ɛ	r	-	-
+203	Swedish..	far	101	f	j	ɛ	rː	a	n
+204	Norwegian	far	101	b u ʈ
+
+205	Swedish..	heavy	102	s	v	oː	r
+205	German...	heavy	102	ʃ	v	eː	r
+205	Dutch....	heavy	102	z	ʋ	aː	r
+205	Danish...	heavy	102	s	v	ɛˀ	ʁ
+206	Danish...	heavy	102	t	ɔ	ŋˀ
+206	Norwegian	heavy	102	t	u	ŋ
+206	Swedish..	heavy	102	t	u	ŋː
+207	Icelandic	heavy	102	θ u ŋ k ʏ r
+208	English..	heavy	102	h ɛ v ɪ
+
+209	Swedish..	near	103	n	ɛː	r	a
+209	Danish...	near	103	n	ɛˀ	ʁ	-
+209	Icelandic	near	103	n	auː	-	-
+209	German...	near	103	n	aːə	-	-
+209	English..	near	103	n	ɪə	r	-
+209	Norwegian	near	103	n	æː	ɾ	-
+210	Dutch....	near	103	n aː b ɛɪ
+211	English..	near	103	k l əʊ s
+212	Dutch....	near	103	d ɪ ɣ d b ɛɪ
+
+213	Swedish..	salt	104	s	a	lː	t
+213	Danish...	salt	104	s	a	lˀ	d
+213	Icelandic	salt	104	s	a	l̥	t
+213	German...	salt	104	z	a	l	t͡s
+213	English..	salt	104	s	ɔː	l	t
+213	Norwegian	salt	104	s	ɑ	l	t
+213	Dutch....	salt	104	z	ɑu	-	t
+
+214	Swedish..	short	105	k	ɔ	r	t
+214	Danish...	short	105	k	ɒː	-	d
+214	German...	short	105	k	ʊ	r	t͡s
+214	English..	short	105	ʃ	ɔː	r	t
+214	Norwegian	short	105	k	ɔ	-	ʈ
+214	Dutch....	short	105	k	ɔ	r	t
+215	Icelandic	short	105	s t ʏʰ t ʏ r
+
+216	Swedish..	snake	106	o	rː	m
+216	Norwegian	snake	106	ɔ	ɾ	m
+217	Danish...	snake	106	s	l	ɑ	ŋ	ə
+217	German...	snake	106	ʃ	l	a	ŋ	ə
+217	Dutch....	snake	106	s	l	ɑ	ŋ	-
+217	Norwegian	snake	106	ʃ	l	ɑ	ŋ	ə
+218	Icelandic	snake	106	s t͡l au ŋ k a
+219	English..	snake	106	s n eɪ k
+
+220	Swedish..	thin	107	s	m	a	l
+220	Danish...	thin	107	s	m	a	lˀ
+220	Norwegian	thin	107	s	m	ɑː	l
+221	Danish...	thin	107	t	ø	nˀ	-	-
+221	Icelandic	thin	107	θ	ʏ	nː	ʏ	r
+221	German...	thin	107	d	ʏ	n	-	-
+221	English..	thin	107	θ	ɪ	n	-	-
+221	Norwegian	thin	107	t	y	n	-	-
+221	Swedish..	thin	107	t	u	nː	-	-
+221	Dutch....	thin	107	d	ʉ	n	-	-
+222	Dutch....	thin	107	f ɛɪ n
+
+223	Swedish..	wind	108	v	i	n	d	-	-
+223	Danish...	wind	108	v	e	nˀ	-	-	-
+223	Icelandic	wind	108	v	ɪ	n	t	ʏ	r
+223	German...	wind	108	v	ɪ	n	t	-	-
+223	English..	wind	108	ʋ	ɪ	n	d	-	-
+223	Norwegian	wind	108	ʋ	i	n	-	-	-
+223	Dutch....	wind	108	ʋ	ɪ	n	t	-	-
+
+224	Swedish..	worm	109	m	a	sː	k	-	-
+224	Norwegian	worm	109	m	ɑ	ɾ	k	-	-
+224	Icelandic	worm	109	m	a	θ	k	ʏ	r
+225	Danish...	worm	109	-	o	ʁˀ	m	-	-
+225	Icelandic	worm	109	-	ɔ	r	m	ʏ	r
+225	German...	worm	109	v	ʊ	r	m	-	-
+225	English..	worm	109	ʋ	ɜː	r	m	-	-
+225	Dutch....	worm	109	ʋ	ɔ	r	m	-	-
+226	Dutch....	worm	109	m aː d ə
+
+227	Swedish..	year	110	-	oː	r
+227	Danish...	year	110	-	ɒˀ	ʁ
+227	Icelandic	year	110	-	auː	r
+227	German...	year	110	j	aː	r
+227	English..	year	110	j	ɪə	r
+227	Norwegian	year	110	-	oː	ɾ
+227	Dutch....	year	110	j	aː	r

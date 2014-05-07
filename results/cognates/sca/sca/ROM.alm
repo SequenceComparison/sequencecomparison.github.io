@@ -1,0 +1,700 @@
+ROM
+
+1	Romanian..	all	1	t	o	t	-
+1	Portuguese	all	1	t	o	d	u
+1	French....	all	1	t	u	-	-
+1	Italian...	all	1	t	u	tː	o
+1	Spanish...	all	1	t	o	ð	o
+2	Italian...	all	1	i	n	t	ɛ	r	o	-
+2	Spanish...	all	1	e	n	t	e	r	o	-
+2	Romanian..	all	1	ɨ	n	t	-	r	e	g
+3	French....	all	1	ɑ̃ t j e
+
+4	Romanian..	ashes	2	ʧ	e	n	u	ʃ	ə
+4	Italian...	ashes	2	ʧ	e	n	e	r	e
+4	Spanish...	ashes	2	θ	e	n	i	θ	a
+5	Portuguese	ashes	2	s ĩ z ɐ
+6	French....	ashes	2	s ɑ̃ d ʁ
+
+7	Romanian..	bark	3	s k w a r ʦ ə
+8	Portuguese	bark	3	k a ʃ k ɐ
+9	Italian...	bark	3	k	o	r	t	e	ʧː	a
+9	Spanish...	bark	3	k	o	ɾ	t	e	θ	a
+10	French....	bark	3	e k ɔ ʁ s
+
+11	Romanian..	belly	4	p	ə	n	t	e	ʦ	e
+11	Italian...	belly	4	p	a	n	-	-	ʧ	a
+12	Portuguese	belly	4	v	-	ẽ	-	t	r	ə
+12	French....	belly	4	v	-	ɑ̃	-	t	ʁ	-
+12	Spanish...	belly	4	b	j	e	n	t	r	e
+12	Italian...	belly	4	v	-	ɛ	n	t	r	e
+13	Portuguese	belly	4	b ɐ ʀ i g ɐ
+
+14	Romanian..	big	5	m a r e
+15	Portuguese	big	5	g	r	ɐ̃	-	d	ə
+15	Italian...	big	5	ɡ	r	a	n	d	e
+15	French....	big	5	ɡ	ʁ	ã	-	-	-
+15	Spanish...	big	5	ɡ	ɾ	a	n	d	e
+
+16	Romanian..	bird	6	p	a	s	ə	r	e
+16	Spanish...	bird	6	p	a	x	a	r	o
+16	Portuguese	bird	6	p	a	s	ɐ	r	u
+17	Portuguese	bird	6	a	v	ə
+17	Spanish...	bird	6	a	v	e
+18	Italian...	bird	6	u ʧː ɛ lː o
+19	French....	bird	6	w a z o
+
+20	Romanian..	bite (V)	7	m u ʃ k a
+21	Portuguese	bite (V)	7	m	u	r	d	e	r	-
+21	Italian...	bite (V)	7	m	ɔ	r	d	e	r	e
+21	French....	bite (V)	7	m	ɔ	ʁ	d	-	ʁ	-
+21	Spanish...	bite (V)	7	m	o	ɾ	ð	e	ɾ	-
+
+22	Romanian..	black	8	n	e	ɡ	r	u
+22	Italian...	black	8	n	e	-	r	o
+22	Spanish...	black	8	n	e	ɣ	ɾ	o
+23	Portuguese	black	8	p r e t u
+24	French....	black	8	n w a ʁ
+
+25	Romanian..	blood	9	s	ɨ	n	ʤ	-	e
+25	Portuguese	blood	9	s	ɐ̃	-	g	-	ə
+25	Italian...	blood	9	s	a	ŋ	ɡ	w	e
+25	Spanish...	blood	9	s	a	ŋ	ɡ	ɾ	e
+26	French....	blood	9	s ɑ̃
+
+27	Romanian..	bone	10	-	o	s	-
+27	Portuguese	bone	10	-	o	s	u
+27	Italian...	bone	10	-	ɔ	sː	o
+27	French....	bone	10	-	ɔ	s	-
+27	Spanish...	bone	10	w	e	s	o
+
+28	Romanian..	breast	11	p j e p t
+29	Portuguese	breast	11	p	ɐ	j	t	u
+29	Italian...	breast	11	p	ɛ	-	tː	o
+29	Spanish...	breast	11	p	e	-	ʧ	o
+30	Italian...	breast	11	s	e	n	o
+30	Spanish...	breast	11	s	e	n	o
+30	Romanian..	breast	11	s	ɨ	n	-
+30	Portuguese	breast	11	s	ɐ	j	u
+30	French....	breast	11	s	ɛ̃	-	-
+31	French....	breast	11	p w a t ʁ i n
+
+32	Romanian..	burn (V)	12	a r d e
+33	Portuguese	burn (V)	12	k	ɐ	j	m	a	r
+33	Spanish...	burn (V)	12	k	e	-	m	a	ɾ
+34	Italian...	burn (V)	12	b	r	u	ʧː	a	r	e
+34	French....	burn (V)	12	b	ʁ	y	-	-	l	e
+
+35	Romanian..	claw	13	u	n	g	j	e
+35	Italian...	claw	13	u	n	ɡ	j	a
+36	Portuguese	claw	13	u	ɲ	ɐ
+36	Spanish...	claw	13	u	ɲ	a
+37	French....	claw	13	ɔ̃ ɡ l
+
+38	Romanian..	cloud	14	n o r
+39	Portuguese	cloud	14	n	u	v	ɐ̃	j	-
+39	Italian...	cloud	14	n	u	v	o	l	a
+39	Spanish...	cloud	14	n	u	β	e	-	-
+40	French....	cloud	14	n ɥ a j
+
+41	Romanian..	cold	15	r e ʧ e
+42	Portuguese	cold	15	f	r	i	w	-
+42	Italian...	cold	15	f	r	e	dː	o
+42	French....	cold	15	f	ʁ	-	w	a
+42	Spanish...	cold	15	f	r	i	-	o
+42	Romanian..	cold	15	f	r	i	g	-
+
+43	Romanian..	come (V)	16	v	e	n	i	-	-
+43	Italian...	come (V)	16	v	e	n	i	r	e
+43	French....	come (V)	16	v	ə	n	i	ʁ	-
+43	Spanish...	come (V)	16	b	e	n	i	ɾ	-
+44	Portuguese	come (V)	16	v i r
+
+45	Romanian..	die (V)	17	m	u	r	i	-	-
+45	Portuguese	die (V)	17	m	u	ʀ	e	r	-
+45	Italian...	die (V)	17	m	o	r	i	r	e
+45	French....	die (V)	17	m	u	ʁ	i	ʁ	-
+45	Spanish...	die (V)	17	m	o	ɾ	i	ɾ	-
+
+46	Romanian..	dog	18	k	ɨ	j	n	e
+46	Italian...	dog	18	k	a	-	n	e
+47	Portuguese	dog	18	k ɐ̃uː
+48	French....	dog	18	ʃ j ɛ̃
+49	Spanish...	dog	18	p e r o
+
+50	Romanian..	drink (V)	19	b	e	-	a	-	-
+50	Portuguese	drink (V)	19	b	ə	b	e	r	-
+50	Italian...	drink (V)	19	b	-	-	e	r	e
+50	French....	drink (V)	19	b	-	w	ɑ	ʁ	-
+50	Spanish...	drink (V)	19	b	e	β	e	ɾ	-
+
+51	Romanian..	dry	20	s	e	k	-
+51	Portuguese	dry	20	s	e	k	u
+51	Italian...	dry	20	s	e	kː	o
+51	French....	dry	20	s	ɛ	k	-
+51	Spanish...	dry	20	s	e	k	o
+52	Romanian..	dry	20	u	s	k	a	t	-
+52	Portuguese	dry	20	ẽ	ʃ	-	u	t	u
+52	Italian...	dry	20	a	ʃː	-	u	tː	o
+
+53	Romanian..	ear 1	21	u	r	e	k	-	e
+53	Portuguese	ear 1	21	o	r	e	ʎ	-	ɐ
+53	Italian...	ear 1	21	ɔ	r	e	kː	j	o
+53	French....	ear 1	21	ɔ	ʁ	ɛ	j	-	-
+53	Spanish...	ear 1	21	o	ɾ	e	x	-	a
+
+54	Romanian..	earth	22	p ə m ɨ n t
+55	Portuguese	earth	22	t	-	ɛ	ʀ	ɐ
+55	Italian...	earth	22	t	-	ɛ	rː	a
+55	French....	earth	22	t	-	ɛ	ʁ	-
+55	Spanish...	earth	22	t	j	e	r	a
+
+56	Romanian..	eat (V)	23	m	ɨ	n	k	a	-	-
+56	Italian...	eat (V)	23	m	a	n	ʤ	a	r	e
+57	Portuguese	eat (V)	23	k	u	m	e	r
+57	Spanish...	eat (V)	23	k	o	m	e	ɾ
+58	French....	eat (V)	23	m ɑ̃ ʒ e
+
+59	Romanian..	egg	24	-	o	w	-
+59	Portuguese	egg	24	-	o	v	u
+59	Italian...	egg	24	w	ɔ	v	o
+59	French....	egg	24	-	œ	f	-
+59	Spanish...	egg	24	w	e	β	o
+
+60	Romanian..	eye	25	o	k	-	i
+60	Italian...	eye	25	ɔ	kː	j	o
+60	Spanish...	eye	25	o	x	-	o
+61	Portuguese	eye	25	o ʎ u
+62	French....	eye	25	œ j
+
+63	Romanian..	fat	26	g	r	ə	s	i	m	e
+63	Italian...	fat	26	ɡ	r	a	sː	o	-	-
+63	French....	fat	26	ɡ	ʁ	ɛ	s	-	-	-
+63	Spanish...	fat	26	ɡ	ɾ	a	s	a	-	-
+64	Portuguese	fat	26	g	u	r	d	u	r	ɐ
+64	Spanish...	fat	26	ɡ	o	ɾ	ð	o	-	-
+
+65	Romanian..	feather	27	p	a	n	ə
+65	Portuguese	feather	27	p	e	n	ɐ
+65	Italian...	feather	27	p	ɛ	nː	a
+66	Italian...	feather	27	p	j	u	m	a
+66	French....	feather	27	p	l	y	m	-
+66	Spanish...	feather	27	p	l	u	m	a
+
+67	Romanian..	fire	28	f	-	o	k	-
+67	Portuguese	fire	28	f	-	o	g	u
+67	Italian...	fire	28	f	w	ɔ	k	o
+67	French....	fire	28	f	-	ø	-	-
+67	Spanish...	fire	28	f	w	e	ɣ	o
+
+68	Romanian..	fish	29	p	-	e	-	ʃ	t	e
+68	Portuguese	fish	29	p	-	ɐ	j	ʃ	-	ə
+68	Italian...	fish	29	p	-	e	-	ʃː	-	e
+68	French....	fish	29	p	w	a	-	s	-	õ
+69	Spanish...	fish	29	p e s k a ð o
+
+70	Romanian..	fly (V)	30	z b u r a
+71	Portuguese	fly (V)	30	v w a r
+72	Italian...	fly (V)	30	v	o	l	a	r	e
+72	French....	fly (V)	30	v	ɔ	l	e	-	-
+72	Spanish...	fly (V)	30	b	o	l	a	ɾ	-
+
+73	Romanian..	foot	31	p i ʧ j o r
+74	Portuguese	foot	31	p	-	ɛ	-	-
+74	Italian...	foot	31	p	j	ɛ	d	e
+74	French....	foot	31	p	j	e	-	-
+74	Spanish...	foot	31	p	j	e	-	-
+
+75	Romanian..	full	32	p	l	i	n	-
+75	French....	full	32	p	l	ɛ̃	-	-
+75	Spanish...	full	32	-	ʎ	e	n	o
+76	Portuguese	full	32	ʃ ɐ j u
+77	Italian...	full	32	p j ɛ n o
+
+78	Romanian..	give (V)	33	d	a	-	-
+78	Portuguese	give (V)	33	d	a	r	-
+78	Italian...	give (V)	33	d	a	r	e
+78	Spanish...	give (V)	33	d	a	ɾ	-
+79	French....	give (V)	33	d ɔ n e
+
+80	Romanian..	good	34	b	u	n
+80	Portuguese	good	34	b	õ	-
+80	French....	good	34	b	ɔ̃	-
+81	Italian...	good	34	b	w	ɔ	n	o
+81	Spanish...	good	34	b	w	e	n	o
+
+82	Romanian..	green	35	v	e	r	d	e
+82	Portuguese	green	35	v	e	r	d	ə
+82	Italian...	green	35	v	e	r	d	e
+82	French....	green	35	v	ɛ	ʁ	-	-
+82	Spanish...	green	35	b	e	ɾ	ð	e
+
+83	Romanian..	hair	36	p ə r
+84	Portuguese	hair	36	k	ɐ	b	e	l	u
+84	Italian...	hair	36	k	a	p	e	lː	o
+84	Spanish...	hair	36	k	a	β	e	ʎ	o
+85	French....	hair	36	ʃ ə v ø
+
+86	Romanian..	hand	37	m	ɨ	n	ə
+86	Italian...	hand	37	m	a	n	o
+86	Spanish...	hand	37	m	a	n	o
+87	Portuguese	hand	37	m	ɐ̃	w
+87	French....	hand	37	m	ɛ̃	-
+
+88	Romanian..	head	38	k	a	p	-	-	-
+88	Portuguese	head	38	k	ɐ	b	e	s	ɐ
+88	Spanish...	head	38	k	a	β	e	θ	a
+89	Italian...	head	38	t	ɛ	s	t	a
+89	French....	head	38	t	ɛ	-	t	-
+
+90	Romanian..	hear (V)	39	a w z i
+91	Portuguese	hear (V)	39	o	v	i	r
+91	Spanish...	hear (V)	39	o	-	i	r
+92	Italian...	hear (V)	39	u	d	i	-	r	e
+92	French....	hear (V)	39	ɑ̃	t	ɑ̃	d	ʁ	-
+
+93	Romanian..	heart	40	i n i m ə
+94	Portuguese	heart	40	k	-	u	r	ɐ	s	õ	-
+94	Italian...	heart	40	k	w	ɔ	r	e	-	-	-
+94	French....	heart	40	k	-	œ	ʁ	-	-	-	-
+94	Spanish...	heart	40	k	-	o	r	a	θ	o	n
+
+95	Romanian..	horn	41	k	-	o	r	n	-
+95	Portuguese	horn	41	k	-	o	r	n	u
+95	Italian...	horn	41	k	-	ɔ	r	n	o
+95	French....	horn	41	k	-	ɔ	ʁ	n	-
+95	Spanish...	horn	41	k	w	e	ɾ	n	o
+
+96	Romanian..	i	42	j o
+97	Portuguese	i	42	e w
+98	Italian...	i	42	io
+99	French....	i	42	ʒ	ə
+99	Spanish...	i	42	ʝ	o
+
+100	Romanian..	kill (V)	43	u	ʧ	i	d	e	-	-
+100	Italian...	kill (V)	43	u	ʧː	i	d	e	r	e
+101	Portuguese	kill (V)	43	m	ɐ	t	a	r
+101	Spanish...	kill (V)	43	m	a	t	a	ɾ
+102	French....	kill (V)	43	t ɥ e
+
+103	Romanian..	knee	44	ʤ	e	n	u	n	kʲ	-	-
+103	Italian...	knee	44	ʤ	i	n	ɔ	-	kː	j	o
+103	French....	knee	44	ʒ	ə	n	u	-	-	-	-
+104	Portuguese	knee	44	-	-	ʒ	uɐ	ʎ	u
+104	Spanish...	knee	44	r	o	ð	i	ʎ	a
+
+105	Romanian..	know (V)	45	ʃ t i
+106	Portuguese	know (V)	45	k	u	ɲ	-	ə	s	-	e	r	-
+106	Italian...	know (V)	45	k	o	n	-	o	ʃː	-	e	r	e
+106	Spanish...	know (V)	45	k	o	n	-	o	θ	-	e	r	-
+106	Romanian..	know (V)	45	k	u	n	w	a	ʃ	t	e	-	-
+106	French....	know (V)	45	k	ɔ	n	-	ɛ	t	-	-	ʁ	-
+107	French....	know (V)	45	s	a	v	w	a	ʁ	-
+107	Portuguese	know (V)	45	s	ɐ	b	-	e	r	-
+107	Italian...	know (V)	45	s	a	p	-	e	r	e
+107	Spanish...	know (V)	45	s	a	β	-	e	ɾ	-
+
+108	Romanian..	leaf	46	f	w	a	j	e
+108	French....	leaf	46	f	-	œ	j	-
+109	Portuguese	leaf	46	f	o	ʎ	ɐ
+109	Italian...	leaf	46	f	ɔ	ʎː	a
+110	Spanish...	leaf	46	o x a
+
+111	Romanian..	lie 1 (V)	47	k u l k a
+112	Portuguese	lie 1 (V)	47	d ɐ j t a r
+113	Italian...	lie 1 (V)	47	ʤ a ʧ e r e
+114	French....	lie 1 (V)	47	k	u	ʃ	-	e	-	-
+114	Spanish...	lie 1 (V)	47	k	o	s	t	a	ð	o
+
+115	Romanian..	liver	48	f	i	k	a	t	-
+115	Portuguese	liver	48	f	i	g	ɐ	d	u
+115	Italian...	liver	48	f	e	ɡ	a	t	o
+115	Spanish...	liver	48	-	i	ɣ	a	ð	o
+116	French....	liver	48	f w ɑ
+
+117	Romanian..	long	49	l	u	ŋ	-	-
+117	Portuguese	long	49	l	õ	g	-	u
+117	Italian...	long	49	l	u	n	ɡ	o
+117	French....	long	49	l	õ	-	-	-
+118	Spanish...	long	49	l a ɾ ɣ o
+
+119	Romanian..	louse	50	p	ə	d	u	k	-	e
+119	Italian...	louse	50	p	i	d	ɔ	kː	j	o
+120	Portuguese	louse	50	p i o ʎ u
+121	French....	louse	50	p u
+122	Spanish...	louse	50	p j o x o
+
+123	Romanian..	man	51	b ə r b a t
+124	Portuguese	man	51	ɔ	m	ɐ̃
+124	Romanian..	man	51	o	m	-
+
+125	Romanian..	many	52	m	u	l	ʦʲ	-
+125	Portuguese	many	52	m	ũ	j̃	t	u
+125	Italian...	many	52	m	o	l	t	o
+125	Spanish...	many	52	m	u	-	ʧ	o
+126	French....	many	52	b o k u
+
+127	Romanian..	meat	53	k	a	r	n	e
+127	Portuguese	meat	53	k	a	r	n	ə
+127	Italian...	meat	53	k	a	r	n	e
+127	Spanish...	meat	53	k	a	ɾ	n	e
+128	French....	meat	53	ʃ ɛ ʁ
+129	French....	meat	53	v j ɑ̃ d
+
+130	Romanian..	moon	54	l	u	n	ə
+130	Portuguese	moon	54	l	uɐ	-	-
+130	Italian...	moon	54	l	u	n	a
+130	French....	moon	54	l	y	n	-
+130	Spanish...	moon	54	l	u	n	a
+
+131	Romanian..	mountain	55	m	u	n	t	e	-	-
+131	Portuguese	mountain	55	m	õ	-	t	ə	-	-
+131	Italian...	mountain	55	m	o	n	t	a	ɲː	a
+131	French....	mountain	55	m	ɔ̃	-	t	a	ɲ	-
+131	Spanish...	mountain	55	m	o	n	t	a	ɲ	a
+
+132	Romanian..	mouth	56	g u r ə
+133	Portuguese	mouth	56	b	o	k	ɐ
+133	Italian...	mouth	56	b	o	kː	a
+133	Spanish...	mouth	56	b	o	k	a
+134	French....	mouth	56	b u ʃ
+
+135	Romanian..	name	57	n	u	m	-	-	e
+135	Portuguese	name	57	n	o	m	-	-	ə
+135	Italian...	name	57	n	o	m	-	-	e
+135	French....	name	57	n	ɔ̃	-	-	-	-
+135	Spanish...	name	57	n	o	m	b	ɾ	e
+
+136	Romanian..	neck	58	g	ɨ	t
+136	French....	neck	58	k	u	-
+137	Portuguese	neck	58	k	-	ɔ	l	u
+137	Italian...	neck	58	k	-	ɔ	lː	o
+137	Spanish...	neck	58	k	w	e	ʎ	o
+
+138	Romanian..	new	59	n	-	o	w	-
+138	Portuguese	new	59	n	-	o	v	u
+138	Italian...	new	59	n	w	ɔ	v	o
+138	French....	new	59	n	-	œ	f	-
+138	Spanish...	new	59	n	w	e	β	o
+
+139	Romanian..	night	60	n w a p t e
+140	Portuguese	night	60	n	o	j	t	ə
+140	Italian...	night	60	n	ɔ	-	tː	e
+140	Spanish...	night	60	n	o	-	ʧ	e
+141	French....	night	60	n ɥ i
+
+142	Romanian..	nose	61	n	a	s	-
+142	Italian...	nose	61	n	a	s	o
+142	French....	nose	61	n	e	-	-
+143	Portuguese	nose	61	n	ɐ	r	i	ʃ
+143	Spanish...	nose	61	n	a	ɾ	i	θ
+
+144	Romanian..	not	62	n	u	-
+144	Portuguese	not	62	n	ɐ̃	w
+144	Italian...	not	62	n	o	n
+144	French....	not	62	n	ə	-
+144	Spanish...	not	62	n	o	-
+
+145	Romanian..	one	63	u	n	u
+145	Italian...	one	63	u	n	o
+145	Spanish...	one	63	u	n	o
+146	Portuguese	one	63	ũ
+146	French....	one	63	œ̃
+
+147	Romanian..	person	64	-	o	m	-
+147	Portuguese	person	64	-	ɔ	m	ɐ̃
+147	Italian...	person	64	w	ɔ	m	o
+147	French....	person	64	-	ɔ	m	-
+148	Spanish...	person	64	o m b ɾ e
+
+149	Romanian..	rain (V)	65	p	l	w	a	j	e
+149	French....	rain (V)	65	p	l	-	-	ɥ	i
+150	Portuguese	rain (V)	65	ʃ u v ɐ
+151	Italian...	rain (V)	65	p j ɔ ʤː a
+152	Spanish...	rain (V)	65	ʎ u β j a
+
+153	Romanian..	red	66	r	o	ʃ	u
+153	Italian...	red	66	r	o	sː	o
+153	Spanish...	red	66	r	o	x	o
+154	Portuguese	red	66	v ə r m e ʎ u
+155	French....	red	66	ʁ u j
+
+156	Romanian..	road	67	k a l e
+157	Portuguese	road	67	ə	ʃ	t	r	a	d	ɐ
+157	Italian...	road	67	-	s	t	r	a	d	a
+158	French....	road	67	ʃ ɛ m ɛ̃
+159	Spanish...	road	67	b	ia
+159	Portuguese	road	67	v	iɐ
+159	Italian...	road	67	v	ia
+
+160	Romanian..	root	68	r	ə	d	ə	ʧ	i	n	ə
+160	Italian...	root	68	r	a	d	i	ʧ	e	-	-
+161	Portuguese	root	68	ʀ	ɐ	i	ʃ
+161	Spanish...	root	68	r	a	i	θ
+162	French....	root	68	ʁ a s i n
+
+163	Romanian..	round	69	r	o	t	u	n	d	-
+163	Portuguese	round	69	ʀ	ə	d	õ	-	d	u
+163	Italian...	round	69	r	o	t	o	n	d	o
+163	Spanish...	round	69	r	e	ð	o	n	d	o
+164	French....	round	69	ʁ ɔ̃
+
+165	Romanian..	sand	70	n	i	s	i	p	-	-
+165	Italian...	sand	70	-	-	s	a	bː	j	a
+165	French....	sand	70	-	-	s	a	b	l	-
+166	Portuguese	sand	70	ɐ	r	ɐ	j	ɐ
+166	Spanish...	sand	70	a	ɾ	e	n	a
+
+167	Romanian..	say (V)	71	z i ʧ e
+168	Portuguese	say (V)	71	d	i	z	e	r	-
+168	Italian...	say (V)	71	d	-	-	i	r	e
+168	French....	say (V)	71	d	-	-	i	ʁ	-
+168	Spanish...	say (V)	71	d	e	θ	i	ɾ	-
+
+169	Romanian..	see (V)	72	v	e	d	ea	-	-
+169	Italian...	see (V)	72	v	e	d	e	r	e
+170	Portuguese	see (V)	72	v	-	e	r
+170	French....	see (V)	72	v	w	a	ʁ
+170	Spanish...	see (V)	72	b	-	e	ɾ
+
+171	Romanian..	seed	73	s	ə	m	ɨ	n	ʦ	ə
+171	Portuguese	seed	73	s	ə	m	ẽ	-	t	ə
+171	Italian...	seed	73	s	e	m	e	-	-	-
+171	French....	seed	73	s	e	m	ɑ̃	-	s	-
+171	Spanish...	seed	73	s	e	m	i	-	ʎ	a
+172	French....	seed	73	ɡ ʁ ɛ n
+
+173	Romanian..	sit (V)	74	ʃ	e	-	d	ea	-	-
+173	Portuguese	sit (V)	74	s	ẽ	-	t	a	r	-
+173	Italian...	sit (V)	74	s	e	-	d	e	r	e
+173	Spanish...	sit (V)	74	s	e	n	t	a	ð	o
+174	French....	sit (V)	74	ɛ t ʁ a s i
+
+175	Romanian..	skin	75	p	j	e	l	e
+175	Portuguese	skin	75	p	-	ɛ	l	ə
+175	Italian...	skin	75	p	-	ɛ	lː	e
+175	Spanish...	skin	75	p	j	e	l	-
+176	French....	skin	75	p o
+177	Portuguese	skin	75	k o r u
+
+178	Romanian..	sleep (V)	76	d	o	r	m	i	-	-
+178	Portuguese	sleep (V)	76	d	u	r	m	i	r	-
+178	Italian...	sleep (V)	76	d	o	r	m	i	r	e
+178	French....	sleep (V)	76	d	ɔ	ʁ	m	i	ʁ	-
+178	Spanish...	sleep (V)	76	d	o	ɾ	m	i	ɾ	-
+
+179	Romanian..	small	77	m i k
+180	Portuguese	small	77	p	ə	k	e	n	u
+180	Italian...	small	77	p	i	kː	o	l	o
+180	Spanish...	small	77	p	e	k	e	ɲ	o
+181	French....	small	77	p ə t i
+
+182	Romanian..	smoke	78	f	u	m	-
+182	Portuguese	smoke	78	f	u	m	u
+182	Italian...	smoke	78	f	u	m	o
+182	French....	smoke	78	f	y	m	e
+182	Spanish...	smoke	78	-	u	m	o
+
+183	Romanian..	stand (V)	79	s	t	a	-	-
+183	Italian...	stand (V)	79	s	t	a	r	e
+
+184	Romanian..	star	80	-	s	t	-	ea	-	-
+184	Portuguese	star	80	ə	ʃ	t	r	e	l	ɐ
+184	Italian...	star	80	-	s	t	-	e	lː	a
+184	Spanish...	star	80	e	s	t	ɾ	e	ʎ	a
+185	French....	star	80	e t w a l
+
+186	Romanian..	stone	81	p	j	a	t	r	ə
+186	Portuguese	stone	81	p	-	ɛ	d	r	ɐ
+186	French....	stone	81	p	j	ɛ	-	ʁ	-
+186	Spanish...	stone	81	p	j	e	ð	ɾ	a
+187	Italian...	stone	81	s a sː o
+
+188	Romanian..	sun	82	s w a r e
+189	Portuguese	sun	82	s	ɔ	l	-	-
+189	Italian...	sun	82	s	o	l	e	-
+189	French....	sun	82	s	ɔ	l	ɛ	j
+189	Spanish...	sun	82	s	o	l	-	-
+
+190	Romanian..	swim (V)	83	ɨ	n	-	o	t	a	-	-
+190	Portuguese	swim (V)	83	-	n	-	ɐ	d	a	r	-
+190	Italian...	swim (V)	83	-	n	w	o	t	a	r	e
+190	French....	swim (V)	83	-	n	-	a	ʒ	e	-	-
+190	Spanish...	swim (V)	83	-	n	-	a	ð	a	ɾ	-
+
+191	Romanian..	tail	84	k	-	w	a	d	ə
+191	Portuguese	tail	84	k	a	w	-	d	ɐ
+191	Italian...	tail	84	k	o	-	-	d	a
+192	French....	tail	84	k	ø	-	-
+192	Spanish...	tail	84	k	o	l	a
+193	Portuguese	tail	84	ʀ	a	b	u
+193	Spanish...	tail	84	r	a	v	o
+
+194	Romanian..	that	85	a	ʧ	-	e	l	-
+194	Portuguese	that	85	ɐ	k	-	e	l	ə
+194	Italian...	that	85	-	k	w	e	lː	o
+194	French....	that	85	-	s	-	ə	l	a
+194	Spanish...	that	85	a	k	-	e	l	-
+
+195	Romanian..	this	86	a	ʧ	-	e	s	t	-
+195	Portuguese	this	86	-	-	-	ə	ʃ	t	ə
+195	Italian...	this	86	-	k	w	e	s	t	o
+195	Spanish...	this	86	-	-	-	e	s	t	e
+196	French....	this	86	s ə s i
+
+197	Romanian..	thou	87	t	u
+197	Portuguese	thou	87	t	u
+197	Italian...	thou	87	t	u
+197	French....	thou	87	t	y
+197	Spanish...	thou	87	t	u
+
+198	Romanian..	tongue	88	l i m b ə
+199	Portuguese	tongue	88	l	ĩ	-	g	w	ɐ
+199	Italian...	tongue	88	l	i	ŋ	ɡ	w	a
+199	French....	tongue	88	l	ɑ̃	-	ɡ	-	-
+199	Spanish...	tongue	88	l	e	ŋ	ɡ	w	a
+
+200	Romanian..	tooth	89	d	-	i	n	t	e
+200	Portuguese	tooth	89	d	-	ẽ	-	t	ə
+200	Italian...	tooth	89	d	-	ɛ	n	t	e
+200	Spanish...	tooth	89	d	j	e	n	t	e
+201	French....	tooth	89	d ɑ̃
+
+202	Romanian..	tree	90	a	r	b	o	r	e
+202	Portuguese	tree	90	a	r	v	u	r	ə
+202	Italian...	tree	90	a	l	b	e	r	o
+202	French....	tree	90	a	ʁ	b	-	ʁ	-
+202	Spanish...	tree	90	a	r	v	o	l	-
+
+203	Romanian..	two	91	d	o	j
+203	Portuguese	two	91	d	oi	ʃ
+203	Italian...	two	91	d	ue	-
+203	French....	two	91	d	ø	-
+203	Spanish...	two	91	d	o	s
+
+204	Romanian..	walk (V)	92	u m b l a
+205	Portuguese	walk (V)	92	ɐ̃	-	d	a	r	-
+205	Spanish...	walk (V)	92	a	n	d	a	r	-
+205	Italian...	walk (V)	92	a	n	d	a	r	e
+206	Italian...	walk (V)	92	v	o
+206	French....	walk (V)	92	v	ɛ
+206	Spanish...	walk (V)	92	b	oi
+207	French....	walk (V)	92	a l e
+
+208	Romanian..	warm	93	k	a	l	-	d	-
+208	Portuguese	warm	93	k	ẽ	-	-	t	ə
+208	Spanish...	warm	93	k	a	l	i	ð	o
+209	Italian...	warm	93	t ie p i d o
+210	French....	warm	93	ʃ o
+
+211	Romanian..	water	94	a p ə
+212	Portuguese	water	94	a	g	w	ɐ
+212	Italian...	water	94	a	kː	w	a
+212	Spanish...	water	94	a	ɣ	w	a
+213	French....	water	94	o
+
+214	Romanian..	we	95	n	o	j
+214	Portuguese	we	95	n	ɔ	ʃ
+214	Italian...	we	95	n	oi	-
+214	French....	we	95	n	u	-
+215	Spanish...	we	95	n o s o t ɾ o s
+
+216	Romanian..	what	96	ʧ	e
+216	Portuguese	what	96	k	ə
+216	Italian...	what	96	k	e
+216	Spanish...	what	96	k	e
+217	French....	what	96	k w a
+
+218	Romanian..	white	97	a	l	b	-
+218	Portuguese	white	97	a	l	v	u
+219	Italian...	white	97	b	j	a	n	k	o
+219	Spanish...	white	97	b	l	a	ŋ	k	o
+220	French....	white	97	b l ɑ̃
+
+221	Romanian..	who	98	ʧ i n e
+222	Portuguese	who	98	k	ɐ̃	j
+222	Italian...	who	98	k	i	-
+222	French....	who	98	k	i	-
+223	Spanish...	who	98	k j e n
+
+224	Romanian..	woman	99	f	e	m	e	j	e
+224	French....	woman	99	f	a	m	-	-	-
+225	Portuguese	woman	99	m	u	ʎ	ɛ	r
+225	Spanish...	woman	99	m	u	x	e	ɾ
+226	Italian...	woman	99	d ɔ nː a
+
+227	Romanian..	yellow	100	ɡ a l b e n
+228	Portuguese	yellow	100	ɐ	m	ɐ	r	ɛ	l	u
+228	Spanish...	yellow	100	a	m	a	ɾ	i	ʎ	o
+229	Italian...	yellow	100	ʤ a lː o
+230	French....	yellow	100	ʒ o n
+
+231	Romanian..	far	101	d e p ə r t e
+232	Portuguese	far	101	l	õ	ʒ	ə	-	-
+232	Spanish...	far	101	l	e	x	a	n	o
+233	Italian...	far	101	l o n t a n o
+234	French....	far	101	l w ɛ̃
+
+235	Romanian..	heavy	102	g r e w
+236	Portuguese	heavy	102	p	ə	z	a	-	d	u
+236	Italian...	heavy	102	p	e	s	a	n	t	e
+236	Spanish...	heavy	102	p	e	s	a	-	ð	o
+237	French....	heavy	102	l u ʁ
+
+238	Romanian..	near	103	a	p	r	o	p	ia	-	-
+238	Portuguese	near	103	-	p	r	ɔ	s	i	m	u
+238	Italian...	near	103	-	p	r	o	sː	i	m	o
+238	French....	near	103	-	p	r	ɔ	ʃ	-	-	-
+239	Spanish...	near	103	θ e r k a
+
+240	Romanian..	salt	104	s	a	r	e
+240	Portuguese	salt	104	s	a	l	-
+240	Italian...	salt	104	s	a	l	e
+240	French....	salt	104	s	ɛ	l	-
+240	Spanish...	salt	104	s	a	l	-
+
+241	Romanian..	short	105	s	k	u	r	t	-
+241	Portuguese	short	105	-	k	u	r	t	u
+241	French....	short	105	-	k	u	ʁ	-	-
+241	Spanish...	short	105	-	k	o	ɾ	t	o
+241	Italian...	short	105	-	k	o	r	t	o
+242	Italian...	short	105	b	r	ɛ	v	e
+242	Portuguese	short	105	b	r	ɛ	v	ə
+242	French....	short	105	b	ʁ	ɛ	f	-
+242	Spanish...	short	105	b	r	e	v	e
+
+243	Romanian..	snake	106	ʃ	a	r	p	-	e	-	-	-
+243	Portuguese	snake	106	s	ə	r	p	-	ẽ	-	t	ə
+243	Italian...	snake	106	s	ɛ	r	p	-	ɛ	n	t	e
+243	French....	snake	106	s	ɛ	ʁ	p	-	ɑ̃	-	-	-
+243	Spanish...	snake	106	s	e	ɾ	p	j	e	n	t	e
+244	Spanish...	snake	106	k	u	l	e	v	r	a
+244	Portuguese	snake	106	k	-	-	ɔ	b	r	ɐ
+
+245	Romanian..	thin	107	s	u	b	ʦ	i	r	e
+245	Italian...	thin	107	s	o	-	tː	i	l	e
+245	Spanish...	thin	107	s	u	-	t	i	l	-
+246	Portuguese	thin	107	f	i	n	u
+246	Italian...	thin	107	f	i	n	e
+246	Romanian..	thin	107	f	i	n	-
+247	French....	thin	107	m ɛ̃ s
+248	Spanish...	thin	107	d	e	l	ɣ	a	ð	o
+248	Portuguese	thin	107	d	ɛ	l	g	a	d	u
+
+249	Romanian..	wind	108	v	-	ɨ	n	t	-
+249	Portuguese	wind	108	v	-	ẽ	-	t	u
+249	Italian...	wind	108	v	-	ɛ	n	t	o
+249	Spanish...	wind	108	b	j	e	n	t	o
+250	French....	wind	108	v ɑ̃
+
+251	Romanian..	worm	109	v	j	e	r	m	e
+251	Portuguese	worm	109	v	-	ɛ	r	m	ə
+251	Italian...	worm	109	v	-	ɛ	r	m	e
+251	French....	worm	109	v	-	ɛ	ʁ	-	-
+251	Spanish...	worm	109	b	-	e	r	m	e
+
+252	Romanian..	year	110	a	n	-
+252	Portuguese	year	110	ɐ	n	u
+252	Italian...	year	110	a	nː	o
+252	Spanish...	year	110	a	ɲ	o
+253	French....	year	110	ɑ̃

@@ -1,3 +1,19 @@
+var myfiles = [
+"BAI.csv",
+"GER.csv",
+"IDS.csv",
+"IEL.csv",
+"JAP.csv",
+"KSL.csv",
+"OUG.csv",
+"PAN.csv",
+"PIE.csv",
+"ROM.csv",
+"SIN.csv",
+"SLV.csv"
+];
+var mymodes = ["edit-tokens", "lexstat", "sca", "turchin"];
+
 function storeText(data)
 {
   var store = document.getElementById("store");
@@ -82,6 +98,92 @@ function toggleData(source)
     
     show.innerHTML = text;
   }
+  else if(source=="acd")
+  {
+    document.getElementById('acd').style.fontWeight = "bold";
+    var text = '<select class="selector" size="12" onclick="browseCSV(this.value)" onchange="browseCSV(this.value)">';
+    for(var i=0,f;f=myfiles[i];i++)
+    {
+      var myfile = 'benchmark/cognates/'+f;
+      text += '<option value="'+myfile+'">'+f+'</option>';
+    }
+    text += '</select>';
+    show.innerHTML = text;
+  }
+  else if(source=="racd")
+  {
+    document.getElementById('racd').style.fontWeight = "bold";
+    var text = '<select class="selector" size="6" onclick="showCSV(this.value)" onchange="showCSV(this.value)">';
+    for(var i=0,f;f=mymodes[i];i++)
+    {
+      var myfile = 'results/cognates/'+f;
+      text += '<option value="'+myfile+'">'+f+'</option>';
+    }
+    text += '</select>';
+    show.innerHTML = text;
+  }
+}
+
+function showCSV(path)
+{
+  var show = document.getElementById('puffer');
+  var text = '<select class="selector" size="12" onclick="browseCSV(this.value)" onchange="browseCSV(this.value)">';
+  for(var i=0,f;f=myfiles[i];i++)
+  {
+    var myfile = path+'/'+f;
+    text += '<option value="'+myfile+'">'+f+'</option>';
+  }
+  text += '</select>';
+  show.innerHTML = text;
+}
+
+function browseCSV(url)
+{
+  loadFile(url, false);
+  var store = document.getElementById('store');
+  var data = store.innerText;
+  var lines = data.split('\n');
+  var text = '<table style="border:2px solid black">';
+  var head = 0;
+  for(var i=0,line;line=lines[i];i++)
+  {
+    if(line[0] != '#')
+    {
+      if(head != 0)
+      {
+	text += '<tr style="border:1px solid black;">';
+	points = line.split('\t');
+	for(var j=0,p; p = points[j];j++)
+	{
+	  text += '<td style="border:1px solid gray;" class="'+header[j]+'">'+p+'</td>';
+	}
+	text += '</tr>';
+      }
+      else
+      {
+	var headline = line.split('\t');
+	var header = {};
+	text += '<tr id="headline" style="border:1px solid black;">'
+	for(var j=0,h;h=headline[j];j++)
+	{
+	  header[j] = h;
+	  text += '<th style="font-weight:bold;border:1px solid gray;">'+h+'</th>';
+	}
+	head = 1;
+      }
+    }
+    else
+    {
+      if(head != 0)
+      {
+	text += '<tr style="border:1px solid black;background-color:lightgray;"><td colspan="'+headline.length+'"><hr width="100%" style="color:white;"></td></tr>';
+      }
+    }
+  }
+
+  var show = document.getElementById('msa');
+  show.innerHTML = text;
+  window.location.hash = '#headline';
 }
 
 function selectMSA(url)

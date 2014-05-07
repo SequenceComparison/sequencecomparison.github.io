@@ -1,0 +1,2932 @@
+# SIN
+ID	Languages	Gloss	GlossId	Ortho	IPA	CogID
+# 
+1	Meixian	sun	1	日头	ŋit¹tʰew¹¹	1
+2	Changsha	sun	1	太阳	tʰaj⁵⁵jan¹³	2
+3	Changsha	sun	1	日头	ʐʅ²⁴təw	5
+4	Guixian	sun	1	太阳	tʰaj²¹³jaŋ²¹	2
+5	Xiamen	sun	1	日头	lit⁵tʰaw	1
+6	Xiamen	sun	1	太阳	tʰaj²¹jɔŋ³⁵	2
+7	Hefei	sun	1	太阳	tʰᴇ⁵³jɑ̃	2
+8	Hefei	sun	1	日头	ʐəʔ⁵tʰɯ	5
+9	Jinan	sun	1	太阳	tʰɛ²¹jaŋ	2
+10	Jinan	sun	1	老爷爷儿	lɔ⁵⁵jə⁴²jər⁴²	6
+11	Jinan	sun	1	日头	ʐʅ²¹tʰow	5
+12	Hangzhou	sun	1	太阳	tʰᴇ⁴⁴⁵ɦjɑŋ²¹³	2
+13	Guangzhou	sun	1	热头	jit²tʰɐw²¹	1
+14	Guangzhou	sun	1	太阳	tʰaj³³jœŋ²¹	2
+15	Nanchang	sun	1	太阳	tʰaj²¹³iŋ⁰⁴	2
+16	Nanchang	sun	1	日头	ȵiʔ⁵tʰu⁰²	1
+17	Chengdu	sun	1	太阳	tʰaj¹³jaŋ³¹	2
+18	Taiyuan	sun	1	阳婆	jɒ̃¹¹pʰɒ̃¹¹	3
+19	Taiyuan	sun	1	太阳	taj⁴⁵jɒ̃¹¹	2
+20	Shexian	sun	1	日头	ni²²tʰju⁴⁴	1
+21	Shexian	sun	1	太阳	tʰa³²⁴ja⁴⁴	2
+22	Beijing	sun	1	太阳	tʰaj⁵¹jɑŋ¹	2
+23	Beijing	sun	1	老爷儿	lɑw²¹⁴ir³⁵	4
+24	Beijing	sun	1	日头	ʐʅ⁵¹tʰow¹	5
+25	Kunming	sun	1	太阳	tʰæ²¹²jᴀ̃³¹	2
+26	Kunming	sun	1	热头	ʐə³¹tʰəw³¹	5
+27	Shanghai	sun	1	太阳	tʰa³⁴ɦjã¹³	2
+28	Shanghai	sun	1	日头	ȵjɪʔ¹dɤ¹³	1
+# 
+29	Meixian	moon	2	月光	ŋjat⁵kwoŋ⁴⁴	8
+30	Changsha	moon	2	月亮	ɥe²⁴ljan¹¹	7
+31	Changsha	moon	2	月亮菩萨	ɥe²⁴ljan⁵⁵pu¹³sa²⁴	7
+32	Changsha	moon	2	月亮巴巴	ɥe²⁴ljan⁵⁵pa³³pa	7
+33	Guixian	moon	2	月亮	jɛ²¹ljaŋ²¹³	7
+34	Xiamen	moon	2	月	geʔ⁵	11
+35	Xiamen	moon	2	月娘	geʔ⁵nju³⁵	11
+36	Hefei	moon	2	月亮	ɥɐʔ⁵ljɑ̃⁵³	7
+37	Jinan	moon	2	月亮	ɥə²¹ljaŋ	7
+38	Hangzhou	moon	2	月亮	ɦɥəʔ²ljɑŋ¹³	7
+39	Guangzhou	moon	2	月光	jyt²kwɔŋ⁵⁵	8
+40	Guangzhou	moon	2	月亮	jyt²lœŋ²²	7
+41	Nanchang	moon	2	月光	ȵɥɵʔ²kwɔŋ⁴²	8
+42	Chengdu	moon	2	月亮	ɥe³¹njaŋ¹³	7
+43	Taiyuan	moon	2	月明	ɥəʔ²mi⁴⁵	10
+44	Taiyuan	moon	2	月亮	ɥəʔ²ljɒ̃⁴⁵	7
+45	Shexian	moon	2	月亮	we²²lja²²	9
+46	Beijing	moon	2	月亮	ɥɛ⁵¹ljɑŋ¹	7
+47	Kunming	moon	2	月亮	jɛ³¹ljᴀ̃²¹²	7
+48	Kunming	moon	2	太阴	tʰæ²¹²ĩ⁴⁴	12
+49	Shanghai	moon	2	月亮	ɦɥɪʔ¹ljã¹³	7
+50	Shanghai	moon	2	月光	ɦɥɪʔ¹kwɑ̃⁵³	8
+# 
+51	Meixian	star	3	星儿	sen⁴⁴ne	13
+52	Changsha	star	3	星子	sin³³ʦɿ	13
+53	Guixian	star	3	星宿	ɕin⁵⁵ɕju²¹³	13
+54	Xiamen	star	3	星	ʦʰĩ⁵⁵	15
+55	Hefei	star	3	星	ɕin²¹	13
+56	Jinan	star	3	星	ɕiŋ²¹³	13
+57	Hangzhou	star	3	星	ɕin³³	13
+58	Guangzhou	star	3	星	seŋ⁵⁵	13
+59	Nanchang	star	3	星子	sjɑŋ⁴²ʦɿ⁰²	13
+60	Chengdu	star	3	星星儿	ɕin⁵⁵ɕir⁵⁵	13
+61	Taiyuan	star	3	星宿	ɕi¹¹ɕjəwiəu⁴⁵	13
+62	Shexian	star	3	天星	tʰe³¹sjʌ̃³¹	14
+63	Beijing	star	3	星星	ɕiŋ⁵⁵ɕiŋ²	13
+64	Kunming	star	3	星宿	ɕĩ⁴⁴ɕjəwiəu²¹²	13
+65	Shanghai	star	3	星	ɕiŋ⁵³	13
+# 
+66	Meixian	thunder	4	响雷公	hjoŋ³¹lwi¹¹kuŋ⁴⁴	18
+67	Changsha	thunder	4	打雷	ta⁴¹lej¹³	16
+68	Guixian	thunder	4	打雷	ta⁴²lwejuei²¹	17
+69	Guixian	thunder	4	吼雷	xəw⁴²lwejuei²¹	17
+70	Xiamen	thunder	4	陈雷	tan³⁵lwi	20
+71	Hefei	thunder	4	打雷	ta²⁴le⁵⁵	16
+72	Jinan	thunder	4	打雷	ta⁵⁵lwejuei⁴²	17
+73	Hangzhou	thunder	4	打雷	tɑ⁵³lej²¹³	16
+74	Guangzhou	thunder	4	行雷	haŋ²¹løɥ²¹	18
+75	Nanchang	thunder	4	恨雷	hɛn²¹lwi⁴⁵	18
+76	Nanchang	thunder	4	打雷	tɑ²¹³lwi⁴⁵	17
+77	Chengdu	thunder	4	打雷	ta⁵³nwejuei³¹	17
+78	Chengdu	thunder	4	响雷	ɕjaŋ⁵³nwejuei³¹	17
+79	Taiyuan	thunder	4	响忽雷	xjɒ̃⁵³xwəʔ²lwejuei¹¹	17
+80	Shexian	thunder	4	打霹雳	ta³⁵pʰɛ²¹lɛ	16
+81	Shexian	thunder	4	打天雷	ta³⁵tʰe³¹lɛ⁴⁴	16
+82	Beijing	thunder	4	打雷	ta²¹⁴lej³⁵	16
+83	Kunming	thunder	4	升雷	ʂə̃⁴⁴lwejuei³¹	17
+84	Shanghai	thunder	4	雷响	le¹³ɕjã³⁴	19
+85	Shanghai	thunder	4	打雷	tã³⁵le²³	16
+# 
+86	Changsha	lightning	5	扯闪	t͡ʂʰʅ⁴¹ʂə̃⁴¹	22
+87	Guixian	lightning	5	火闪	xo⁴²san⁴²	22
+88	Guixian	lightning	5	扯火闪	ʦʰej⁴²xo⁴²san⁴²	26
+89	Hefei	lightning	5	打闪	ta²⁴ʂən²⁴	22
+90	Jinan	lightning	5	打闪	ta⁵⁵ʂã⁵⁵	22
+91	Hangzhou	lightning	5	霍闪	hwoʔ⁵sɥõ⁵³	23
+92	Guangzhou	lightning	5	闪电	sim³⁵tin²²	21
+93	Guangzhou	lightning	5	摄电	sip³tin²²	21
+94	Nanchang	lightning	5	打霍闪	tɑ²¹³fɔʔ⁵sɛn⁰²	24
+95	Chengdu	lightning	5	火闪	xo⁵³san⁵³	22
+96	Taiyuan	lightning	5	打闪	ta⁵³sæ̃⁵³	22
+97	Shexian	lightning	5	打热闪	ta³⁵ne²²ɕɥe³²⁴	25
+98	Shexian	lightning	5	扯热闪	ʨʰja³⁵ne²²ɕɥe³²⁴	25
+99	Beijing	lightning	5	闪电	ʂan²¹⁴tjan⁵¹	21
+100	Kunming	lightning	5	扯闪	t͡ʂʰə⁵³ʂᴀ̃⁵³	22
+101	Shanghai	lightning	5	霍险	hoʔ⁵ɕi³⁵	23
+102	Shanghai	lightning	5	闪电	sø³⁵di¹³	21
+# 
+103	Meixian	rain	6	落雨	lok⁵i³¹	28
+104	Changsha	rain	6	落雨	lo²⁴y⁴¹	28
+105	Guixian	rain	6	下雨	ɕja²¹³i⁴²	27
+106	Guixian	rain	6	落雨	lo²¹i⁴²	28
+107	Xiamen	rain	6	落雨	loʔ⁵hɔ²²	28
+108	Hefei	rain	6	下雨	ɕja⁵³zy²⁴	27
+109	Jinan	rain	6	下雨	ɕja²¹y⁵⁵	27
+110	Hangzhou	rain	6	落雨	loʔ²y⁵³	28
+111	Guangzhou	rain	6	落雨	lɔk²jy²³	28
+112	Nanchang	rain	6	落雨	lɔʔ²y²¹³	28
+113	Chengdu	rain	6	下雨	ɕja¹³y⁵³	27
+114	Chengdu	rain	6	落雨	no³¹y⁵³	28
+115	Taiyuan	rain	6	下雨	xa⁴⁵y⁵³	27
+116	Shexian	rain	6	落雨	lɔ²²y³⁵	28
+117	Beijing	rain	6	下雨	ɕja⁵¹y²¹⁴	27
+118	Kunming	rain	6	下雨	ɕjᴀ²¹²i⁵³	27
+119	Shanghai	rain	6	落雨	loʔ¹ɦy²³	28
+# 
+120	Meixian	snow	7	落雪	lok⁵sjet¹	30
+121	Changsha	snow	7	落雪	lo²⁴sje²⁴	30
+122	Guixian	snow	7	下雪	ɕja²¹³ɕjɛ²¹	29
+123	Xiamen	snow	7	落雪	loʔ⁵seʔ³²	30
+124	Hefei	snow	7	下雪	ɕja⁵³ɕɥɐʔ⁵	29
+125	Jinan	snow	7	下雪	ɕja²¹ɕɥə²¹³	29
+126	Jinan	snow	7	落雪	lwə²¹ɕɥə²¹³	30
+127	Hangzhou	snow	7	落雪	loʔ²ɕjəʔ⁵	30
+128	Guangzhou	snow	7	落雪	lɔk²syt³	30
+129	Nanchang	snow	7	落雪	lɔʔ²ɕɥɵʔ⁵	30
+130	Chengdu	snow	7	下雪	ɕja¹³ɕɥe³¹	29
+131	Chengdu	snow	7	落雪	no³¹ɕɥe³¹	30
+132	Taiyuan	snow	7	下雪	xa⁴⁵ɕɥəʔ²	29
+133	Shexian	snow	7	落雪	lɔ²²ɕɥeʔ²¹	30
+134	Beijing	snow	7	下雪	ɕja⁵¹ɕɥɛ²¹⁴	29
+135	Kunming	snow	7	下雪	ɕjᴀ²¹²ɕjɛ³¹	29
+136	Shanghai	snow	7	落雪	loʔ¹ɕjɪʔ⁵	30
+# 
+137	Meixian	hail	8	雹	pʰok⁵	31
+138	Changsha	hail	8	冰雹	pin³³pʰaw⁵⁵	32
+139	Guixian	hail	8	冰雹	pin⁵⁵pa	32
+140	Guixian	hail	8	白雨	pɛ²¹i⁴²	31
+141	Xiamen	hail	8	雹	pʰawʔ⁵	31
+142	Hefei	hail	8	盐豆子	jɪ̃⁵⁵tɯ⁵³ʦə	33
+143	Jinan	hail	8	雹子	pa⁴²ʦɿ	31
+144	Jinan	hail	8	冷子	ləŋ⁵⁵ʦɿ	34
+145	Hangzhou	hail	8	冰雹	pin³³bɔ²¹³	32
+146	Guangzhou	hail	8	雹	pɔk²	31
+147	Guangzhou	hail	8	雪珠	syt³ʦy⁵⁵	35
+148	Nanchang	hail	8	雹子	pʰɔʔ²ʦɿ⁰²	31
+149	Chengdu	hail	8	冰雹子	pin⁵⁵paw¹³ʦɿ⁵³	32
+150	Chengdu	hail	8	冰弹子	pin⁵⁵tan¹³ʦɿ⁵³	34
+151	Chengdu	hail	8	雪弹子	ɕɥe³¹tan¹³ʦɿ⁵³	33
+152	Taiyuan	hail	8	冷弹子	ləŋ⁵³tæ̃⁴⁵ʦəʔ	34
+153	Shexian	hail	8	冰雹	pjʌ̃³¹pʰɔ²²	32
+154	Beijing	hail	8	雹子	pɑw³⁵ʦɿ³	31
+155	Kunming	hail	8	冰雹	pĩ⁴⁴pɔ²¹²	32
+156	Kunming	hail	8	雪弹子	ɕjɛ³¹tᴀ̃²¹²ʦɿ	33
+157	Kunming	hail	8	雪薄子	ɕjɛ³¹po³¹ʦɿ⁵³	33
+158	Shanghai	hail	8	冰雹	piŋ⁵³bɔ³	32
+# 
+159	Meixian	freeze	9	结冰	kjat¹pen⁴⁴	36
+160	Changsha	freeze	9	下凌	ɕja¹¹lin¹¹	37
+161	Changsha	freeze	9	构凌	kəw⁵⁵lin¹¹	40
+162	Guixian	freeze	9	结冰	ʨjɛ²¹pin	36
+163	Guixian	freeze	9	起凌冰	ʨʰi⁴²lin²¹³pin⁵⁵	36
+164	Xiamen	freeze	9	结冰	kjat³²piŋ⁵⁵	36
+165	Xiamen	freeze	9	坚冰	kjan⁵⁵piŋ⁵⁵	36
+166	Hefei	freeze	9	结冰	ʨiʔ⁵pin²¹	36
+167	Jinan	freeze	9	冻冻	tuŋ²¹³tuŋ	38
+168	Hangzhou	freeze	9	结冰	ʨjəʔ⁵pin³³	36
+169	Guangzhou	freeze	9	结冰	kit³peŋ⁵⁵	36
+170	Nanchang	freeze	9	结冰	ʨjɛʔ⁵pin⁴²	36
+171	Nanchang	freeze	9	凌到了	lɛn²¹tɑw⁰²ljɛwiɛu⁰²	41
+172	Chengdu	freeze	9	结冰	ʨje³¹pin⁵⁵	36
+173	Taiyuan	freeze	9	冻冰	twəŋ⁴⁵pjəŋ¹¹	39
+174	Shexian	freeze	9	冻冰	tʌ̃³²⁴pjʌ̃³¹	39
+175	Beijing	freeze	9	结冰	ʨjɛ⁵⁵piŋ⁵⁵	36
+176	Kunming	freeze	9	结冰	ʨjɛ³¹pĩ⁴⁴	36
+177	Shanghai	freeze	9	结冰	ʨjɪʔ⁵piŋ⁵³	36
+# 
+178	Meixian	blow	10	起风	hi³¹fuŋ⁴⁴	42
+179	Changsha	blow	10	起风	ʨʰi⁴¹xoŋ³³	42
+180	Changsha	blow	10	发风	fa²⁴xoŋ³³	44
+181	Guixian	blow	10	吹风	ʦʰwejuei⁵⁵foŋ⁵⁵	42
+182	Xiamen	blow	10	起风	kʰi⁵³hɔŋ⁵⁵	42
+183	Hefei	blow	10	起风	ʦʰɿ²⁴fəŋ²¹	42
+184	Jinan	blow	10	刮风	kwa²¹³fəŋ²¹³	42
+185	Hangzhou	blow	10	起风	ʨʰi⁵³foŋ³³	42
+186	Hangzhou	blow	10	刮风	kwɑʔ⁵foŋ³³	42
+187	Guangzhou	blow	10	翻风	fan⁵³foŋ⁵³	43
+188	Guangzhou	blow	10	打风刮台风	ta³⁵foŋ⁵³	42
+189	Nanchang	blow	10	起风	ʨʰi²¹³fuŋ⁴²	42
+190	Chengdu	blow	10	刮风	kwa³¹foŋ⁵⁵	42
+191	Chengdu	blow	10	起风	ʨʰi⁵³foŋ⁵⁵	42
+192	Chengdu	blow	10	吹风	ʦʰwejuei⁵⁵foŋ⁵⁵	42
+193	Taiyuan	blow	10	刮风	kwaʔ²fəŋ¹¹	42
+194	Shexian	blow	10	起风	ʨʰi³⁵fʌ̃³¹	42
+195	Shexian	blow	10	发风	fa²¹fʌ̃³¹	42
+196	Beijing	blow	10	刮风	kwa⁵⁵fəŋ⁵⁵	42
+197	Kunming	blow	10	刮风	kwᴀ³¹foŋ⁴⁴	42
+198	Kunming	blow	10	起风	ʨʰi⁵³foŋ⁴⁴	42
+199	Shanghai	blow	10	起风	ʨʰi³⁵foŋ⁵³	42
+200	Shanghai	blow	10	刮风	kwaʔ⁵foŋ⁵³	42
+# 
+201	Meixian	rainbow	11	天弓	tʰjen⁴⁴kjuŋ⁴⁴	49
+202	Changsha	rainbow	11	虹	kan⁵⁵	46
+203	Guixian	rainbow	11	虹	kaŋ²¹³	46
+204	Xiamen	rainbow	11	虹	kʰiŋ²²	46
+205	Hefei	rainbow	11	虹	ʨjɑ̃⁵³	45
+206	Jinan	rainbow	11	虹	ʨjaŋ²¹	45
+207	Hangzhou	rainbow	11	鱟	hej⁴⁴⁵	48
+208	Guangzhou	rainbow	11	虹	hoŋ²¹	47
+209	Nanchang	rainbow	11	虹	kɔŋ⁴⁵	46
+210	Chengdu	rainbow	11	虹	xoŋ³¹	47
+211	Chengdu	rainbow	11	彩虹	ʦʰaj⁵³xoŋ³¹	50
+212	Chengdu	rainbow	11	天桥	tʰjan⁵⁵ʨʰjawiau³¹	49
+213	Taiyuan	rainbow	11	虹	ʨjɒ̃⁵³	45
+214	Shexian	rainbow	11	虹	ka³²⁴	46
+215	Shexian	rainbow	11	彩虹	ʦʰɛ³⁵ka³²⁴	51
+216	Beijing	rainbow	11	虹	ʨjɑŋ⁵¹	45
+217	Kunming	rainbow	11	虹	kᴀ̃²¹²	46
+218	Shanghai	rainbow	11	鲎	hɤ³⁵	48
+219	Shanghai	rainbow	11	彩虹	ʦʰe³⁵ɦoŋ¹³	50
+# 
+220	Meixian	this year	15	今年	kin⁴⁴ŋjan¹¹	53
+221	Changsha	this year	15	今年	ʨin³³ȵjẽ¹³	53
+222	Guixian	this year	15	今年	ʨin⁵⁵ljan²¹	53
+223	Guixian	this year	15	真年	ʦen⁵⁵ljan²¹	53
+224	Xiamen	this year	15	今年	kin⁵⁵ni³⁵	52
+225	Hefei	this year	15	今年	ʨin²¹ljɪ̃⁵⁵	53
+226	Jinan	this year	15	今年	ʨjẽ²¹³jã⁴²	54
+227	Hangzhou	this year	15	根年	ken³³ȵjᴇ̃²¹³	53
+228	Guangzhou	this year	15	今年	kɐm⁵³nin²¹	52
+229	Nanchang	this year	15	今年	ʨin⁴²ȵjɛn⁰²	53
+230	Chengdu	this year	15	今年	ʨin⁵⁵ȵjan³¹	53
+231	Taiyuan	this year	15	今年	ʨjəŋ¹¹nje¹¹	53
+232	Shexian	this year	15	根年	kʌ̃³¹ne⁴⁴	53
+233	Beijing	this year	15	今年个	ʨin⁵⁵njan³⁵kə³	53
+234	Kunming	this year	15	今年	ʨĩ⁴⁴njɛ̃³¹	53
+235	Shanghai	this year	15	今年	ʨiŋ⁵³ȵi¹³	53
+# 
+236	Meixian	today	20	今日	kim⁴⁴ŋit¹	57
+237	Changsha	today	20	今朝	ʨin³³t͡ʂaw³³	56
+238	Changsha	today	20	今日	ʨin³³ʐʅ²⁴	58
+239	Guixian	today	20	今天	ʨin⁵⁵tʰjan⁵⁵	56
+240	Guixian	today	20	真天	ʦen⁵⁵tʰjan⁵⁵	56
+241	Xiamen	today	20	今仔日	kin⁵⁵na⁵³lit⁵	57
+242	Hefei	today	20	皆个	ʨi²¹kə	55
+243	Jinan	today	20	今天	ʨjẽ²¹³tʰjã²¹³	56
+244	Jinan	today	20	今们儿	ʨi²¹³mer	60
+245	Hangzhou	today	20	根朝	ken³³ʦɔ³³	56
+246	Guangzhou	today	20	今日	kɐm⁵³jɐt²	57
+247	Nanchang	today	20	今日	ʨin⁴²ȵiʔ⁰²	59
+248	Chengdu	today	20	今天	ʨin⁵⁵tʰjan⁵⁵	56
+249	Taiyuan	today	20	今日	ʨjəŋ¹¹zəŋ²	58
+250	Taiyuan	today	20	今天	ʨjəŋ¹¹tʰje¹¹	56
+251	Shexian	today	20	昨日	ʦʰo²²ni²²	59
+252	Shexian	today	20	昨朝	ʦʰo²²ʨjɔ³¹	61
+253	Beijing	today	20	今儿个	ʨjər⁵⁵kə²	55
+254	Kunming	today	20	今儿日	ʨjə⁴⁴ʐʅ³¹	58
+255	Shanghai	today	20	今朝	ʨiŋ⁵³ʦɔ⁵³	56
+# 
+256	Meixian	wheat	22	麦儿	mak⁵e	62
+257	Changsha	wheat	22	麦子	mə²⁴ʦɿ	62
+258	Guixian	wheat	22	麦子	mɛ²¹ʦɿ⁴²	62
+259	Xiamen	wheat	22	麦仔	beʔ⁵ja⁵³	64
+260	Xiamen	wheat	22	麦	beʔ⁵	64
+261	Hefei	wheat	22	麦子	mɐʔ⁵ʦə	62
+262	Jinan	wheat	22	麦子	mej²¹ʦɿ	62
+263	Hangzhou	wheat	22	麦子	mɑʔ²ʦɿ⁵³	62
+264	Guangzhou	wheat	22	麦	mɐk²	62
+265	Nanchang	wheat	22	麦子	mɑʔ²ʦɿ⁰²	62
+266	Chengdu	wheat	22	麦子	me³¹ʦɿ⁵³	62
+267	Taiyuan	wheat	22	麦子	mjəʔ²ʦəʔ	62
+268	Shexian	wheat	22	小麦	sjɔ³⁵mɛ²²	63
+269	Shexian	wheat	22	麦	mɛ²²	62
+270	Beijing	wheat	22	麦子	maj⁵¹ʦɿ¹	62
+271	Kunming	wheat	22	麦子	mə³¹ʦɿ⁵³	62
+272	Shanghai	wheat	22	麦子	maʔ¹ʦɿ³⁵	62
+# 
+273	Meixian	sunflower	24	向日葵	hjoŋ⁵³ŋit¹kʰwi¹¹	67
+274	Changsha	sunflower	24	葵花	kwejuei¹³fa³³	66
+275	Guixian	sunflower	24	葵花	kʰwejuei²¹xwa⁵⁵	66
+276	Xiamen	sunflower	24	向日葵	hjɔŋ²¹lit⁵kʰwi	67
+277	Xiamen	sunflower	24	向阳花	hjɔŋ²¹jɔŋ³⁵hwe⁵⁵	71
+278	Hefei	sunflower	24	葵花	kʰwe⁵⁵xwa²¹	66
+279	Jinan	sunflower	24	朝阳花	t͡ʂʰaŋ⁴²jaŋxwa²¹³	68
+280	Hangzhou	sunflower	24	葵花	gwi²¹³hwɑ³³	66
+281	Hangzhou	sunflower	24	向日葵	ɕjɑŋ⁴⁴⁵zʔ²gwi²¹³	67
+282	Guangzhou	sunflower	24	向日葵	hœŋ³³jɐt²kʰwɐj²¹	67
+283	Guangzhou	sunflower	24	葵花	kʰwɐj²¹fa⁵⁵	66
+284	Nanchang	sunflower	24	葵花	kʰwi²⁴fɑ⁴²	66
+285	Chengdu	sunflower	24	向日葵	ɕjaŋ¹³zɿ³¹kʰwejuei³¹	67
+286	Chengdu	sunflower	24	向儿葵	ɕjaŋ¹³ər³¹kʰwejuei³¹	67
+287	Chengdu	sunflower	24	葵花	kʰwejuei³¹xwa⁵⁵	66
+288	Taiyuan	sunflower	24	葵花	kʰwejuei¹¹xwa¹¹	66
+289	Shexian	sunflower	24	葵花莲	kʰwe⁴⁴xwa³¹le⁴⁴	66
+290	Shexian	sunflower	24	丝瓜莲	s³¹kwa³¹le⁴⁴	70
+291	Beijing	sunflower	24	转日莲	t͡ʂwan⁵¹ʐʅ¹ljan³⁵	65
+292	Beijing	sunflower	24	向日葵	ɕjaŋ⁵¹ʐʅ¹kʰwejuei³⁵	67
+293	Beijing	sunflower	24	葵花	kʰwejuei³⁵xwa⁵⁵	66
+294	Kunming	sunflower	24	朝阳饼	t͡ʂʰ³¹jᴀ̃³¹pĩ⁵³	69
+295	Shanghai	sunflower	24	向日葵	ɕjã³⁵zəʔ¹²gwe¹³	67
+296	Shanghai	sunflower	24	葵花	gwe¹³ho⁵³	66
+# 
+297	Meixian	spinach	25	角菜儿	kok¹ʦʰoj⁵³je	73
+298	Changsha	spinach	25	菠菜	po³³ʦʰaj⁵⁵	72
+299	Guixian	spinach	25	菠菜	po⁵⁵ʦʰaj²¹³	72
+300	Xiamen	spinach	25	菠菱菜	pe⁵⁵liŋ³⁵ʦʰaj²¹	74
+301	Hefei	spinach	25	菠菜	pu²¹ʦʰᴇ⁵³	72
+302	Jinan	spinach	25	菠菜	pə²¹³ʦʰɛ	72
+303	Hangzhou	spinach	25	菠菜	po³³ʦʰᴇ⁴⁴⁵	72
+304	Guangzhou	spinach	25	菠菜	pɔ⁵³ʦʰɔj³³	72
+305	Nanchang	spinach	25	菠菜	po⁴²ʦʰaj⁰²	72
+306	Chengdu	spinach	25	菠菜	po⁵⁵ʦʰaj¹³	72
+307	Taiyuan	spinach	25	青菜	ʨʰi¹¹ʦʰaj⁴⁵	73
+308	Taiyuan	spinach	25	菠菜	pɤ¹¹ʦʰaj⁴⁵	72
+309	Shexian	spinach	25	菠菜	po³¹ʦʰɛ³²⁴	72
+310	Beijing	spinach	25	菠菜	po³⁵ʦʰaj⁵¹	72
+311	Kunming	spinach	25	菠菜	po⁴⁴ʦʰæ²¹²	72
+312	Shanghai	spinach	25	菠菜	pu⁵³ʦʰe³⁵	72
+# 
+313	Meixian	cabbage	26	包菜	paw⁴⁴ʦʰoj⁵³	76
+314	Changsha	cabbage	26	包菜	paw³³ʦʰaj⁵⁵	76
+315	Guixian	cabbage	26	裹心白	ko⁴²ɕin⁵⁵pɛ²¹	77
+316	Xiamen	cabbage	26	高丽菜	ko⁵⁵le³⁵ʦʰaj²¹	82
+317	Hefei	cabbage	26	包头菜	pu²¹tʰɯ⁵⁵ʦʰᴇ⁵³	79
+318	Jinan	cabbage	26	卷心菜	ʨɥã⁵⁵ɕjẽ²¹³ʦʰɛ²¹	77
+319	Jinan	cabbage	26	洋白菜	jaŋ⁴²pej⁴²ʦʰɛ	75
+320	Jinan	cabbage	26	圆白菜	ɥã⁴²pej⁴²ʦʰɛ²¹	75
+321	Hangzhou	cabbage	26	包心菜	pɔ³³ɕin³³ʦʰᴇ⁴⁴⁵	77
+322	Guangzhou	cabbage	26	椰菜	jɛ²¹ʦʰɔj³³	78
+323	Nanchang	cabbage	26	包菜	pɑw⁴²ʦʰaj⁰²	76
+324	Chengdu	cabbage	26	卷心白	ʨɥan⁵³ɕin⁵⁵pe³¹	77
+325	Chengdu	cabbage	26	莲花白	njan³¹xwa⁵⁵pe³¹	80
+326	Taiyuan	cabbage	26	茴子白	xwejuei¹¹ʦəʔpaj¹¹	81
+327	Shexian	cabbage	26	甘蓝菜	kɛ³¹lɛ⁴⁴ʦʰɛ³²⁴	79
+328	Beijing	cabbage	26	洋白菜	jɑŋ³⁵paj³⁵ʦʰaj⁵¹	75
+329	Kunming	cabbage	26	莲花白	ljɛ̃³¹xwᴀ⁴⁴pə³¹	80
+330	Shanghai	cabbage	26	卷心菜	ʨɥø³⁵ɕiŋ⁵³ʦʰe³⁵	77
+# 
+331	Meixian	sweet potato	29	番薯	fan⁴⁴su¹¹	85
+332	Changsha	sweet potato	29	红薯	xoŋ¹³ɕy¹¹	84
+333	Guixian	sweet potato	29	饭薯	fan²¹³su²¹	85
+334	Guixian	sweet potato	29	白苕	pɛ²¹sa²¹	83
+335	Xiamen	sweet potato	29	番藷	han⁵⁵ʦu³⁵	89
+336	Hefei	sweet potato	29	芋头	zy⁵³tʰɯ	86
+337	Jinan	sweet potato	29	地瓜	ti²¹kwa²¹³	87
+338	Hangzhou	sweet potato	29	番薯	fᴇ̃³³ʣy¹³	85
+339	Guangzhou	sweet potato	29	番薯	fan⁵³sy²¹	85
+340	Nanchang	sweet potato	29	萝卜薯	lo⁴⁵pʰo⁰⁴ɕy⁴⁵	88
+341	Nanchang	sweet potato	29	红薯	fuŋ⁴⁵ɕy⁴⁵	85
+342	Chengdu	sweet potato	29	红苕	xoŋ³¹saw³¹	84
+343	Taiyuan	sweet potato	29	红薯	xwəŋ¹¹su⁵³	84
+344	Shexian	sweet potato	29	山芋	sa³¹y²²	86
+345	Beijing	sweet potato	29	白薯	paj³⁵ʂu²¹⁴	83
+346	Kunming	sweet potato	29	白薯	pə³¹t͡ʂʰu⁵³	83
+347	Shanghai	sweet potato	29	山芋	se⁵³ɦy¹³	86
+# 
+348	Meixian	pig	32	猪儿	ʦu⁴⁴ve	90
+349	Changsha	pig	32	猪	ʨy³³	90
+350	Guixian	pig	32	猪	ʦu⁵⁵	90
+351	Xiamen	pig	32	猪	ti⁵⁵	92
+352	Hefei	pig	32	猪	t͡ʂu²¹	90
+353	Jinan	pig	32	猪	t͡ʂu²¹³	90
+354	Hangzhou	pig	32	猪	ʦy³³	90
+355	Hangzhou	pig	32	肉猪	zoʔ²ʦy³³	93
+356	Guangzhou	pig	32	猪	ʦy⁵⁵	90
+357	Nanchang	pig	32	猪	ʨy⁴²	90
+358	Chengdu	pig	32	猪	ʦu⁵⁵	90
+359	Taiyuan	pig	32	猪	ʦu¹¹	90
+360	Shexian	pig	32	猪	ʨy³¹	90
+361	Beijing	pig	32	猪	t͡ʂu⁵⁵	90
+362	Kunming	pig	32	猪	t͡ʂu⁴⁴	90
+363	Shanghai	pig	32	猪猡	ʦɿ⁵³lu¹³	91
+# 
+364	Meixian	rooster	35	鸡公	ke⁴⁴kuŋ⁴⁴	95
+365	Changsha	rooster	35	叫鸡公	ʨjawiau⁵⁵ʨi³³koŋ³³	94
+366	Guixian	rooster	35	公鸡	koŋ⁵⁵ʨi⁵⁵	96
+367	Xiamen	rooster	35	鸡角	kwe⁵⁵kak³²	97
+368	Hefei	rooster	35	公鸡	kəŋ²¹ʦɿ²¹	96
+369	Jinan	rooster	35	公鸡	kuŋ²¹³ʨi	96
+370	Hangzhou	rooster	35	雄鸡	ɦjoŋ²¹³ʨi³³	96
+371	Hangzhou	rooster	35	童子鸡	doŋ²¹³ʦɿ⁵³ʨi³³	96
+372	Guangzhou	rooster	35	鸡公	kɐj⁵⁵koŋ⁵⁵	95
+373	Guangzhou	rooster	35	生鸡	saŋ⁵⁵kɐj⁵⁵	98
+374	Nanchang	rooster	35	鸡公	ʨi⁴²kuŋ⁴²	95
+375	Chengdu	rooster	35	鸡公	ʨi⁵⁵koŋ⁵⁵	95
+376	Chengdu	rooster	35	雄鸡	ɕɥoŋ³¹ʨi⁵⁵	96
+377	Taiyuan	rooster	35	公鸡	kwəŋ¹¹ʨi¹¹	96
+378	Shexian	rooster	35	鸡公	ʨi³¹kwʌ̃³¹	95
+379	Beijing	rooster	35	公鸡	kuŋ⁵⁵ʨi⁵⁵	96
+380	Kunming	rooster	35	公鸡	koŋ⁴⁴ʨi⁴⁴	96
+381	Shanghai	rooster	35	雄鸡	ɦjoŋ¹³ʨi⁵³	96
+382	Shanghai	rooster	35	公鸡	koŋ⁵³ʨi⁵³	96
+# 
+383	Meixian	chicken	36	鸡嫲	ke⁴⁴ma¹¹	104
+384	Changsha	chicken	36	鸡婆	ʨi³³po¹³	100
+385	Guixian	chicken	36	子鸡	ʦɿ⁴²ʨi⁵⁵	99
+386	Guixian	chicken	36	草鸡	ʦʰa⁴²ʨi⁵⁵	99
+387	Guixian	chicken	36	母鸡	mu⁴²ʨi⁵⁵	99
+388	Xiamen	chicken	36	鸡母	kwe⁵⁵bu	105
+389	Xiamen	chicken	36	鸡僆	kwe⁵⁵nwa²²	102
+390	Hefei	chicken	36	母鸡	məŋ²⁴ʦɿ²¹	99
+391	Hefei	chicken	36	老母鸡	lɔ²⁴məʦɿ²¹	107
+392	Jinan	chicken	36	母鸡	mu⁵⁵ʨi	99
+393	Jinan	chicken	36	草鸡	ʦʰɔ⁵⁵ʨi	99
+394	Hangzhou	chicken	36	婆鸡	bo²¹³ʨi	103
+395	Guangzhou	chicken	36	鸡乸	kɐj⁵⁵na³⁵	102
+396	Guangzhou	chicken	36	鸡项	kɐj⁵⁵hɔŋ³⁵	106
+397	Nanchang	chicken	36	鸡婆	ʨi⁴²pʰo²⁴	100
+398	Chengdu	chicken	36	老母鸡	naw⁵³mu⁵³ʨi⁵⁵	101
+399	Chengdu	chicken	36	鸡婆	ʨi⁵⁵pʰo³¹	100
+400	Taiyuan	chicken	36	草鸡	ʦʰaw⁵³ʨi¹¹	99
+401	Shexian	chicken	36	鸡母	ʨi³¹m̩³⁵	104
+402	Shexian	chicken	36	鸡婆	ʨi³¹pʰo⁴⁴	100
+403	Beijing	chicken	36	母鸡	mu²¹⁴ʨi⁵⁵	99
+404	Kunming	chicken	36	母鸡	mu⁵³ʨi⁴⁴	99
+405	Shanghai	chicken	36	雌鸡	ʦʰɿ⁵³ʨi⁵³	99
+406	Shanghai	chicken	36	母鸡	mu¹³ʨi⁵³	99
+# 
+407	Meixian	sparrow	37	禾笔儿	vo¹¹pit¹le	111
+408	Changsha	sparrow	37	麻雀子	ma¹³ʦʰjo²⁴ʦɿ	109
+409	Guixian	sparrow	37	麻雀	ma²¹ʨʰjo²¹	109
+410	Xiamen	sparrow	37	粟鸟仔	ʦʰik²ʦjawiau⁵³a⁵³	113
+411	Hefei	sparrow	37	麻啾	ma⁵⁵ʨʰjɯ²¹	109
+412	Jinan	sparrow	37	家雀儿	ʨja²¹³ʨʰɥər	108
+413	Jinan	sparrow	37	家雀子	ʨja²¹³ʨʰɥəʦɿ	108
+414	Hangzhou	sparrow	37	麻巧儿	mɑ²¹³ʨʰjɔ⁵³əl²¹³	109
+415	Guangzhou	sparrow	37	麻雀	ma²¹ʦœk³³	109
+416	Nanchang	sparrow	37	奸雀子	kan⁴²ʨʰjɔʔ⁰²ʦɿ⁰²	110
+417	Nanchang	sparrow	37	麻雀子	mɑ⁴⁵ʨʰjɔʔ⁰⁴ʦɿ⁰⁴	109
+418	Chengdu	sparrow	37	麻雀儿	ma³¹ʨʰɥər³¹	109
+419	Taiyuan	sparrow	37	雀儿	ʨʰɥar⁵³	112
+420	Taiyuan	sparrow	37	麻雀儿	ma¹¹ʨʰɥar⁵³	109
+421	Shexian	sparrow	37	麻雀	ma⁴⁴ʦʰjɔʔ²¹	109
+422	Beijing	sparrow	37	家雀儿	ʨja⁵⁵ʨʰjɑwiɑur²¹⁴	108
+423	Kunming	sparrow	37	谷雀	ku³¹ʨʰjo³¹	110
+424	Kunming	sparrow	37	麻雀	mᴀ³¹ʨʰjo³¹	109
+425	Shanghai	sparrow	37	麻雀	mo¹³ʨʰjaʔ⁵	109
+426	Shanghai	sparrow	37	麻鸟	mo¹³tjɔ⁵³	109
+# 
+427	Meixian	mouse	38	老鼠儿	law³¹ʦʰu³¹ve	115
+428	Changsha	mouse	38	老鼠子	law⁴¹ɕy⁴¹ʦɿ	115
+429	Changsha	mouse	38	高客	kaw³³kʰə²⁴	114
+430	Guixian	mouse	38	耗子	xa²¹³ʦɿ⁴²	114
+431	Xiamen	mouse	38	老鼠	njawiau⁵³ʦʰu⁵³	116
+432	Hefei	mouse	38	老鼠	lɔ²⁴t͡ʂʰwə	115
+433	Jinan	mouse	38	老鼠	lɔ⁵⁵ʂu	115
+434	Jinan	mouse	38	耗子	xɔ²¹ʦɿ	114
+435	Hangzhou	mouse	38	老鼠	lɔ⁵³ʦʰy⁵³	115
+436	Nanchang	mouse	38	老鼠	lɑw²¹³ɕy⁰⁴	115
+437	Chengdu	mouse	38	老鼠	naw⁵³su⁵³	115
+438	Chengdu	mouse	38	耗子	xaw¹³ʦɿ⁵³	114
+439	Shexian	mouse	38	老鼠	lɔ³⁵ʨʰy³⁵	115
+440	Shexian	mouse	38	尖嘴	ʦe³¹ʨy³⁵	117
+441	Beijing	mouse	38	耗子	xɑw⁵¹ʦɿ¹	114
+442	Kunming	mouse	38	老鼠	lɔ⁵³t͡ʂʰu⁵³	115
+443	Shanghai	mouse	38	老虫	lɔ¹³zoŋ²³	115
+444	Shanghai	mouse	38	老鼠	lɔ¹³ʦʰɿ³⁵	115
+# 
+445	Meixian	bedbug	39	乾蜱	kon⁴⁴pʰi⁴⁴	121
+446	Changsha	bedbug	39	臭虫	t͡ʂʰəw⁵⁵t͡ʂoŋ¹³	118
+447	Changsha	bedbug	39	香姑娘	ɕjan³³ku³³ȵjan¹³	122
+448	Guixian	bedbug	39	臭虫	ʦʰəw²¹³ʦʰoŋ²¹	118
+449	Xiamen	bedbug	39	木虱	bat⁵sat³²	120
+450	Hefei	bedbug	39	臭虫	t͡ʂʰɯ⁵³t͡ʂʰəŋ	118
+451	Jinan	bedbug	39	臭虫	t͡ʂʰow²¹t͡ʂʰuŋ⁴²	118
+452	Hangzhou	bedbug	39	臭虫	ʦʰej⁴⁴⁵ʣoŋ²¹³	118
+453	Guangzhou	bedbug	39	木虱	mok²sɐt⁵	119
+454	Nanchang	bedbug	39	臭虫	ʦʰɨw²¹³ʦʰuŋ⁰⁴	118
+455	Chengdu	bedbug	39	臭虫	ʦʰəw¹³ʦʰoŋ³¹	118
+456	Taiyuan	bedbug	39	壁虱	pjəʔ²səʔ²	120
+457	Shexian	bedbug	39	木虱	mɔ²²seʔ²¹	119
+458	Shexian	bedbug	39	壁虱	pi²¹seʔ²¹	120
+459	Beijing	bedbug	39	臭虫	t͡ʂʰow⁵¹t͡ʂʰuŋ¹	118
+460	Kunming	bedbug	39	壁虱	pi³¹sə³¹	120
+461	Shanghai	bedbug	39	臭虫	ʦʰɤ³⁵zoŋ²³	118
+462	Shanghai	bedbug	39	瘪虱	pjɪʔ⁵səʔ⁵	120
+# 
+463	Meixian	house	40	屋儿	vuk¹e	125
+464	Changsha	house	40	屋	u²⁴	124
+465	Guixian	house	40	房子	faŋ²¹ʦɿ⁴²	123
+466	Xiamen	house	40	厝	ʦʰu²¹	127
+467	Hefei	house	40	宅子	ʦɐʔ⁵ʦə	126
+468	Jinan	house	40	房子	faŋ⁴²ʦɿ	123
+469	Jinan	house	40	屋	u²¹³	124
+470	Hangzhou	house	40	房子	vɑŋ²¹³ʦɿ	123
+471	Guangzhou	house	40	屋	ok⁵	125
+472	Nanchang	house	40	屋	uʔ⁵	124
+473	Chengdu	house	40	房子	faŋ³¹ʦɿ⁵³	123
+474	Taiyuan	house	40	房子	fɒ̃¹¹ʦəʔ	123
+475	Shexian	house	40	屋	uʔ²¹	124
+476	Beijing	house	40	房子	fɑŋ³⁵ʦɿ³	123
+477	Kunming	house	40	房子	fᴀ̃³¹ʦɿ⁵³	123
+478	Shanghai	house	40	房子	vɑ̃¹³ʦɿ³⁵	123
+# 
+479	Meixian	window	42	窗儿	ʦʰuŋ⁴⁴ŋe	130
+480	Changsha	window	42	亮窗	ljan¹¹ʨʰɥan³³	129
+481	Guixian	window	42	窗子	ʦʰwaŋ⁵⁵ʦɿ⁴²	128
+482	Xiamen	window	42	窗仔	tʰaŋ⁵⁵ŋa⁵³	132
+483	Hefei	window	42	窗子	t͡ʂʰwɑ̃²¹ʦə	128
+484	Jinan	window	42	窗户	t͡ʂʰwaŋ²¹³xu	128
+485	Jinan	window	42	窗子	t͡ʂʰwaŋ²¹³ʦɿ	128
+486	Hangzhou	window	42	窗门	ʦʰɥɑŋ³³men²¹³	130
+487	Hangzhou	window	42	窗子	ʦʰɥɑŋ³³ʦɿ⁵³	128
+488	Guangzhou	window	42	窗	ʦʰœŋ⁵⁵	130
+489	Guangzhou	window	42	窗门	ʦʰœŋ⁵⁵mun²¹	130
+490	Nanchang	window	42	窗子	ʦʰɔŋ⁴²ʦɿ⁰²	128
+491	Nanchang	window	42	格子旧	kɑʔ⁵ʦɿ⁰²	131
+492	Chengdu	window	42	窗户	ʦʰwaŋ⁵⁵xu	128
+493	Chengdu	window	42	窗子	ʦʰwaŋ⁵⁵ʦɿ	128
+494	Taiyuan	window	42	窗户	ʦʰwɒ̃¹¹xu⁴⁵	128
+495	Taiyuan	window	42	窗子	ʦʰwɒ̃¹¹ʦəʔ	128
+496	Shexian	window	42	槛窗	kʰɛ³⁵ʦʰo³¹	131
+497	Shexian	window	42	槛闼	kʰɛ³⁵tʰa²²	133
+498	Beijing	window	42	窗户	t͡ʂʰwɑŋ⁵⁵xu²	128
+499	Kunming	window	42	窗户	t͡ʂʰwᴀ̃⁴⁴xoŋ⁴⁴	128
+500	Shanghai	window	42	窗门	ʦʰɑ̃⁵³məŋ¹³	130
+501	Shanghai	window	42	窗	ʦʰɑ̃⁵³	130
+# 
+502	Meixian	doorsills	43	门段	mun¹¹ton⁵³	134
+503	Changsha	doorsills	43	门坎	mən¹³kʰan⁴¹	134
+504	Guixian	doorsills	43	门坎	men²¹kʰan⁴²	134
+505	Xiamen	doorsills	43	户滇	hɔ²²tiŋ²²	137
+506	Hefei	doorsills	43	门坎	mən⁵⁵kʰæ̃²⁴	134
+507	Jinan	doorsills	43	门槛子	mẽ⁴²ʨʰjã²¹ʦɿ	136
+508	Hangzhou	doorsills	43	门坎	men²¹³kʰᴇ̃⁵³	134
+509	Guangzhou	doorsills	43	门坎	mun²¹hɐm	135
+510	Nanchang	doorsills	43	门坎	mɨn⁴⁵kan⁰⁴	134
+511	Chengdu	doorsills	43	门槛	mən³¹kʰan⁵³	134
+512	Taiyuan	doorsills	43	门限限	məŋ¹¹ɕje⁴⁵ɕje⁴⁵	136
+513	Shexian	doorsills	43	门槛	mʌ̃⁴⁴kʰɛ³⁵	134
+514	Beijing	doorsills	43	门坎儿	mən³⁵kʰar²¹⁴	134
+515	Kunming	doorsills	43	门坎	mə̃³¹kʰᴀ̃⁵³	134
+516	Shanghai	doorsills	43	门槛	məŋ¹³kʰe³⁵	134
+# 
+517	Meixian	kitchen	45	厨房下	ʦʰu¹¹foŋ¹¹ha⁴⁴	140
+518	Changsha	kitchen	45	厨房	ʨy¹³fan¹³	140
+519	Changsha	kitchen	45	灶屋	ʦaw⁵⁵u²⁴	143
+520	Guixian	kitchen	45	厨房	ʦʰu²¹faŋ²¹	140
+521	Guixian	kitchen	45	灶房	ʦa²¹³faŋ²¹	140
+522	Xiamen	kitchen	45	灶骹	ʦaw²¹kʰa⁵⁵	143
+523	Xiamen	kitchen	45	厨房	tu³⁵paŋ³⁵	140
+524	Hefei	kitchen	45	锅间	ku²¹ʨjɪ̃²¹	138
+525	Jinan	kitchen	45	饭屋	fã²¹u	139
+526	Jinan	kitchen	45	厨房	t͡ʂʰu⁴²faŋ⁴²	140
+527	Hangzhou	kitchen	45	厨房	ʣy²¹³vɑŋ²¹³	140
+528	Guangzhou	kitchen	45	厨房	ʦʰøɥ²¹fɔŋ²¹	140
+529	Guangzhou	kitchen	45	下间	ha²²kan⁵⁵	144
+530	Nanchang	kitchen	45	厨房	ʨʰy²⁴fɔŋ⁰⁴	140
+531	Chengdu	kitchen	45	厨房	ʦʰu³¹faŋ³¹	140
+532	Chengdu	kitchen	45	灶房	ʦaw¹³faŋ³¹	140
+533	Chengdu	kitchen	45	灶屋	ʦaw¹³u³¹	143
+534	Chengdu	kitchen	45	灶门间儿	ʦaw¹³mən³¹ʨʰɥər⁵⁵	145
+535	Taiyuan	kitchen	45	厨房	ʦʰu¹¹fɒ̃¹¹	140
+536	Shexian	kitchen	45	灶下	ʦɔ³²⁴xa³⁵	142
+537	Beijing	kitchen	45	厨房	t͡ʂʰu³⁵fɑŋ³⁵	140
+538	Kunming	kitchen	45	灶房	ʦɔ²¹²fᴀ̃³¹	140
+539	Shanghai	kitchen	45	灶披间	ʦɔ³⁵pʰi⁵³ke⁵³	141
+# 
+540	Meixian	chimney	46	烟涵	jan⁴⁴ham¹¹	148
+541	Changsha	chimney	46	烟筒	jẽ³³toŋ¹³	146
+542	Guixian	chimney	46	烟囱	jan⁵⁵ʦʰoŋ⁵⁵	146
+543	Xiamen	chimney	46	烟筒	jan⁵⁵taŋ³⁵	146
+544	Hefei	chimney	46	烟龙	jɪ̃²¹ləŋ	147
+545	Jinan	chimney	46	烟筒	jã²¹³tʰuŋ	146
+546	Jinan	chimney	46	灶突	ʦɔ²¹tu⁴²	149
+547	Jinan	chimney	46	气烟	ʨʰi²¹jã	150
+548	Hangzhou	chimney	46	烟囱	ʔjᴇ̃³³ʦʰoŋ³³	146
+549	Guangzhou	chimney	46	烟通	jin⁵⁵tʰoŋ⁵⁵	146
+550	Nanchang	chimney	46	烟筒	jɛn⁴²tʰuŋ⁰²	146
+551	Chengdu	chimney	46	烟囱	jan⁵⁵ʦʰoŋ⁵⁵	146
+552	Taiyuan	chimney	46	烟洞	je¹¹twəŋ⁴⁵	146
+553	Taiyuan	chimney	46	烟筒	je¹¹tʰwəŋ⁵³	146
+554	Shexian	chimney	46	烟囱	je³¹ʦʰʌ̃³¹	146
+555	Beijing	chimney	46	烟筒	jan⁵⁵tʰuŋ²	146
+556	Kunming	chimney	46	烟囱	jɛ̃⁴⁴ʦʰoŋ⁴⁴	146
+557	Shanghai	chimney	46	烟囱	i⁵³ʦʰoŋ⁵³	146
+# 
+558	Meixian	table	47	桌儿	ʦok¹e	153
+559	Changsha	table	47	桌子	ʦo²⁴ʦɿ	151
+560	Guixian	table	47	桌子	ʦo²¹ʦɿ⁴²	151
+561	Xiamen	table	47	桌仔	toʔ³²a⁵³	153
+562	Xiamen	table	47	桌	toʔ³²	153
+563	Hefei	table	47	桌子	t͡ʂwɐ⁵ʦə	151
+564	Jinan	table	47	桌子	t͡ʂwə²¹³ʦɿ	151
+565	Hangzhou	table	47	桌子	ʦoʔ⁵ʦɿ	151
+566	Guangzhou	table	47	枱	tʰɔj²¹	152
+567	Nanchang	table	47	桌子	ʦɔʔ⁵ʦɿ⁰²	151
+568	Chengdu	table	47	桌子	ʦo³¹ʦɿ⁵³	151
+569	Taiyuan	table	47	桌子	ʦwaʔ²ʦəʔ	151
+570	Shexian	table	47	桌	ʦɔʔ²¹	153
+571	Beijing	table	47	桌子	t͡ʂwo⁵⁵ʦɿ²	151
+572	Kunming	table	47	桌子	t͡ʂo³¹ʦɿ⁵³	151
+573	Shanghai	table	47	台子	de¹³ʦɿ³⁵	151
+# 
+574	Meixian	stairs	48	梯排	tʰoj⁴⁴pʰaj¹¹	156
+575	Changsha	stairs	48	楼梯	ləw¹³tʰi³³	154
+576	Guixian	stairs	48	楼梯	ləw²¹tʰi⁵⁵	154
+577	Xiamen	stairs	48	楼梯	law³⁵tʰwi	154
+578	Xiamen	stairs	48	楼徛	law³⁵kja²²	158
+579	Hefei	stairs	48	楼梯	lɯ⁵⁵ʦʰɿ²¹	154
+580	Jinan	stairs	48	楼梯	low²¹tʰi²¹³	154
+581	Hangzhou	stairs	48	扶梯	ɦu²¹³tʰi³³	155
+582	Guangzhou	stairs	48	楼梯	lɐw²¹tʰɐj⁵⁵	154
+583	Nanchang	stairs	48	楼梯	lɛw⁴⁵tʰi⁰⁴	154
+584	Chengdu	stairs	48	楼梯	nəw³¹tʰi⁵⁵	154
+585	Taiyuan	stairs	48	楼梯	ləw¹¹tʰi¹¹	154
+586	Shexian	stairs	48	阁梯	kɔ²¹tʰɛ³¹	155
+587	Shexian	stairs	48	阁桥	kɔ²¹ʨʰjɔ⁴⁴	157
+588	Beijing	stairs	48	楼梯	low³⁵tʰi⁵⁵	154
+589	Kunming	stairs	48	楼梯	ləw³¹tʰi⁴⁴	154
+590	Shanghai	stairs	48	胡梯	ɦu¹³tʰi⁵³	155
+# 
+591	Meixian	head	49	头	tʰew¹¹	161
+592	Changsha	head	49	脑壳	law⁴¹kʰo²⁴	160
+593	Guixian	head	49	脑壳	la⁴²kʰo²¹	160
+594	Xiamen	head	49	头壳	tʰaw³⁵kʰak³²	161
+595	Xiamen	head	49	头	tʰaw³⁵	161
+596	Hefei	head	49	头	tʰɯ⁵⁵	161
+597	Jinan	head	49	头	tʰow	161
+598	Jinan	head	49	脑袋	nɔ⁵⁵tɛ	159
+599	Hangzhou	head	49	头	dej²¹³	161
+600	Guangzhou	head	49	头	tʰɐw²¹	161
+601	Guangzhou	head	49	头壳	tʰɐw²¹hɔk³	161
+602	Nanchang	head	49	头	tʰɛw²⁴	161
+603	Chengdu	head	49	头	tʰəw³¹	161
+604	Chengdu	head	49	脑壳	naw⁵³kʰo³¹	160
+605	Taiyuan	head	49	得脑	təʔ²naw⁵³	162
+606	Shexian	head	49	头	tʰju⁴⁴	161
+607	Shexian	head	49	头脑壳	tʰju⁴⁴lɔ³⁵kʰɔʔ²¹	163
+608	Beijing	head	49	脑袋	nɑw²¹⁴taj⁴	159
+609	Beijing	head	49	脑袋瓜儿	nɑw²¹⁴taj⁴kwar⁵⁵	159
+610	Beijing	head	49	头	tʰow³⁵	161
+611	Kunming	head	49	脑壳	nɔ⁵³kʰo³¹	160
+612	Shanghai	head	49	头	dɤ¹³	161
+# 
+613	Meixian	forehead	50	额	ŋjak¹	167
+614	Meixian	forehead	50	额角	ŋjak¹kok¹	167
+615	Changsha	forehead	50	额壳	ŋə²⁴kʰo²⁴	165
+616	Changsha	forehead	50	额头	ŋə²⁴təw¹³	166
+617	Guixian	forehead	50	额颅	ŋɛ²¹ləw⁵⁵	166
+618	Xiamen	forehead	50	头额	tʰaw³⁵hjaʔ⁵	172
+619	Hefei	forehead	50	额脑头	ɐʔ⁵lɔ²⁴tʰɯ⁵⁵	168
+620	Jinan	forehead	50	额拉盖儿	jə²¹lakɛr²¹	169
+621	Hangzhou	forehead	50	额角头	ŋɑʔ²koʔ⁵dej²¹³	165
+622	Guangzhou	forehead	50	额头	ŋak²tʰɐw²¹	167
+623	Guangzhou	forehead	50	额	ŋak²	167
+624	Nanchang	forehead	50	脑瓜	lɑw²¹³kwɑ⁰⁴	170
+625	Chengdu	forehead	50	额颅	ŋe³¹nəw³¹	166
+626	Taiyuan	forehead	50	奔颅	pəŋ¹¹ləw¹¹	171
+627	Shexian	forehead	50	额角头	ŋɛ²¹kɔ²¹tʰju⁴⁴	165
+628	Beijing	forehead	50	脑门儿	nɑw²¹⁴mər³⁵	164
+629	Kunming	forehead	50	脑门	nɔ⁵³mə̃³¹	164
+630	Kunming	forehead	50	额勒头	ə³¹lə⁴⁴tʰəw³¹	168
+631	Shanghai	forehead	50	额角头	ŋaʔ¹³koʔ⁵dɤ¹³	165
+# 
+632	Meixian	face	51	面	mjen⁵³	174
+633	Meixian	face	51	面相	mjen⁵³sjoŋ⁵³	174
+634	Changsha	face	51	脸	ljẽ⁴¹	173
+635	Guixian	face	51	脸	ljan⁴²	173
+636	Guixian	face	51	脸包	ljan⁴²pa⁵⁵	173
+637	Xiamen	face	51	面仔	bin²²na⁵³	177
+638	Xiamen	face	51	面	bin²²	177
+639	Hefei	face	51	脸	ljɪ̃²⁴	173
+640	Jinan	face	51	脸	ljã⁵⁵	173
+641	Hangzhou	face	51	脸孔	ljᴇ̃⁵³kʰoŋ⁵³	175
+642	Guangzhou	face	51	面	min²²	174
+643	Nanchang	face	51	脸	ljɛn²¹³	173
+644	Chengdu	face	51	脸	njan⁵³	173
+645	Taiyuan	face	51	眉眼	mi¹¹nje⁵³	176
+646	Taiyuan	face	51	脸	lje⁵³	173
+647	Shexian	face	51	面嘴	me²²ʨy³⁵	174
+648	Shexian	face	51	面孔	me²²kʰwʌ̃³⁵	175
+649	Beijing	face	51	脸	ljan²¹⁴	173
+650	Kunming	face	51	脸	ljɛ̃⁵³	173
+651	Shanghai	face	51	面孔	mi¹³kʰoŋ³⁵	175
+# 
+652	Meixian	nose	52	鼻公	pʰi⁵³kuŋ⁴⁴	178
+653	Changsha	nose	52	鼻子	pi²⁴ʦɿ	178
+654	Guixian	nose	52	鼻子	pi²¹ʦɿ⁴²	178
+655	Xiamen	nose	52	鼻仔	pʰĩ²²jã⁵³	178
+656	Xiamen	nose	52	鼻	pʰĩ²²	178
+657	Hefei	nose	52	鼻子	pjəʔ⁵ʦə	179
+658	Jinan	nose	52	鼻子	pi⁴²ʦɿ	178
+659	Hangzhou	nose	52	鼻头	bɑʔ²dej²¹³	179
+660	Guangzhou	nose	52	鼻哥	pej²²kɔ⁵⁵	178
+661	Nanchang	nose	52	鼻公	pʰiʔ²kuŋ⁰²	178
+662	Chengdu	nose	52	鼻子	pi³¹ʦɿ⁵³	178
+663	Taiyuan	nose	52	鼻子	pjəʔ⁵⁴ʦəʔ	179
+664	Shexian	nose	52	鼻头	pʰi²²tʰju⁴⁴	179
+665	Shexian	nose	52	鼻孔	pʰi²²kʰwʌ̃³⁵	178
+666	Beijing	nose	52	鼻子	pi³⁵ʦɿ³	178
+667	Kunming	nose	52	鼻子	pi³¹ʦɿ⁵³	178
+668	Shanghai	nose	52	鼻头	bjɪʔ¹dɤ¹³	179
+# 
+669	Meixian	neck	53	颈茎	kjaŋ³¹kin⁴⁴	181
+670	Changsha	neck	53	颈根	ʨin⁴¹kən³³	181
+671	Guixian	neck	53	颈根	ʨjaŋ⁴²ken	181
+672	Guixian	neck	53	脖颈	po²¹ʨjaŋ⁴²	183
+673	Xiamen	neck	53	颔颈	am²²kun⁵³	185
+674	Hefei	neck	53	脑颈把	lɔ²⁴ʨin²⁴pa⁵³	182
+675	Jinan	neck	53	脖子	pə⁴²ʦɿ	183
+676	Jinan	neck	53	脖儿梗	pə⁴²ər⁴²kəŋ⁵⁵	180
+677	Hangzhou	neck	53	脰颈	dej¹³ʨin⁵³	182
+678	Guangzhou	neck	53	颈	kɛŋ³⁵	181
+679	Nanchang	neck	53	颈	ʨjɑŋ²¹³	181
+680	Chengdu	neck	53	颈子	ʨin⁵³ʦɿ⁵³	181
+681	Chengdu	neck	53	颈项	ʨin⁵³xaŋ¹³	181
+682	Taiyuan	neck	53	脖子	paʔ⁵⁴ʦəʔ	183
+683	Shexian	neck	53	项颈	xa³⁵ʨjʌ̃³⁵	184
+684	Beijing	neck	53	脖颈儿	po³⁵kə̃r²¹⁴	180
+685	Beijing	neck	53	脖子	po³⁵ʦɿ³	183
+686	Kunming	neck	53	脖子	po³¹ʦɿ⁵³	183
+687	Shanghai	neck	53	头颈	dɤ¹³ʨiŋ³⁵	182
+# 
+688	Meixian	left hand	54	左手	ʦo³¹su³¹	186
+689	Changsha	left hand	54	左手	ʦo⁴¹ʂəw⁴¹	186
+690	Changsha	left hand	54	左手子	ʦo⁴¹ʂəw⁴¹ʦɿ	186
+691	Guixian	left hand	54	左手	ʦo⁴²səw⁴²	186
+692	Guixian	left hand	54	反手	fan⁴²səw⁴²	188
+693	Xiamen	left hand	54	倒手	to²¹ʦʰju	186
+694	Xiamen	left hand	54	左手	ʦo⁵³ʦʰju⁵³	186
+695	Hefei	left hand	54	左手	ʦʊ²⁴ʂɯ²⁴	186
+696	Jinan	left hand	54	左手	ʦwə²¹ʂow⁵⁵	186
+697	Hangzhou	left hand	54	借手	ʨi⁴⁴⁵sej	186
+698	Hangzhou	left hand	54	小手	ɕjɔ⁵³sej⁵³	186
+699	Guangzhou	left hand	54	左手	ʦɔ³⁵sɐw³⁵	186
+700	Nanchang	left hand	54	左手	ʦo²¹³sɨw²¹³	186
+701	Chengdu	left hand	54	左手	ʦo⁵³səw	186
+702	Chengdu	left hand	54	左刮刮	ʦo⁵³kwa⁵³kwa⁵³	187
+703	Chengdu	left hand	54	左拐拐	ʦo⁵³kwajuai⁵³kwajuai⁵³	187
+704	Chengdu	left hand	54	反手	fan⁵³səw⁵³	188
+705	Taiyuan	left hand	54	左手	ʦɤ⁵³səw⁵³	186
+706	Shexian	left hand	54	反手	fɛ³⁵ɕju³⁵	186
+707	Beijing	left hand	54	左手	ʦwo²¹⁴ʂow²¹⁴	186
+708	Kunming	left hand	54	左手	ʦo⁵³ʂəw⁵³	186
+709	Shanghai	left hand	54	左手	ʦu³⁵sɤ³⁵	186
+# 
+710	Meixian	right hand	55	右手	ju⁵³su³¹	189
+711	Changsha	right hand	55	右手	jəwiəu¹¹ʂəw⁴¹	189
+712	Guixian	right hand	55	右手	jəwiəu²¹³səw⁴²	189
+713	Guixian	right hand	55	正手	ʦen²¹³səw⁴²	190
+714	Xiamen	right hand	55	右手	ju²²ʦʰju⁵³	189
+715	Xiamen	right hand	55	正手	ʦjã²¹ʦʰju	191
+716	Hefei	right hand	55	右手	jɯ⁵³ʂɯ²⁴	189
+717	Jinan	right hand	55	右手	jowiou²¹ʂow⁵⁵	189
+718	Hangzhou	right hand	55	顺手	zɥen¹³sej⁵³	189
+719	Hangzhou	right hand	55	大手	dɑ¹³sej⁵³	190
+720	Guangzhou	right hand	55	右手	jɐw²²sɐw³⁵	189
+721	Nanchang	right hand	55	右手	ju²¹sɨw²¹³	189
+722	Chengdu	right hand	55	右手	jəwiəu¹³səw⁵³	189
+723	Taiyuan	right hand	55	正手	ʦəŋ⁴⁵səw⁵³	190
+724	Taiyuan	right hand	55	右手	jəwiəu⁴⁵səw⁵³	189
+725	Shexian	right hand	55	顺手	ɕɥʌ̃²²ɕju³⁵	189
+726	Beijing	right hand	55	右手	jowiou⁵¹ʂow²¹⁴	189
+727	Kunming	right hand	55	右手	jəwiəu²¹²ʂəw⁵³	189
+728	Shanghai	right hand	55	右手	ɦjɤ¹³sɤ³⁵	189
+# 
+729	Meixian	fist	56	拳头	kʰjan¹¹tʰew¹¹	192
+730	Changsha	fist	56	拳头骨	ʨɥẽ¹³təw¹³ku	192
+731	Guixian	fist	56	碇子	tin²¹³ʦɿ⁴²	193
+732	Guixian	fist	56	砣砣	tʰo²¹tʰo⁵⁵	195
+733	Xiamen	fist	56	拳头母	kun³⁵tʰaw³⁵bu⁵³	196
+734	Hefei	fist	56	拳头	ʨʰɥɪ̃⁵⁵tʰɯ	192
+735	Jinan	fist	56	拳头	ʨʰɥã⁴²tʰow	192
+736	Jinan	fist	56	拳	ʨʰɥã⁴²	192
+737	Hangzhou	fist	56	拳头	ʣɥõ²¹³dej²¹³	192
+738	Guangzhou	fist	56	拳头	kʰyn²¹tʰɐw²¹	192
+739	Nanchang	fist	56	拳头	ʨʰɥɵn²⁴tʰɛw⁰⁴	192
+740	Chengdu	fist	56	碇子	tin¹³ʦɿ	193
+741	Chengdu	fist	56	砣子	tʰo³¹ʦɿ⁵³	193
+742	Taiyuan	fist	56	圪都	kəʔ⁵⁴tu¹¹	195
+743	Taiyuan	fist	56	锤	ʦʰwejuei¹¹	194
+744	Shexian	fist	56	锤	ʨʰɥe⁴⁴	192
+745	Shexian	fist	56	锤头	ʨʰɥe⁴⁴tʰju⁴⁴	192
+746	Beijing	fist	56	拳头	ʨʰɥan³⁵tʰow³	192
+747	Kunming	fist	56	捶头	t͡ʂʰwejuei³¹tʰəw³¹	194
+748	Shanghai	fist	56	拳头	ʥɥø¹³dɤ¹³	192
+# 
+749	Meixian	forefinger	57	手指	su³¹ʦɿ³¹	200
+750	Changsha	forefinger	57	手指脑	ʂəw⁴¹t͡ʂʅ²⁴law⁴¹	197
+751	Guixian	forefinger	57	指头	ʦɿ⁴²tʰəw²¹	198
+752	Guixian	forefinger	57	手指头	səw⁴²ʦɿ⁴²tʰəw²¹	197
+753	Xiamen	forefinger	57	手掌头仔	ʦʰju⁵³ʦŋ̍⁵³tʰaw³⁵a	202
+754	Xiamen	forefinger	57	手指	ʦʰju⁵³ʦãj⁵³	200
+755	Hefei	forefinger	57	拇爪头	mu²⁴t͡ʂɔ²⁴tʰɯ⁵⁵	199
+756	Jinan	forefinger	57	手指头	ʂow⁵⁵t͡ʂʅ²¹³tʰow	197
+757	Hangzhou	forefinger	57	手指头	sej⁵³ʦɿ⁵³dej²¹³	197
+758	Guangzhou	forefinger	57	手指头	sɐw³⁵ʦi³⁵tʰɐw²¹	197
+759	Nanchang	forefinger	57	指头子	ʦɨʔ⁵tʰɛw⁰²ʦɿ⁰²	198
+760	Chengdu	forefinger	57	手指	səw⁵³ʦɿ	197
+761	Chengdu	forefinger	57	指头儿	ʦɿ⁵³tʰər³¹	198
+762	Chengdu	forefinger	57	手指指	səw⁵³ʦɿ⁵³ʦɿ	197
+763	Taiyuan	forefinger	57	手指头	səw⁵³ʦəʔ²tʰəw¹¹	197
+764	Shexian	forefinger	57	手美头	ɕju³⁵me³⁵tʰju⁴⁴	201
+765	Beijing	forefinger	57	手指头	ʂow²¹⁴t͡ʂʅ²¹⁴tʰow⁴	197
+766	Kunming	forefinger	57	手指头	ʂəw⁵³t͡ʂʅ³¹tʰəw³¹	197
+767	Shanghai	forefinger	57	手指头	sɤ³⁵ʦɿ³⁵dɤ¹³	197
+768	Shanghai	forefinger	57	手节头	sɤ³⁵ʨjɪʔ⁵dɤ¹³	197
+# 
+769	Meixian	fingernail	58	手指甲	su³¹ʦɿ³¹kap¹	206
+770	Changsha	fingernail	58	指甲子	t͡ʂʅ²⁴ka²⁴ʦɿ	204
+771	Guixian	fingernail	58	指甲	ʦɿ⁴²ʨja²¹	203
+772	Xiamen	fingernail	58	掌甲	ʦŋ̍⁵³kaʔ³²	207
+773	Hefei	fingernail	58	指甲盖	t͡ʂəʔ⁵ʨjɐʔ⁵kᴇ⁵³	203
+774	Jinan	fingernail	58	指甲盖儿	t͡ʂʅ²¹³ʨjakɛr²¹	203
+775	Guangzhou	fingernail	58	膝头	sɐt⁵tʰɐw²¹	205
+776	Nanchang	fingernail	58	指甲子	ʦʔ⁵kaʔ⁰²ʦɿ⁰²	204
+777	Chengdu	fingernail	58	指甲	ʦɿ⁵³ʨja³¹	203
+778	Taiyuan	fingernail	58	指甲	ʦəʔ²ʨjaʔ²	203
+779	Shexian	fingernail	58	手指甲	ɕju³⁵ʦɿ³⁵kaʔ²¹	206
+780	Beijing	fingernail	58	指甲	t͡ʂʅ⁵⁵ʨja²	203
+781	Kunming	fingernail	58	指甲	t͡ʂʅ³¹ʨjᴀ³¹	203
+782	Shanghai	fingernail	58	手节掐	sɤ³⁵ʨjɪʔ⁵kʰaʔ⁵	206
+783	Shanghai	fingernail	58	手指掐	sɤ³⁵ʦɿ³⁵kʰaʔ⁵	206
+# 
+784	Meixian	knee	59	膝头项	ʦʰit¹tʰew¹¹hoŋ⁵³	213
+785	Changsha	knee	59	膝头骨	si²⁴təwku²⁴	209
+786	Changsha	knee	59	髂膝骨	kʰə²⁴si²⁴ku²⁴	215
+787	Guixian	knee	59	克膝头	kʰɛ²¹ɕi⁵⁵tʰəw²¹	210
+788	Xiamen	knee	59	骹头趺	kʰa⁵⁵tʰaw³⁵u⁵⁵	216
+789	Hefei	knee	59	磕膝头	kʰɐʔ⁵ʨʰjəʔ⁵tʰɯ⁵⁵	212
+790	Jinan	knee	59	波勒盖	pə²¹³lə²¹³kɛr²¹	208
+791	Jinan	knee	59	波拉盖	pə²¹³la²¹³kɛr	208
+792	Jinan	knee	59	胳拉瓣儿	kə²¹³la²¹³pɛr²¹	217
+793	Hangzhou	knee	59	膝髁头	ɕjəʔ⁵kʰo³³dej²¹³	211
+794	Nanchang	knee	59	克膝头子	kʰjɛʔ⁵ɕiʔ⁵tʰɛw²⁴ʦɿ⁰⁴	210
+795	Chengdu	knee	59	磕膝头儿	kʰe³¹ɕi³¹tʰər³¹	210
+796	Taiyuan	knee	59	圪地跪	kəʔ⁵⁴ti⁴⁵kʰwejuei¹¹	215
+797	Taiyuan	knee	59	圪膝盖	kəʔ⁵⁴ʨʰjəʔ²kaj⁴⁵	212
+798	Shexian	knee	59	脚膝头	ʨja²¹si²¹tʰju⁴⁴	210
+799	Beijing	knee	59	波棱盖儿	po⁵⁵ləŋ²kar⁵¹	208
+800	Kunming	knee	59	磕膝头	kʰə³¹ɕi³¹tʰəw³¹	210
+801	Shanghai	knee	59	脚馒头	ʨjaʔ⁵mø¹³dɤ¹³	214
+802	Shanghai	knee	59	膝盖	ɕjɪʔ⁵ke³⁵	211
+# 
+803	Meixian	leg	60	脚项	kjok¹hoŋ⁵³	220
+804	Changsha	leg	60	腿把子	tʰej⁴¹pa⁵⁵ʦɿ	219
+805	Guixian	leg	60	罢腿	pa²¹³tʰwejuei⁴²	218
+806	Xiamen	leg	60	骹腿	kʰa⁵⁵tʰwi⁵³	224
+807	Xiamen	leg	60	腿	tʰwi⁵³	222
+808	Hefei	leg	60	腿	tʰe²⁴	222
+809	Jinan	leg	60	腿	tʰwejuei⁵⁵	218
+810	Hangzhou	leg	60	脚膀	ʨjɑʔ⁵pʰɑŋ⁵³	221
+811	Guangzhou	leg	60	脚	kœk³	220
+812	Guangzhou	leg	60	大髀	taj²²pej³⁵	219
+813	Nanchang	leg	60	脚	ʨjɔʔ⁵	221
+814	Chengdu	leg	60	腿	tʰwejuei	218
+815	Chengdu	leg	60	腿腿儿	tʰwejuei⁵³tʰwər⁵³	218
+816	Chengdu	leg	60	腿杆	tʰwejuei⁵³kan⁵³	218
+817	Taiyuan	leg	60	腿	tʰwejuei⁵³	218
+818	Shexian	leg	60	腿杆	ʨja²¹kwɛ³⁵	223
+819	Shexian	leg	60	大腿	tʰo²²tʰɛ³⁵	225
+820	Beijing	leg	60	腿	tʰwejuei²¹⁴	218
+821	Kunming	leg	60	腿肚包	tʰwejuei⁵³tu²¹²pɔ⁴⁴	218
+822	Kunming	leg	60	脚杆儿	ʨjo³¹kə³¹	223
+823	Shanghai	leg	60	脚膀	ʨjaʔ⁵pʰɑ̃³⁵	221
+# 
+824	Meixian	father	61	阿爸	a⁴⁴pa⁴⁴	228
+825	Meixian	father	61	爷儿	ja¹¹e	232
+826	Changsha	father	61	爹爹	tje³³tje	226
+827	Changsha	father	61	爷爷	ja¹³ja	232
+828	Changsha	father	61	爷老倌	ja¹³law⁴¹kõ³³	234
+829	Guixian	father	61	爸爸	pa²¹pa	227
+830	Guixian	father	61	爹	tjɛ⁵⁵	226
+831	Guixian	father	61	老者	la⁴²ʦej⁴²	235
+832	Xiamen	father	61	老爸	law²²pe²²	231
+833	Xiamen	father	61	父亲	hu²²ʦʰin⁵⁵	233
+834	Xiamen	father	61	阿爸	a⁵⁵pa²²	228
+835	Hefei	father	61	伯伯	pɐʔ⁵pɐʔ⁵	227
+836	Jinan	father	61	爹	tjə²¹³	226
+837	Jinan	father	61	爸爸	pa²¹pa	227
+838	Jinan	father	61	大大	ta⁴²ta	236
+839	Hangzhou	father	61	爸爸	pɑ³³pɑ³³	227
+840	Guangzhou	father	61	爸爸	pa²¹pa⁵⁵	227
+841	Guangzhou	father	61	老豆	low²³tɐw²²	231
+842	Nanchang	father	61	爸	pɑʔ⁵	227
+843	Nanchang	father	61	爸爸新	pɑʔ⁵pɑʔ⁰²	227
+844	Nanchang	father	61	爷称述	jɑ⁴⁵	232
+845	Chengdu	father	61	爸	pa³¹	227
+846	Chengdu	father	61	爸爸	pa³¹pa	227
+847	Chengdu	father	61	老爸子	naw⁵³pa³¹ʦɿ⁵³	230
+848	Chengdu	father	61	爹	tje⁵⁵	226
+849	Chengdu	father	61	老爷子	naw⁵³je³¹ʦɿ⁵³	230
+850	Taiyuan	father	61	老子	law⁵³ʦəʔ	230
+851	Taiyuan	father	61	爸	pa⁴⁵	227
+852	Shexian	father	61	相	sja³²⁴	229
+853	Shexian	father	61	爷	je⁴⁴	232
+854	Beijing	father	61	爹	tjɛ⁵⁵	226
+855	Beijing	father	61	爸	pa⁵¹	227
+856	Beijing	father	61	老爷子	lɑw²¹⁴jɛ³⁵ʦɿ³	230
+857	Kunming	father	61	爹	tjɛ⁴⁴	226
+858	Shanghai	father	61	爹爹	tja⁵³tja⁵³	226
+859	Shanghai	father	61	阿伯	aʔ⁵paʔ⁵	227
+860	Shanghai	father	61	爷	ɦja¹³	229
+# 
+861	Meixian	mother	62	阿姆	a⁴⁴me⁴⁴	238
+862	Changsha	mother	62	妈妈	ma⁵⁵ma	238
+863	Changsha	mother	62	娘	ȵjan¹³	237
+864	Changsha	mother	62	娘老子	ȵjan¹³law⁴¹ʦɿ	237
+865	Guixian	mother	62	妈	ma⁵⁵	238
+866	Guixian	mother	62	老妈	la⁴²ma⁵⁵	241
+867	Xiamen	mother	62	老母	law²²bu⁵³	240
+868	Xiamen	mother	62	妈妈	ma⁵⁵ma⁵⁵	238
+869	Hefei	mother	62	妈爷	ma²¹i⁵⁵	238
+870	Jinan	mother	62	娘	ȵjaŋ⁴²	237
+871	Hangzhou	mother	62	妈妈	mɑ³³mɑ³³	238
+872	Guangzhou	mother	62	妈妈	ma²¹ma⁵⁵	238
+873	Guangzhou	mother	62	老母	low²³mow²³	241
+874	Nanchang	mother	62	姆妈	m̩⁴²mɑ⁰²	238
+875	Nanchang	mother	62	娘称述	ȵjɔŋ⁴⁵	237
+876	Chengdu	mother	62	妈	ma	238
+877	Chengdu	mother	62	娘	ȵjaŋ	237
+878	Chengdu	mother	62	老娘儿	naw⁵³ȵjər³¹	242
+879	Taiyuan	mother	62	妈	ma¹¹	238
+880	Shexian	mother	62	姆妈	m̩³⁵ma³¹	239
+881	Shexian	mother	62	姆	m̩³⁵	239
+882	Shexian	mother	62	阿姨	a³¹i⁴⁴	243
+883	Beijing	mother	62	娘	njɑŋ³⁵	237
+884	Beijing	mother	62	妈	ma⁵⁵	238
+885	Kunming	mother	62	妈	mᴀ⁴⁴	238
+886	Kunming	mother	62	嫫	mo⁴⁴	238
+887	Shanghai	mother	62	姆妈	m̩⁵³ma¹³	238
+888	Shanghai	mother	62	娘	ȵjã¹³	237
+# 
+889	Meixian	husband	73	老公	law³¹kuŋ⁴⁴	247
+890	Changsha	husband	73	男人	lan¹³ʐən¹³	244
+891	Changsha	husband	73	老倌子	law⁴¹kõ³³ʦɿ	247
+892	Changsha	husband	73	爱人	ŋaj⁵⁵ʐən¹³	244
+893	Guixian	husband	73	男人	lan²¹zen²¹	244
+894	Guixian	husband	73	汉子	xan²¹³ʦɿ⁴²	250
+895	Guixian	husband	73	老公	la⁴²koŋ⁵⁵	247
+896	Guixian	husband	73	门前人	men²¹ʨʰjan⁵⁵zen²¹	256
+897	Xiamen	husband	73	翁	aŋ	249
+898	Xiamen	husband	73	丈夫	tjɔŋ²²hu⁵⁵	253
+899	Hefei	husband	73	老的们	lɔ²⁴tjəʔmən	245
+900	Jinan	husband	73	男人	nã⁴²ʐẽ	244
+901	Jinan	husband	73	男的	nã⁴²ti	251
+902	Jinan	husband	73	女婿	ȵy⁵⁵ɕy	244
+903	Jinan	husband	73	对象	twejuei²¹ɕjaŋ²¹	257
+904	Hangzhou	husband	73	老公	lɔ⁵³koŋ³³	247
+905	Hangzhou	husband	73	男人	nᴇ̃²¹³zen²¹³	244
+906	Hangzhou	husband	73	爱人	ʔᴇ⁴⁴⁵zen²¹³	244
+907	Guangzhou	husband	73	老公	low²³koŋ⁵⁵	247
+908	Nanchang	husband	73	老公	lɑw²¹³kuŋ⁰⁴	247
+909	Chengdu	husband	73	老公	naw⁵³koŋ⁵⁵	247
+910	Chengdu	husband	73	当家的	taŋ⁵⁵ʨja⁵⁵ni⁵⁵	248
+911	Chengdu	husband	73	男人	nan³¹zən³¹	244
+912	Taiyuan	husband	73	当家的	tɒ̃¹¹ʨja¹¹təʔ	248
+913	Taiyuan	husband	73	老汉	law⁵³xæ̃⁴⁵	247
+914	Shexian	husband	73	老公	lɔ³⁵kwʌ̃	247
+915	Shexian	husband	73	官客	kwɛ³¹kʰɛʔ	252
+916	Shexian	husband	73	男人	lɛ⁴⁴jʌ̃⁴⁴	255
+917	Shexian	husband	73	家里	ka³¹li³⁵	258
+918	Beijing	husband	73	男人	nan³⁵ʐən³	244
+919	Beijing	husband	73	当家的	tɑŋ⁵⁵ʨja⁵⁵tə²	248
+920	Beijing	husband	73	爷们儿	jɛ³⁵mər³	254
+921	Kunming	husband	73	男人	nᴀ̃³¹ʐə̃³¹	244
+922	Kunming	husband	73	老倌儿	lɔ⁵³kwə⁴⁴	247
+923	Kunming	husband	73	男呢	nᴀ̃³¹nə⁴⁴	246
+924	Shanghai	husband	73	爱人	e³⁵ȵiŋ¹³	246
+925	Shanghai	husband	73	男人	nø¹³ȵiŋ¹³	246
+926	Shanghai	husband	73	老公	lɔ¹³koŋ⁵³	247
+# 
+927	Meixian	wife	74	老婆	law³¹pʰo¹¹	261
+928	Changsha	wife	74	堂客	tan¹³kʰə²⁴	260
+929	Changsha	wife	74	婆婆子	po¹³po¹³ʦɿ	266
+930	Changsha	wife	74	爱人	ŋaj⁵⁵ʐən¹³	267
+931	Guixian	wife	74	女的	li⁴²lɛ⁵⁵	262
+932	Guixian	wife	74	女人	li⁴²zen²¹	267
+933	Guixian	wife	74	婆娘	pʰo²¹ljaŋ⁵⁵	264
+934	Xiamen	wife	74	某	bɔ⁵³	264
+935	Xiamen	wife	74	厝里人	ʦʰu²¹laj²²laŋ³⁵	270
+936	Hefei	wife	74	奶奶们	lᴇ²⁴lᴇmən	263
+937	Jinan	wife	74	老婆	lɔ⁵⁵pʰə	261
+938	Jinan	wife	74	女的	ȵy⁵⁵ti	268
+939	Jinan	wife	74	家里的	ʨja²¹³liti	272
+940	Jinan	wife	74	媳妇	ɕi²¹³fu	259
+941	Jinan	wife	74	对象	twejuei²¹ɕjaŋ²¹	273
+942	Hangzhou	wife	74	老婆	lɔ⁵³bo²¹³	261
+943	Hangzhou	wife	74	爱人	ʔᴇ⁴⁴⁵zen²¹³	267
+944	Hangzhou	wife	74	屋里	ʔoʔ⁵li⁵³	271
+945	Guangzhou	wife	74	老婆	low²³pʰɔ²¹	261
+946	Nanchang	wife	74	老婆	lɑw²¹³pʰo⁰⁴	261
+947	Chengdu	wife	74	老婆	naw⁵³pʰo³¹	261
+948	Chengdu	wife	74	婆娘	pʰo³¹ȵjaŋ³¹	264
+949	Chengdu	wife	74	女人	ȵy⁵³zən³¹	267
+950	Taiyuan	wife	74	老婆	law⁵³pʰɤ¹¹	261
+951	Shexian	wife	74	老婆	lɔ³⁵pʰo⁴⁴	261
+952	Shexian	wife	74	老妪	lɔ³⁵y²²	269
+953	Shexian	wife	74	堂家	tʰa⁴⁴ka³¹	260
+954	Shexian	wife	74	女人	ny³⁵jʌ̃⁴⁴	268
+955	Shexian	wife	74	家里	ka³¹li³⁵	271
+956	Beijing	wife	74	媳妇儿	ɕi³⁵fər³	259
+957	Beijing	wife	74	老婆子	lɑw²¹⁴pʰo³⁵ʦɿ	261
+958	Kunming	wife	74	婆娘	pʰo³¹njᴀ̃³¹	264
+959	Kunming	wife	74	老婆	lɔ⁵³pʰo³¹	261
+960	Kunming	wife	74	媳妇	ɕi³¹fu²¹²	259
+961	Kunming	wife	74	女人	ni⁵³ʐə̃³¹	267
+962	Kunming	wife	74	女呢	ni⁵³nə⁴⁴	262
+963	Kunming	wife	74	家首呢	ʨjᴀ⁴⁴ʂəw⁵³nə⁴⁴	274
+964	Shanghai	wife	74	爱人	e³⁵ȵiŋ¹³	265
+965	Shanghai	wife	74	老婆	lɔ²³bu¹³	261
+966	Shanghai	wife	74	女人	ȵy¹³ȵiŋ¹³	265
+# 
+967	Meixian	son	75	赖儿	laj⁵³je	278
+968	Changsha	son	75	崽	ʦaj⁴¹	275
+969	Guixian	son	75	儿子	ɚ²¹ʦɿ⁴²	277
+970	Guixian	son	75	男娃娃	lan²¹wa²¹wa⁵⁵	281
+971	Xiamen	son	75	囝	kjã⁵³	280
+972	Xiamen	son	75	后生	haw²²sĩ⁵⁵	282
+973	Hefei	son	75	儿子	a⁵⁵ʦə	277
+974	Jinan	son	75	儿	ər⁴²	276
+975	Jinan	son	75	小子	ɕjɔ⁵⁵ʦɿ	279
+976	Hangzhou	son	75	儿子	əl²¹³ʦɿ⁵³	277
+977	Guangzhou	son	75	仔	ʦɐj³⁵	275
+978	Nanchang	son	75	崽	ʦaj²¹³	275
+979	Chengdu	son	75	儿	ər³¹	276
+980	Taiyuan	son	75	小子	ɕjawiau⁵³ʦəʔ	279
+981	Taiyuan	son	75	儿子	ər¹¹ʦəʔ	277
+982	Shexian	son	75	儿子	ɛ⁴⁴ʦɿ³⁵	277
+983	Beijing	son	75	儿子	ər³⁵ʦɿ³	277
+984	Kunming	son	75	儿子	ə³¹ʦɿ⁵³	277
+985	Shanghai	son	75	儿子	ȵi¹³ʦɿ³⁵	277
+# 
+986	Meixian	daughter	76	妹仔	moj⁵⁵e³¹	288
+987	Changsha	daughter	76	女	ȵy⁴¹	284
+988	Guixian	daughter	76	姑娘	ku⁵⁵ljaŋ⁵⁵	286
+989	Guixian	daughter	76	姑奶	ku⁵⁵laj²¹	286
+990	Guixian	daughter	76	女娃娃	li⁴²wa²¹wa⁵⁵	285
+991	Guixian	daughter	76	女娃儿	li⁴²wa²¹ɚ⁵⁵	285
+992	Xiamen	daughter	76	查某囝	ʦa³⁵bɔ⁵³kjã⁵³	289
+993	Hefei	daughter	76	丫头	ja²¹tʰɯ	287
+994	Jinan	daughter	76	闺女	kwejuei²¹³ȵy	283
+995	Guangzhou	daughter	76	女	nøɥ²³	284
+996	Nanchang	daughter	76	女	ȵy²¹³	284
+997	Chengdu	daughter	76	女娃子	ȵy⁵³wa³¹ʦɿ	285
+998	Chengdu	daughter	76	姑娘家	ku⁵⁵ȵjaŋ³¹ʨja⁵⁵	286
+999	Taiyuan	daughter	76	闺女	kwejuei¹¹ny⁵³	283
+1000	Taiyuan	daughter	76	姑娘	ku¹¹njɒ̃¹¹	286
+1001	Shexian	daughter	76	女	ny³⁵	284
+1002	Beijing	daughter	76	闺女	kwejuei⁵⁵ny²	283
+1003	Beijing	daughter	76	女儿	ny²¹⁴ər⁴	284
+1004	Kunming	daughter	76	囡	nwə³¹	284
+1005	Shanghai	daughter	76	囡五	nø¹³ŋ̍¹³	284
+# 
+1006	Meixian	breakfast	77	食朝	sət⁵ʦaw⁴⁴	293
+1007	Changsha	breakfast	77	早饭	ʦaw⁴¹fan¹¹	290
+1008	Guixian	breakfast	77	过早	ko²¹³ʦa⁴²	291
+1009	Guixian	breakfast	77	早餐	ʦa⁴²ʦʰan⁵⁵	290
+1010	Guixian	breakfast	77	早饭	ʦa⁴²fan²¹³	290
+1011	Xiamen	breakfast	77	早起顿	ʦa⁵³kʰi⁵³tŋ̍	294
+1012	Xiamen	breakfast	77	早餐	ʦa⁵³ʦʰan⁵⁵	290
+1013	Hefei	breakfast	77	早饭	ʦɔ²⁴fæ̃⁵³	290
+1014	Jinan	breakfast	77	早饭	ʦɔ⁵⁵fã²¹	290
+1015	Jinan	breakfast	77	早点	ʦɔ⁵⁵tjã⁵⁵	292
+1016	Hangzhou	breakfast	77	早饭	ʦɔ⁵³vᴇ̃¹³	290
+1017	Guangzhou	breakfast	77	早餐	ʦow³⁵ʦʰan⁵⁵	290
+1018	Nanchang	breakfast	77	早饭	ʦɑw²¹³fan²¹	290
+1019	Chengdu	breakfast	77	早饭	ʦaw⁵³fan¹³	290
+1020	Taiyuan	breakfast	77	早清饭	ʦaw⁵³ʨʰjəŋ¹¹fæ̃⁴⁵	290
+1021	Shexian	breakfast	77	早饭	ʦɔ³⁵fɛ	290
+1022	Shexian	breakfast	77	吃粥	ʨʰi²¹ʦuʔ²¹	295
+1023	Beijing	breakfast	77	早上饭	ʦɑw²¹⁴ʂɑŋ⁴fan	290
+1024	Beijing	breakfast	77	早点	ʦɑw²¹⁴tjan²¹⁴	292
+1025	Kunming	breakfast	77	早点	ʦɔ⁵³tjɛ̃⁵³	292
+1026	Shanghai	breakfast	77	早饭	ʦɔ³⁵ve¹³	290
+# 
+1027	Meixian	lunch	78	食昼	sət⁵ʦu⁵³	299
+1028	Changsha	lunch	78	中饭	t͡ʂoŋ³³fan¹¹	297
+1029	Guixian	lunch	78	中午饭	ʦoŋ⁵⁵u⁴²fan²¹³	297
+1030	Xiamen	lunch	78	下昼顿	e²²taw²¹tŋ̍	300
+1031	Xiamen	lunch	78	午餐	ŋɔ⁵³ʦʰan⁵⁵	298
+1032	Hefei	lunch	78	中饭	t͡ʂəŋ²¹fæ̃⁵³	297
+1033	Jinan	lunch	78	晌午饭	ʂaŋ⁵⁵ufã²¹	296
+1034	Hangzhou	lunch	78	中饭	ʦoŋ³³vᴇ̃¹³	297
+1035	Guangzhou	lunch	78	午餐	ŋ̍²³ʦʰan⁵⁵	298
+1036	Guangzhou	lunch	78	中午饭	ʦoŋ⁵³ŋ̍²³fan²²	297
+1037	Nanchang	lunch	78	中饭	ʦuŋ⁴²fan²¹	297
+1038	Nanchang	lunch	78	昼饭	ʨju⁴⁵fan²¹	297
+1039	Chengdu	lunch	78	午饭	u⁵³fan¹³	297
+1040	Taiyuan	lunch	78	晌午饭	sɒ̃⁵³vu⁵³fæ̃⁴⁵	296
+1041	Shexian	lunch	78	中饭	ʦʌ̃³¹fɛ²²	297
+1042	Beijing	lunch	78	晌午饭	ʂɑŋ²¹⁴u³fan⁵¹	296
+1043	Kunming	lunch	78	早饭	ʦɔ⁵³fᴀ̃²¹²	297
+1044	Shanghai	lunch	78	中饭	ʦoŋ⁵³ve¹³	297
+# 
+1045	Meixian	supper	79	食夜	sət⁵ja⁵³	304
+1046	Changsha	supper	79	夜饭	ja¹¹fan¹¹	301
+1047	Guixian	supper	79	晚饭	wan⁴²fan²¹³	303
+1048	Xiamen	supper	79	下昏顿	e²²hŋ⁵⁵tŋ̍	306
+1049	Xiamen	supper	79	晚餐	bwan⁵³ʦʰan⁵⁵	302
+1050	Hefei	supper	79	晚饭	wæ̃²⁴fæ̃⁵³	303
+1051	Jinan	supper	79	晚饭	vã⁵⁵fã²¹	303
+1052	Hangzhou	supper	79	夜饭	ɦi¹³vᴇ̃¹³	301
+1053	Guangzhou	supper	79	晚餐	man²³ʦʰan⁵⁵	302
+1054	Guangzhou	supper	79	晚饭	man²³fan²²	303
+1055	Nanchang	supper	79	夜饭	jɑ²¹fan²¹	301
+1056	Chengdu	supper	79	晚饭	wan⁵³fan¹³	303
+1057	Chengdu	supper	79	夜饭	je¹³fan¹³	301
+1058	Taiyuan	supper	79	黑夜饭	xəʔ²je⁴⁵fæ̃⁴⁵	305
+1059	Shexian	supper	79	夜饭	ja²²fɛ²²	301
+1060	Beijing	supper	79	晚饭	wan²¹⁴fan⁵¹	303
+1061	Kunming	supper	79	晚饭	wᴀ̃⁵³fᴀ̃²¹²	303
+1062	Shanghai	supper	79	夜饭	ɦja¹³ve¹³	301
+# 
+1063	Meixian	noodles	80	面	mjen⁵³	307
+1064	Changsha	noodles	80	面	mjẽ¹¹	307
+1065	Guixian	noodles	80	面	mjan²¹³	307
+1066	Guixian	noodles	80	面条	mjan²¹³tʰjaoiao²¹	307
+1067	Xiamen	noodles	80	面	mi²²	307
+1068	Hefei	noodles	80	面条	mjɪ̃⁵³tʰjɔ⁵⁵	307
+1069	Jinan	noodles	80	面条儿	mjã²¹tʰjɔr⁴²	307
+1070	Jinan	noodles	80	面	mjã²¹	307
+1071	Hangzhou	noodles	80	面	mjᴇ̃¹³	307
+1072	Guangzhou	noodles	80	面	min²²	307
+1073	Nanchang	noodles	80	面	mjɛn²¹	307
+1074	Chengdu	noodles	80	面	mjan¹³	307
+1075	Chengdu	noodles	80	面条儿	mjan¹³tʰjər³¹	307
+1076	Taiyuan	noodles	80	面	mje⁴⁵	307
+1077	Shexian	noodles	80	面	me²²	307
+1078	Beijing	noodles	80	面条儿	mjan⁵¹tʰjɑwiɑur	307
+1079	Beijing	noodles	80	面	mjan⁵¹	307
+1080	Kunming	noodles	80	面	mjɛ̃²¹²	307
+1081	Shanghai	noodles	80	面	mi¹³	307
+1082	Shanghai	noodles	80	切面	ʨʰjɪʔ⁵mi¹³	308
+# 
+1083	Meixian	soja sauce	85	白味	pʰak⁵mi⁵³	312
+1084	Changsha	soja sauce	85	酱油	ʦjan⁵⁵jəwiəu¹³	310
+1085	Guixian	soja sauce	85	酱油	ʨjaŋ²¹³jəwiəu²¹	310
+1086	Xiamen	soja sauce	85	豆油	taw²²ju³⁵	313
+1087	Hefei	soja sauce	85	酱油	ʨjɑ̃⁵³jɯ⁵⁵	310
+1088	Jinan	soja sauce	85	酱油	ʨjaŋ²¹jowiou⁴²	310
+1089	Jinan	soja sauce	85	青酱	ʨʰiŋ²¹³ʨjaŋ²¹	311
+1090	Hangzhou	soja sauce	85	酱油	ʨjɑŋ⁴⁴⁵ɦjø²¹³	310
+1091	Guangzhou	soja sauce	85	豉油	si²²jɐw²¹	309
+1092	Guangzhou	soja sauce	85	抽油	ʦʰɐw³⁵jɐw²¹	313
+1093	Nanchang	soja sauce	85	酱油	ʨjɔŋ⁴⁵ju⁴⁵	310
+1094	Chengdu	soja sauce	85	酱油	ʨjaŋ¹³jəwiəu³¹	310
+1095	Chengdu	soja sauce	85	豆油	təw¹³jəwiəu³¹	313
+1096	Taiyuan	soja sauce	85	酱油	ʨjɒ̃⁴⁵jəwiəu¹¹	310
+1097	Shexian	soja sauce	85	酱油	ʦja³²⁴ju⁴⁴	310
+1098	Beijing	soja sauce	85	酱油	ʨjɑŋ⁵¹jowiou³⁵	310
+1099	Kunming	soja sauce	85	清酱	ʨʰĩ⁴⁴ʨjᴀ̃²¹²	311
+1100	Kunming	soja sauce	85	酱油	ʨjᴀ̃²¹²jəwiəu³¹	310
+1101	Shanghai	soja sauce	85	酱油	ʨjã⁵³ɦjɤ¹³	310
+# 
+1102	Meixian	salt	86	盐	jam¹¹	314
+1103	Changsha	salt	86	盐	jẽ¹³	314
+1104	Guixian	salt	86	盐巴	jan²¹pa⁵⁵	314
+1105	Xiamen	salt	86	盐	jam³⁵	314
+1106	Hefei	salt	86	盐	jɪ̃⁵⁵	314
+1107	Jinan	salt	86	盐	jã⁴²	314
+1108	Jinan	salt	86	咸盐	ɕjã⁴²jã⁴²	316
+1109	Hangzhou	salt	86	盐	ɦjᴇ̃²¹³	315
+1110	Guangzhou	salt	86	盐	jim²¹	314
+1111	Nanchang	salt	86	盐	jɛn⁴⁵	314
+1112	Chengdu	salt	86	盐	jan³¹	314
+1113	Chengdu	salt	86	盐巴	jan³¹pa⁵⁵	314
+1114	Taiyuan	salt	86	咸盐	ɕje¹¹je¹¹	316
+1115	Taiyuan	salt	86	细盐	ɕi⁴⁵je¹¹	316
+1116	Taiyuan	salt	86	粗盐	ʦʰu¹¹je¹¹	318
+1117	Taiyuan	salt	86	大海盐	ta⁴⁵xaj⁵³je¹¹	319
+1118	Shexian	salt	86	咸盐	xɛ⁴⁴je⁴⁴	316
+1119	Shexian	salt	86	海沙	xɛ³⁵sa³¹	317
+1120	Beijing	salt	86	盐	jan³⁵	314
+1121	Kunming	salt	86	盐巴	jɛ̃³¹pᴀ⁴⁴	314
+1122	Shanghai	salt	86	盐	ɦi¹³	315
+# 
+1123	Meixian	chopsticks	87	筷儿	kʰwajuai⁵³je	320
+1124	Changsha	chopsticks	87	筷子	kʰwajuai⁵⁵ʦɿ	320
+1125	Guixian	chopsticks	87	筷子	kʰwajuai²¹³ʦɿ⁴²	320
+1126	Xiamen	chopsticks	87	箸	ti²²	322
+1127	Hefei	chopsticks	87	筷子	kʰwᴇ⁵³ʦə	320
+1128	Jinan	chopsticks	87	筷子	kʰwɛ²¹ʦɿ	320
+1129	Hangzhou	chopsticks	87	筷儿	kʰwᴇ⁴⁴⁵əl²¹³	320
+1130	Guangzhou	chopsticks	87	筷子	faj³³ʦi³⁵	321
+1131	Nanchang	chopsticks	87	筷子	kʰwajuai²¹³ʦɿ⁰⁴	320
+1132	Chengdu	chopsticks	87	筷子	kʰwajuai¹³ʦɿ⁵³	320
+1133	Taiyuan	chopsticks	87	筷子	kʰwajuai⁴⁵ʦəʔ	320
+1134	Shexian	chopsticks	87	筷	kʰwa³²⁴	320
+1135	Beijing	chopsticks	87	筷子	kʰwajuai⁵¹ʦɿ¹	320
+1136	Kunming	chopsticks	87	筷儿	kʰwə²¹²ə³¹	320
+1137	Shanghai	chopsticks	87	筷	kʰwe⁵³	320
+1138	Shanghai	chopsticks	87	筷五	kʰwe⁵³ŋ̍¹³	320
+1139	Shanghai	chopsticks	87	筷子	kʰwe⁵³ʦɿ³⁵	320
+# 
+1140	Changsha	spoon	88	瓢	pjawiau¹³	324
+1141	Guixian	spoon	88	瓢儿	pʰjaoiao²¹ɚ⁵⁵	324
+1142	Guixian	spoon	88	瓢瓢	pʰjaoiao²¹pʰjaoiao⁵⁵	324
+1143	Xiamen	spoon	88	汤匙	tʰŋ̍⁵⁵si³⁵	328
+1144	Hefei	spoon	88	勺子	ʂwɐʔ⁵ʦə	327
+1145	Jinan	spoon	88	勺子	ʂɔ⁴²ʦɿ	323
+1146	Jinan	spoon	88	调羹	tʰjɔ⁴²kəŋ⁵⁵	325
+1147	Guangzhou	spoon	88	匙羹	ʦʰi²¹kɐŋ⁵⁵	326
+1148	Guangzhou	spoon	88	羹	kɐŋ⁵⁵	329
+1149	Nanchang	spoon	88	勺子	sɔʔ²ʦɿ⁰²	327
+1150	Nanchang	spoon	88	瓢羹	pʰjɛwiɛu²⁴kjɛn⁰⁴	324
+1151	Chengdu	spoon	88	调羹儿	tʰjawiau³¹kər⁵⁵	325
+1152	Chengdu	spoon	88	瓢羹儿	pʰjawiau³¹kər⁵⁵	325
+1153	Chengdu	spoon	88	瓢瓢	pʰjawiau³¹pʰjawiau³¹	324
+1154	Taiyuan	spoon	88	调羹	tʰjawiau¹¹kəŋ¹¹	325
+1155	Taiyuan	spoon	88	勺勺	saw¹¹saw¹¹	323
+1156	Taiyuan	spoon	88	勺子	saw¹¹ʦəʔ	323
+1157	Shexian	spoon	88	瓢	pʰjɔ⁴⁴	324
+1158	Beijing	spoon	88	勺子	ʂɑw³⁵ʦɿ	323
+1159	Beijing	spoon	88	勺儿	ʂɑwr³⁵	323
+1160	Kunming	spoon	88	调羹	tʰjɔ³¹kə̃⁴⁴	325
+1161	Kunming	spoon	88	勺	ʂo³¹	330
+1162	Shanghai	spoon	88	勺子	zoʔ¹ʦɿ³⁵	327
+1163	Shanghai	spoon	88	抄	ʦʰɔ⁵³	331
+# 
+1164	Meixian	man	89	男儿人	nam¹¹meŋin¹¹	333
+1165	Changsha	man	89	男人	lan¹³ʐən¹³	335
+1166	Changsha	man	89	男的	lan¹³ti	334
+1167	Changsha	man	89	男人家	lan¹³ʐən¹³ka	335
+1168	Guixian	man	89	男的	lan²¹lɛ⁵⁵	334
+1169	Guixian	man	89	男生	lan²¹sen⁵⁵	335
+1170	Xiamen	man	89	丈夫	ta²²pɔ	340
+1171	Xiamen	man	89	男的	lam³⁵e	341
+1172	Hefei	man	89	男的	læ̃⁵⁵tjəʔ	336
+1173	Hefei	man	89	老的们	lɔ²⁴tjəʔmən	336
+1174	Jinan	man	89	男人	nã⁴²ʐẽ⁴²	335
+1175	Jinan	man	89	男的	nã⁴²ti	339
+1176	Jinan	man	89	爷们儿	jə⁴²mer	332
+1177	Hangzhou	man	89	男人家	nᴇ̃²¹³zen²¹³ʨjɑ³³	335
+1178	Guangzhou	man	89	男人	nam²¹jɐn²¹	333
+1179	Nanchang	man	89	男个	lan⁴⁵ko⁰⁴	334
+1180	Nanchang	man	89	男客火里	lan⁴⁵kʰɑʔ⁰⁴fo⁰⁴li⁰⁴	334
+1181	Chengdu	man	89	男人	nan³¹zən³¹	335
+1182	Chengdu	man	89	男的	nan³¹ni⁵⁵	337
+1183	Chengdu	man	89	男人家	nan³¹zən³¹ʨja⁵⁵	335
+1184	Taiyuan	man	89	男的	næ̃¹¹təʔ	339
+1185	Taiyuan	man	89	男人家	næ̃¹¹zəŋ¹¹ʨja¹¹	335
+1186	Shexian	man	89	官客	kwɛ³¹kʰɛʔ²¹	338
+1187	Shexian	man	89	官唉	kwɛ³¹ɛ	338
+1188	Shexian	man	89	官客家	kwɛ³¹kʰɛʔ²¹ka	338
+1189	Shexian	man	89	男人家	lɛ⁴⁴jʌ̃⁴⁴ka	342
+1190	Beijing	man	89	爷们儿	jɛ³⁵mər³	332
+1191	Beijing	man	89	男人	nan³⁵ʐən	335
+1192	Beijing	man	89	男的	nan³⁵tə³	339
+1193	Kunming	man	89	男呢	nᴀ̃³¹nə⁴⁴	337
+1194	Shanghai	man	89	男人	nø¹³ȵiŋ¹³	337
+# 
+1195	Meixian	woman	90	妇人家	fu⁵³ŋin¹¹ka⁴⁴	347
+1196	Changsha	woman	90	女人	ȵy⁴¹ʐən¹³	349
+1197	Changsha	woman	90	女的	ȵy⁴¹ti	349
+1198	Changsha	woman	90	堂客们	tan¹³kʰə²⁴mən	348
+1199	Guixian	woman	90	女的	li⁴²lɛ	344
+1200	Guixian	woman	90	女生	li⁴²sen⁵⁵	349
+1201	Xiamen	woman	90	查某	ʦa³⁵bɔ	350
+1202	Xiamen	woman	90	女的	lu⁵³e	352
+1203	Hefei	woman	90	女的	zy²⁴tjəʔ	345
+1204	Hefei	woman	90	奶奶们	lᴇ²⁴lᴇmən	344
+1205	Jinan	woman	90	女人	ȵy⁵⁵ʐẽ⁴²	349
+1206	Jinan	woman	90	女的	ȵy⁵⁵ti	349
+1207	Jinan	woman	90	娘们儿	ȵjaŋ⁴²mer	353
+1208	Hangzhou	woman	90	女人家	ny⁵³zen²¹³ʨjɑ³³	349
+1209	Guangzhou	woman	90	女人	nøɥ²³jɐn²¹	343
+1210	Nanchang	woman	90	女个	ȵy²¹³ko⁰⁴	349
+1211	Nanchang	woman	90	女客火里	ȵy²¹³kʰɑʔ⁰⁴fo⁰⁴li⁰⁴	351
+1212	Chengdu	woman	90	女人	ȵy⁵³zən³¹	349
+1213	Chengdu	woman	90	女的	ȵy⁵³ni	346
+1214	Chengdu	woman	90	女人家	ȵy⁵³zən³¹ʨja⁵⁵	349
+1215	Taiyuan	woman	90	女的	ny⁵³təʔ	349
+1216	Taiyuan	woman	90	女人家	ny⁵³zəŋ¹¹ʨja¹¹	349
+1217	Taiyuan	woman	90	娘们家	njɒ̃¹¹məŋ¹¹ʨja¹¹	353
+1218	Shexian	woman	90	堂客	tʰa⁴⁴kʰɛʔ²¹	348
+1219	Shexian	woman	90	女人家	ny³⁵jʌ̃⁴⁴ka	349
+1220	Beijing	woman	90	女人	ny²¹⁴ʐən³⁵	349
+1221	Beijing	woman	90	女的	ny²¹⁴tə⁴	349
+1222	Beijing	woman	90	娘们	njɑ̃³⁵mə³	353
+1223	Kunming	woman	90	女呢	ni⁵³nə⁴⁴	346
+1224	Shanghai	woman	90	女人	ȵy¹³ȵiŋ¹³	346
+# 
+1225	Meixian	boy	91	细阿哥儿	se⁵³a⁴⁴ko⁴⁴e	361
+1226	Changsha	boy	91	伢子	ŋa¹³ʦɿ	355
+1227	Guixian	boy	91	男娃娃	lan²¹wa²¹wa⁵⁵	357
+1228	Guixian	boy	91	小男生	ɕjaoiao⁴²lan²¹sen⁵⁵	359
+1229	Xiamen	boy	91	丈夫囝仔	ta²²pɔ⁵⁵kin⁵³na⁵³	362
+1230	Hefei	boy	91	小厮	ɕjɔ²⁴sɿ	359
+1231	Jinan	boy	91	小子	ɕjɔ⁵⁵ʦɿ	360
+1232	Jinan	boy	91	小小儿	ɕjɔ⁵⁵ɕjɔr⁵⁵	359
+1233	Hangzhou	boy	91	男伢儿	nᴇ̃²¹³ɦjɑ²¹³əl²¹³	358
+1234	Guangzhou	boy	91	男仔	nam²¹ʦɐj³⁵	355
+1235	Nanchang	boy	91	男崽子	lan⁴⁵ʦaj⁰⁴ʦɿ⁰⁴	356
+1236	Nanchang	boy	91	崽立子	ʦaj²¹³liʔ⁰⁴ʦɿ⁰⁴	364
+1237	Chengdu	boy	91	男娃子	nan³¹wa³¹ʦɿ⁵³	356
+1238	Taiyuan	boy	91	男娃娃	næ̃¹¹va¹¹va¹¹	357
+1239	Taiyuan	boy	91	小子家	ɕjawiau⁵³ʦəʔʨja¹¹	360
+1240	Taiyuan	boy	91	小后生	ɕjawiau⁵³xəw⁴⁵səŋ¹¹	359
+1241	Shexian	boy	91	小家	sjɔ³⁵ka	360
+1242	Shexian	boy	91	小	sjɔ	365
+1243	Shexian	boy	91	小鬼蒂	sjɔ³⁵kwe³⁵ti³²⁴	367
+1244	Beijing	boy	91	男孩儿	nan³⁵xar	354
+1245	Beijing	boy	91	小子	ɕjɑwiɑu²¹⁴ʦɿ⁴	360
+1246	Kunming	boy	91	男娃娃	nᴀ̃³¹wᴀ³¹wᴀ³¹	357
+1247	Kunming	boy	91	伙子	xo⁵³ʦɿ⁴⁴	363
+1248	Kunming	boy	91	儿子	ə³¹ʦɿ⁵³	366
+1249	Shanghai	boy	91	男小囡	nø¹³ɕjɔ³⁵nø¹³	358
+# 
+1250	Meixian	girl	92	细妹儿	se⁵³moj⁵³je	374
+1251	Changsha	girl	92	妹子	mej¹¹ʦɿ	369
+1252	Guixian	girl	92	女娃娃	li⁴²wa²¹wa⁵⁵	370
+1253	Guixian	girl	92	女娃儿	li⁴²wa²¹ɚ⁵⁵	370
+1254	Guixian	girl	92	小姑娘	ɕjaoiao⁴²ku⁵⁵ljaŋ⁵⁵	379
+1255	Xiamen	girl	92	查某囝仔	ʦa³⁵bɔ⁵³kin⁵³na⁵³	375
+1256	Hefei	girl	92	丫头	ja²¹tʰɯ	372
+1257	Jinan	girl	92	闺女	kwejuei²¹³ȵy	373
+1258	Jinan	girl	92	妮儿	njer²¹³	377
+1259	Hangzhou	girl	92	女伢儿	ny⁵³ɦjɑ²¹³əl²¹³	371
+1260	Hangzhou	girl	92	姑娘儿	ku³³njɑŋ²¹³əl²¹³	376
+1261	Guangzhou	girl	92	女仔	nøɥ²³ʦɐj³⁵	368
+1262	Nanchang	girl	92	女崽子	ȵy²¹³ʦaj⁰⁴ʦɿ⁰⁴	368
+1263	Chengdu	girl	92	女娃子	ȵy⁵³wa³¹ʦɿ	370
+1264	Chengdu	girl	92	妹儿	mər¹³	369
+1265	Taiyuan	girl	92	女娃娃	ny⁵³va¹¹va¹¹	371
+1266	Taiyuan	girl	92	闺女	kwejuei¹¹ny⁵³	373
+1267	Taiyuan	girl	92	姑娘	ku¹¹njɒ̃¹¹	376
+1268	Shexian	girl	92	女家	ny³⁵ka	368
+1269	Shexian	girl	92	妮家	ni⁴⁴ka	378
+1270	Shexian	girl	92	女囡	ny³⁵mɛ	368
+1271	Shexian	girl	92	女	ny³⁵	368
+1272	Beijing	girl	92	女孩儿	ny²¹⁴xar	368
+1273	Beijing	girl	92	丫头	ja⁵⁵tʰow²	372
+1274	Kunming	girl	92	女娃娃	ni⁵³wᴀ³¹wᴀ³¹	370
+1275	Kunming	girl	92	姑娘	ku⁴⁴njᴀ̃⁴⁴	376
+1276	Shanghai	girl	92	女小囡	ȵy¹³ɕjɔ³⁵nø¹³	371
+# 
+1277	Meixian	old man	93	老阿伯	law³¹a⁴⁴pak¹	385
+1278	Changsha	old man	93	老倌子	law⁴¹kõ³³ʦɿ	381
+1279	Guixian	old man	93	老者	la⁴²ʦej⁴²	384
+1280	Xiamen	old man	93	老伙仔	law²²he⁵³ja⁵³	383
+1281	Hefei	old man	93	老头子	lɔ²⁴tʰɯ⁵⁵ʦə	380
+1282	Jinan	old man	93	老头儿	lɔ⁵⁵tʰowr⁴²	380
+1283	Jinan	old man	93	老头子	lɔ⁵⁵tʰow⁴²ʦɿ	380
+1284	Hangzhou	old man	93	老头儿	lɔ⁵³dej²¹³əl²¹³	380
+1285	Guangzhou	old man	93	老坑	low²³haŋ⁵⁵	383
+1286	Guangzhou	old man	93	伯父	pak³fu²²	386
+1287	Nanchang	old man	93	老头子	lɑw²¹³tʰɛw²⁴ʦɿ⁰⁴	380
+1288	Chengdu	old man	93	老头儿	naw⁵³tʰər³¹	382
+1289	Chengdu	old man	93	老汉儿	naw⁵³xər¹³	382
+1290	Chengdu	old man	93	老头子	naw⁵³tʰəw³¹ʦɿ⁵³	380
+1291	Taiyuan	old man	93	老汉汉	law⁵³xæ̃⁴⁵xæ̃⁴⁵	385
+1292	Taiyuan	old man	93	老屄头子	law⁵³pi¹¹tʰəw¹¹ʦəʔ	380
+1293	Shexian	old man	93	老头子	lɔ³⁵tʰju⁴⁴ʦɿ	380
+1294	Shexian	old man	93	老人家	lɔ³⁵jʌ̃⁴⁴ka³¹	381
+1295	Beijing	old man	93	老头儿	lɑw²¹⁴tʰowr³⁵	380
+1296	Kunming	old man	93	老倌儿	lɔ⁵³kwə⁴⁴	381
+1297	Shanghai	old man	93	老公公	lɔ¹³koŋ⁵³koŋ⁵³	381
+1298	Shanghai	old man	93	老头子	lɔ¹³dɤ¹³ʦɿ³⁵	380
+# 
+1299	Meixian	doctor	94	医生	i⁴⁴sen⁴⁴	387
+1300	Changsha	doctor	94	医生	i³³sən³³	387
+1301	Changsha	doctor	94	郎中	lan¹³t͡ʂoŋ³³	389
+1302	Guixian	doctor	94	医生	i⁵⁵sen⁵⁵	387
+1303	Guixian	doctor	94	医师	i⁵⁵sɿ⁵⁵	387
+1304	Guixian	doctor	94	先生	ɕjan⁵⁵sen⁵⁵	387
+1305	Xiamen	doctor	94	医生	i⁵⁵siŋ⁵⁵	387
+1306	Xiamen	doctor	94	先生	sjan⁵⁵sĩ⁵⁵	387
+1307	Hefei	doctor	94	医生	zɿ²¹sən	387
+1308	Jinan	doctor	94	大夫	tɛ²¹fu	388
+1309	Jinan	doctor	94	先生	ɕjã²¹³ʂəŋ	387
+1310	Hangzhou	doctor	94	医生	ʔi³³sen³³	387
+1311	Hangzhou	doctor	94	郞中	lɑŋ²¹³ʦoŋ³³	389
+1312	Guangzhou	doctor	94	医生	ji⁵⁵sɐŋ⁵⁵	387
+1313	Nanchang	doctor	94	医生	i⁴²sɛn⁴²	387
+1314	Nanchang	doctor	94	郎中	lɔŋ⁴⁵ʦuŋ⁴²	389
+1315	Chengdu	doctor	94	医生	i⁵⁵sən⁵⁵	387
+1316	Taiyuan	doctor	94	先生	ɕje¹¹səŋ¹¹	387
+1317	Taiyuan	doctor	94	医生	i¹¹səŋ¹¹	387
+1318	Taiyuan	doctor	94	大夫	taj⁵³fu¹¹	388
+1319	Shexian	doctor	94	先生	se³¹sɛ	387
+1320	Shexian	doctor	94	郎中	la⁴⁴ʦʌ̃³¹	389
+1321	Beijing	doctor	94	医生	i⁵⁵ʂəŋ²	387
+1322	Beijing	doctor	94	大夫	taj⁵¹fu¹	388
+1323	Kunming	doctor	94	医生	i⁴⁴sə̃⁴⁴	387
+1324	Shanghai	doctor	94	医生	i⁵³sã⁵³	387
+# 
+1325	Meixian	cook	95	厨师	ʦʰu¹¹sɿ⁴⁴	391
+1326	Meixian	cook	95	伙头	fo³¹tʰew¹¹	396
+1327	Meixian	cook	95	徛镬师傅	kʰi⁴⁴vok⁵sɿ⁴⁴fu⁵³	390
+1328	Changsha	cook	95	厨房师傅	ʨy¹³fan¹³sɿ³³fu	390
+1329	Changsha	cook	95	大师傅	taj¹¹sɿ³³fu	390
+1330	Guixian	cook	95	厨子	ʦʰu²¹ʦɿ⁴²	391
+1331	Xiamen	cook	95	厨子师	tɔ³⁵ʦi⁵³saj	395
+1332	Hefei	cook	95	厨子	tʰu⁵⁵ʦə	391
+1333	Jinan	cook	95	厨师	t͡ʂʰu⁴²ʂʅ²¹³	391
+1334	Hangzhou	cook	95	厨房师傅	ʣy²¹³vɑŋ²¹³sɿ³³vu¹³	390
+1335	Guangzhou	cook	95	候镬	hɐw²²wɔk²	392
+1336	Nanchang	cook	95	大师傅	tʰaj²¹sɿ⁴²fu⁰²	390
+1337	Chengdu	cook	95	厨师	ʦʰu³¹sɿ⁵⁵	391
+1338	Chengdu	cook	95	大师傅	ta¹³sɿ⁵⁵fu¹³	390
+1339	Chengdu	cook	95	掌灶的	ʦaŋ⁵³ʦaw¹³ni⁵⁵	397
+1340	Chengdu	cook	95	掌瓢的	ʦaŋ⁵³pʰjawiau³¹ni⁵⁵	397
+1341	Taiyuan	cook	95	做饭的	ʦwəʔ²fæ̃⁴⁵təʔ	394
+1342	Taiyuan	cook	95	厨子	ʦʰu¹¹ʦəʔ	391
+1343	Taiyuan	cook	95	大师傅	ta⁴⁵sɿ¹¹fu⁴⁵	390
+1344	Taiyuan	cook	95	二师傅	ər⁴⁵sɿ¹¹fu⁴⁵	390
+1345	Shexian	cook	95	伙头	xo³⁵tʰju	393
+1346	Shexian	cook	95	伙头师傅	xo³⁵tʰju⁴⁴sɿ³¹fu³⁵	393
+1347	Beijing	cook	95	大师傅	ta⁵¹ʂʅ¹fu¹	390
+1348	Beijing	cook	95	厨子	t͡ʂʰu³⁵ʦɿ³	391
+1349	Kunming	cook	95	厨子	t͡ʂʰu³¹ʦɿ⁵³	391
+1350	Shanghai	cook	95	厨师	zɿ¹³sɿ⁵³	391
+1351	Shanghai	cook	95	烧饭司务	sɔ⁵³ve¹³sɿ⁵³vu¹³	390
+# 
+1352	Meixian	beggar	96	告化儿	kaw⁵³fa⁵³ve	399
+1353	Changsha	beggar	96	告化子	kaw⁵⁵fa⁵⁵ʦɿ	399
+1354	Guixian	beggar	96	叫化子	ʨjaoiao²¹³xwa²¹³ʦɿ⁴²	400
+1355	Guixian	beggar	96	要饭的	jaoiao²¹³fan²¹³lɛ⁵⁵	398
+1356	Xiamen	beggar	96	乞食	kʰit³²ʦjaʔ⁵	405
+1357	Hefei	beggar	96	叫花子	ʨjɔ⁵³xwa²¹ʦə	400
+1358	Jinan	beggar	96	要饭的	jɔ²¹fã²¹ti	398
+1359	Jinan	beggar	96	叫花子	ʨjɔ²¹xwaʦɿ	400
+1360	Hangzhou	beggar	96	叫化子	ʨjɔ⁴⁴⁵hwɑ⁴⁴⁵ʦɿ⁵³	400
+1361	Guangzhou	beggar	96	乞儿	hɐt⁵ji²¹	401
+1362	Nanchang	beggar	96	教化子	kɑw⁴⁵fɑ⁰⁴ʦɿ⁰⁴	399
+1363	Chengdu	beggar	96	叫花子	ʨjawiau¹³xwa⁵⁵ʦɿ⁵³	400
+1364	Chengdu	beggar	96	要饭的	jawiau¹³fan¹³ni⁵⁵	398
+1365	Chengdu	beggar	96	讨口子	tʰaw⁵³kʰəw⁵³ʦɿ⁵³	404
+1366	Taiyuan	beggar	96	讨吃吃	tʰaw⁵³ʦʰəʔ²ʦʰəʔ²	404
+1367	Taiyuan	beggar	96	要饭的	jawiau⁴⁵fæ̃⁴⁵təʔ	398
+1368	Taiyuan	beggar	96	叫花子	ʨjawiau⁴⁵xwa¹¹ʦəʔ	400
+1369	Shexian	beggar	96	讨饭唉	tʰɔ³⁵fɛ²²ɛ	403
+1370	Beijing	beggar	96	要饭的	jɑwiɑu⁵¹fan⁵¹tə¹	398
+1371	Beijing	beggar	96	叫花子	ʨjɑwiɑu⁵¹xwa⁵⁵ʦɿ²	400
+1372	Kunming	beggar	96	花子	xwᴀ⁴⁴ʦɿ⁵³	402
+1373	Kunming	beggar	96	要饭呢	jɔ²¹²fᴀ̃²¹²nə⁴⁴	398
+1374	Shanghai	beggar	96	叫化子	kɔ³⁵ho³⁵ʦɿ³⁵	399
+# 
+1375	Meixian	nurse	97	保姆	paw³¹me⁴⁴	406
+1376	Changsha	nurse	97	女工	ȵy⁴¹koŋ³³	407
+1377	Changsha	nurse	97	保姆	paw⁴¹mo⁴¹	406
+1378	Guixian	nurse	97	保姆	pa⁴²mu⁴²	406
+1379	Xiamen	nurse	97	保姆	po⁵³bu	413
+1380	Xiamen	nurse	97	倩的	ʦʰjã²¹e	417
+1381	Hefei	nurse	97	帮工的	pɑ̃²¹kəŋ²¹tjəʔ	409
+1382	Jinan	nurse	97	保姆	pɔ⁵⁵mu⁵⁵	406
+1383	Jinan	nurse	97	老妈子	lɔ⁵⁵ma²¹³ʦɿ	414
+1384	Hangzhou	nurse	97	保姆	pɔ⁵³mu⁵³	406
+1385	Hangzhou	nurse	97	阿姨	ʔɑ³³i²¹³	415
+1386	Guangzhou	nurse	97	工人	koŋ⁵³jɐn²¹	408
+1387	Guangzhou	nurse	97	保姆	pow³⁵mow²³	406
+1388	Nanchang	nurse	97	寄娘	ʨi⁴⁵ȵjɔŋ⁰⁴	410
+1389	Nanchang	nurse	97	保姆	pɑw²¹³mu²¹³	406
+1390	Chengdu	nurse	97	保姆	paw⁵³mu⁵³	406
+1391	Chengdu	nurse	97	奶妈儿	naj⁵³mər⁵⁵	414
+1392	Chengdu	nurse	97	奶妈子	naj⁵³ma⁵⁵ʦɿ⁵³	414
+1393	Taiyuan	nurse	97	保姆	paw⁵³mu⁵³	406
+1394	Shexian	nurse	97	奶姆	na³⁵m̩³⁵	412
+1395	Shexian	nurse	97	帮人家唉	pɔ³¹jʌ̃⁴⁴ka³¹ɛ	416
+1396	Beijing	nurse	97	保姆	pɑw²¹⁴mu²¹⁴	406
+1397	Beijing	nurse	97	老妈子	lɑw²¹⁴ma⁵⁵ʦɿ²	414
+1398	Kunming	nurse	97	保姆	pɔ⁵³mu⁵³	406
+1399	Shanghai	nurse	97	娘姨	ȵjã¹³ɦi¹³	411
+1400	Shanghai	nurse	97	保姆	pɔ³⁵mu¹³	406
+# 
+1401	Meixian	become sick	98	发病	pot¹pʰjaŋ⁵³	421
+1402	Changsha	become sick	98	病哒	pin¹¹ta	418
+1403	Guixian	become sick	98	生病了	sen⁵⁵pin²¹³əw²¹³	419
+1404	Guixian	become sick	98	不舒服	pu²¹su⁵⁵fu²¹	423
+1405	Xiamen	become sick	98	破病	pʰwa²¹pĩ²²	421
+1406	Xiamen	become sick	98	艰苦	kan⁵⁵kʰɔ⁵³	426
+1407	Hefei	become sick	98	不好过	pəʔ⁵xɔ²⁴kʊ⁵³	420
+1408	Hefei	become sick	98	不伸坦	pəʔ⁵t͡ʂʰən²¹tʰæ̃	425
+1409	Jinan	become sick	98	长病	t͡ʂaŋ⁵⁵piŋ²¹	419
+1410	Jinan	become sick	98	病唡	piŋ⁴²lja	418
+1411	Jinan	become sick	98	不熨贴	pu²¹³ytʰjə	428
+1412	Jinan	become sick	98	不舒坦	pu²¹³ʂu²¹³tʰã	423
+1413	Jinan	become sick	98	不好	pu²¹³xɔ	420
+1414	Hangzhou	become sick	98	生病得	sen³³bin¹³tə	419
+1415	Guangzhou	become sick	98	病咗	pɛŋ²²ʦɔ³⁵	418
+1416	Guangzhou	become sick	98	唔自然	m̩²¹ʦi²²jin²¹	424
+1417	Nanchang	become sick	98	病了	pʰjɑŋ²¹ljɛwiɛu⁰²	418
+1418	Chengdu	become sick	98	病了	pin¹³no⁵³	418
+1419	Chengdu	become sick	98	不舒服了	pu³¹su⁵⁵fu³¹no⁵³	423
+1420	Chengdu	become sick	98	不安逸了	pu³¹ŋan⁵⁵i¹³no⁵³	427
+1421	Taiyuan	become sick	98	病咧	pi⁴⁵lje⁵³	418
+1422	Shexian	become sick	98	害病	xɛ²²pʰjʌ̃	422
+1423	Shexian	become sick	98	不好过	pu²¹xɔ³⁵ko	420
+1424	Beijing	become sick	98	病了	piŋ⁵¹lə¹	418
+1425	Kunming	become sick	98	病了	pĩ²¹²lə⁵³	418
+1426	Kunming	become sick	98	不好了	pu³¹xɔ⁵³lə⁵³	420
+1427	Shanghai	become sick	98	生病	sã⁵³biŋ¹³	419
+# 
+1428	Meixian	catch a cold	99	伤风	soŋ⁴⁴fuŋ⁴⁴	429
+1429	Changsha	catch a cold	99	感冒	kan⁴¹maw⁵⁵	434
+1430	Changsha	catch a cold	99	伤风	ʂan³³xoŋ³³	429
+1431	Guixian	catch a cold	99	凉倒	ljaŋ²¹ta⁴²	430
+1432	Guixian	catch a cold	99	感冒	kan⁴²ma²¹³	434
+1433	Xiamen	catch a cold	99	寒着	kwã³⁵tjoʔ	433
+1434	Xiamen	catch a cold	99	感冒	kam⁵³mɔ²²	434
+1435	Hefei	catch a cold	99	伤风	ʂɑ̃²¹fəŋ²¹	429
+1436	Hefei	catch a cold	99	感冒	kæ̃²⁴mɔ⁵³	434
+1437	Jinan	catch a cold	99	受凉	ʂow²¹ljaŋ⁴²	431
+1438	Jinan	catch a cold	99	凉着唡	ljaŋ⁴²t͡ʂɔlja	435
+1439	Jinan	catch a cold	99	伤风	ʂaŋ²¹³fəŋ²¹³	429
+1440	Jinan	catch a cold	99	感冒	kã⁵⁵mɔ²¹	434
+1441	Hangzhou	catch a cold	99	伤风	sɥɑŋ³³foŋ³³	429
+1442	Hangzhou	catch a cold	99	感冒	kᴇ̃⁵³mɔ¹³	434
+1443	Guangzhou	catch a cold	99	伤风	sœŋ⁵⁵foŋ⁵⁵	429
+1444	Guangzhou	catch a cold	99	感冒	kɐm³⁵mow²²	434
+1445	Nanchang	catch a cold	99	伤风	sɔŋ⁴²fuŋ⁴²	429
+1446	Nanchang	catch a cold	99	感冒	kɵn²¹³mɑw²¹	434
+1447	Chengdu	catch a cold	99	伤风	saŋ⁵⁵foŋ⁵⁵	429
+1448	Chengdu	catch a cold	99	凉了	njaŋ³¹no⁵³	430
+1449	Taiyuan	catch a cold	99	拍住咧	pʰjəʔ²ʦu⁴⁵lje⁵³	432
+1450	Taiyuan	catch a cold	99	受凉咧	səw⁴⁵ljɒ̃¹¹lje⁵³	431
+1451	Taiyuan	catch a cold	99	受风咧	səw⁴⁵fəŋ¹¹lje⁵³	431
+1452	Taiyuan	catch a cold	99	感冒咧	kæ̃⁵³maw⁴⁵lje⁵³	434
+1453	Shexian	catch a cold	99	伤风	ɕja³¹fʌ̃³¹	429
+1454	Beijing	catch a cold	99	伤风	ʂɑŋ⁵⁵fəŋ⁵⁵	429
+1455	Beijing	catch a cold	99	着凉	t͡ʂɑw³⁵ljɑŋ³⁵	431
+1456	Kunming	catch a cold	99	伤风	ʂᴀ̃⁴⁴foŋ⁴⁴	429
+1457	Kunming	catch a cold	99	冷着了	lə̃⁵³t͡ʂo³¹lə⁵³	436
+1458	Shanghai	catch a cold	99	伤风	sɑ̃⁵³foŋ⁵³	429
+1459	Shanghai	catch a cold	99	感冒	kø³⁵mɔ¹³	434
+# 
+1460	Meixian	humpback	102	驼背儿	tʰo¹¹poj⁵³je	439
+1461	Changsha	humpback	102	驼子	to¹³ʦɿ	438
+1462	Guixian	humpback	102	驼子	tʰo²¹ʦɿ⁴²	438
+1463	Hefei	humpback	102	驼子	tʰʊ⁵⁵ʦə	438
+1464	Jinan	humpback	102	锅腰子	kwə²¹³jɔʦɿ	440
+1465	Jinan	humpback	102	罗锅儿	lwə⁴²kwər²¹³	437
+1466	Jinan	humpback	102	罗锅腰	lwə⁴²kuəiɔ²¹³	437
+1467	Hangzhou	humpback	102	驼背佬儿	do²¹³pej⁴⁴⁵lɔ⁵³əl²¹³	439
+1468	Guangzhou	humpback	102	驼背	tʰɔ²¹pwi³³	439
+1469	Nanchang	humpback	102	驼子	tʰo²⁴ʦɿ⁰⁴	438
+1470	Chengdu	humpback	102	驼背子	tʰo³¹pej¹³ʦɿ⁵³	439
+1471	Taiyuan	humpback	102	背锅锅	pej¹¹kwɤ¹¹kwɤ¹¹	437
+1472	Shexian	humpback	102	驼背	tʰo⁴⁴pɛ	439
+1473	Beijing	humpback	102	罗锅儿	lwo³⁵kwor⁵⁵	437
+1474	Kunming	humpback	102	背锅	pej⁴⁴ko⁴⁴	441
+1475	Shanghai	humpback	102	驼子	du¹³ʦɿ³⁵	438
+# 
+1476	Meixian	die	103	死撇了	si³¹pʰet¹le	447
+1477	Changsha	die	103	死咖哒	sɿ⁴¹kata	443
+1478	Changsha	die	103	过咖哒委婉语	ko⁵⁵kata	448
+1479	Changsha	die	103	瓜咖哒	kwa³³kata	448
+1480	Changsha	die	103	弹咖哒	tan¹³kata	448
+1481	Guixian	die	103	死了	sɿ⁴²əw²¹³	443
+1482	Guixian	die	103	过世了	ko²¹³sɿ²¹³əw²¹³	450
+1483	Guixian	die	103	走了	ʦəw⁴²əw²¹³	456
+1484	Xiamen	die	103	死去	si⁵³kʰi	443
+1485	Xiamen	die	103	过身	ke²¹sin⁵⁵	450
+1486	Hefei	die	103	不在了	pəʔ⁵ʦᴇ⁵³lə	446
+1487	Hefei	die	103	死得之	sɿ²⁴təʔt͡ʂə	451
+1488	Jinan	die	103	死唡	sɿ⁵⁵lja	444
+1489	Jinan	die	103	不在唡	pu²¹³ʦɛ²¹lja	446
+1490	Jinan	die	103	过去唡	kə²¹ʨʰilja	442
+1491	Jinan	die	103	殁唡	mu⁴²lja	454
+1492	Jinan	die	103	老唡	lɔ⁵⁵lja	444
+1493	Hangzhou	die	103	死了得	sɿ⁵³ljɔ⁵³tə	444
+1494	Guangzhou	die	103	死咗	sej³⁵ʦɔ³⁵	445
+1495	Guangzhou	die	103	过身委婉语	kwɔ³³sɐn⁵⁵	450
+1496	Nanchang	die	103	死不了	sɿ²¹³pɨʔ⁰⁴ljɛwiɛu⁰⁴	447
+1497	Nanchang	die	103	过世	kwo⁴⁵sɿ⁴⁵	450
+1498	Nanchang	die	103	锹辫子	ʨʰjɛwiɛu⁴²pʰjɛn²¹ʦɿ⁰²	457
+1499	Chengdu	die	103	死了	sɿ⁵³no	444
+1500	Chengdu	die	103	老了	naw⁵³no⁵³	449
+1501	Chengdu	die	103	去了	ʨʰje¹³no⁵³	455
+1502	Chengdu	die	103	翘跟儿	ʨʰjawiau⁵⁵kər⁵³	457
+1503	Taiyuan	die	103	死咧	sɿ⁵³lje¹¹	444
+1504	Taiyuan	die	103	没拉咧	məʔ²la¹¹lje¹¹	454
+1505	Taiyuan	die	103	走咧	ʦəw⁵³lje¹¹	456
+1506	Taiyuan	die	103	没落住	məʔ²lwaʔ²ʦu⁵³	453
+1507	Shexian	die	103	死哩	sɿ³⁵li	444
+1508	Shexian	die	103	不在哩	pu²¹ʦʰɛ³⁵li	446
+1509	Shexian	die	103	过辈哩	ko³²⁴pɛ³²⁴li	442
+1510	Beijing	die	103	嗝儿了	kɤr²¹⁴lə⁴	442
+1511	Beijing	die	103	死了	sɿ²¹⁴lə⁴	444
+1512	Kunming	die	103	不在了	pu³¹ʦæ²¹²lə	446
+1513	Kunming	die	103	翘脚了贬	ʨʰjɔ⁴⁴ʨjo³¹lə⁵³	452
+1514	Shanghai	die	103	死脱勒	ɕi³⁵tʰəʔ⁵ləʔ¹	447
+1515	Shanghai	die	103	呒没勒	m̩¹³məʔ⁵ləʔ¹	453
+# 
+1516	Changsha	I	105	我	ŋo⁴¹	459
+1517	Guixian	I	105	我	ŋo⁴²	459
+1518	Xiamen	I	105	我	gwa⁵³	458
+1519	Hefei	I	105	我	ʊ²⁴	460
+1520	Jinan	I	105	我	və⁵⁵	458
+1521	Jinan	I	105	俺	ŋã⁵⁵	459
+1522	Hangzhou	I	105	我	ŋo⁵³	459
+1523	Guangzhou	I	105	我	ŋɔ²³	459
+1524	Nanchang	I	105	我	ŋo²¹³	459
+1525	Chengdu	I	105	我	ŋo⁵³	459
+1526	Taiyuan	I	105	我	ɣɤ⁵³	460
+1527	Taiyuan	I	105	俺	æ̃⁵³	460
+1528	Shexian	I	105	卬	a³¹	461
+1529	Beijing	I	105	我	wo²¹⁴	458
+1530	Kunming	I	105	我	o⁵³	460
+1531	Shanghai	I	105	我	ŋu¹³	459
+# 
+1532	Meixian	thou	106	你	n̩¹¹	462
+1533	Changsha	thou	106	你	ȵi⁴¹	462
+1534	Guixian	thou	106	你	li⁴²	463
+1535	Xiamen	thou	106	你	li⁵³	463
+1536	Hefei	thou	106	你	li²⁴	463
+1537	Jinan	thou	106	你	ȵi⁵⁵	462
+1538	Hangzhou	thou	106	你	ni⁵³	462
+1539	Guangzhou	thou	106	你	nej²³	462
+1540	Nanchang	thou	106	你	n̩²¹³	462
+1541	Chengdu	thou	106	你	ȵi⁵³	462
+1542	Taiyuan	thou	106	你	ni⁵³	462
+1543	Taiyuan	thou	106	尔	nje¹¹	462
+1544	Shexian	thou	106	尔	n̩³⁵	462
+1545	Beijing	thou	106	你	ni²¹⁴	462
+1546	Kunming	thou	106	你	ni⁵³	462
+1547	Kunming	thou	106	你家	ni⁵³ʨjɛ⁴⁴	462
+1548	Shanghai	thou	106	侬	noŋ¹³	464
+# 
+1549	Meixian	he	107	佢	ki¹¹	466
+1550	Changsha	he	107	他	tʰa³³	465
+1551	Guixian	he	107	他	la⁵⁵	467
+1552	Guixian	he	107	那儿	a²¹ɔ³²¹	471
+1553	Xiamen	he	107	伊	i⁵⁵	470
+1554	Hefei	he	107	他	tʰa²¹	465
+1555	Jinan	he	107	他	tʰa⁵⁵	465
+1556	Hangzhou	he	107	他	tʰɑ³³	465
+1557	Guangzhou	he	107	佢	kʰøɥ²³	466
+1558	Nanchang	he	107	渠	ʨje²¹³	468
+1559	Chengdu	he	107	他	tʰa⁵⁵	465
+1560	Taiyuan	he	107	他	tʰa¹¹	465
+1561	Beijing	he	107	他	tʰa⁵⁵	465
+1562	Kunming	he	107	他	tʰᴀ⁴⁴	465
+1563	Kunming	he	107	他家	tʰə⁴⁴ʨjɛ⁴⁴	472
+1564	Shanghai	he	107	伊	ɦi¹³	469
+# 
+1565	Changsha	we	108	我们	ŋo⁴¹mən	474
+1566	Changsha	we	108	我屋里	ŋəw²⁴u²⁴li	479
+1567	Guixian	we	108	我们	ŋo⁴²men⁵⁵	474
+1568	Xiamen	we	108	阮	gun⁵³	477
+1569	Hefei	we	108	我们	ʊ²⁴mən	474
+1570	Jinan	we	108	我们	və⁵⁵mẽ	474
+1571	Jinan	we	108	俺	ŋã⁵⁵	474
+1572	Jinan	we	108	俺们	ŋã⁵⁵mẽ	474
+1573	Jinan	we	108	俺这伙	ŋã⁵⁵t͡ʂə²¹xwə⁵⁵	480
+1574	Hangzhou	we	108	我们	ŋo⁵³men²¹³	474
+1575	Nanchang	we	108	我们	ŋo²¹³mɨn⁰⁴	474
+1576	Nanchang	we	108	我箇里	ŋo²¹³ko⁰⁴li⁰⁴	480
+1577	Chengdu	we	108	我们	ŋo⁵³mən³¹	474
+1578	Taiyuan	we	108	我们	ɣɤ⁵³məʔ	474
+1579	Taiyuan	we	108	俺们	æ̃⁵³məʔ	474
+1580	Shexian	we	108	卬人	a³¹jʌ̃⁴⁴	476
+1581	Beijing	we	108	我们	wom̩	473
+1582	Beijing	we	108	呣们	m̩²¹⁴mə⁴	478
+1583	Kunming	we	108	我们	o⁵³mə⁴⁴	474
+1584	Shanghai	we	108	阿拉	aʔ⁵la⁵³	475
+1585	Shanghai	we	108	我伲	ŋu¹³ȵi¹³	481
+# 
+1586	Meixian	you	109	你丁人	n̩¹¹ten⁴⁴ŋin¹¹	484
+1587	Changsha	you	109	你们	ȵi⁴¹mən	483
+1588	Changsha	you	109	你屋里	ȵjəwiəu²⁴u²⁴li	488
+1589	Guixian	you	109	你们	li⁴²men⁵⁵	483
+1590	Xiamen	you	109	恁	lin⁵³	487
+1591	Hefei	you	109	你们	li²⁴mən	483
+1592	Jinan	you	109	你们	ȵi⁵⁵mẽ	483
+1593	Jinan	you	109	你这伙	ȵi⁵⁵t͡ʂə²¹xwə⁵⁵	489
+1594	Hangzhou	you	109	你们	ni⁵³men²¹³	483
+1595	Nanchang	you	109	你们	n̩²¹³mɨn⁰⁴	483
+1596	Nanchang	you	109	你箇里	n̩²¹³ko⁰⁴li⁰⁴	490
+1597	Chengdu	you	109	你们	ȵi⁵³mən³¹	483
+1598	Taiyuan	you	109	你们	ni⁵³məʔ	483
+1599	Taiyuan	you	109	尔们	nje¹¹məʔ	483
+1600	Shexian	you	109	尔人	n̩³⁵jʌ̃⁴⁴	486
+1601	Beijing	you	109	你们	nim̩²¹⁴	482
+1602	Kunming	you	109	你们	ni⁵³mə⁴⁴	483
+1603	Shanghai	you	109	倷	na¹³	485
+# 
+1604	Meixian	they	110	佢丁人	ki¹¹ten⁴⁴ŋin¹¹	493
+1605	Changsha	they	110	他们	tʰa³³mən	492
+1606	Changsha	they	110	他屋里	tʰəw²⁴u²⁴li	495
+1607	Guixian	they	110	他们	la⁵⁵men⁵⁵	492
+1608	Hefei	they	110	他们	tʰa²¹mən	492
+1609	Jinan	they	110	他们	tʰa⁵⁵mẽ	492
+1610	Jinan	they	110	他这伙	tʰa⁵⁵t͡ʂə²¹xwə⁵⁵	496
+1611	Hangzhou	they	110	他们	tʰɑ³³men²¹³	492
+1612	Nanchang	they	110	渠们	ʨje²¹³mɨn⁰⁴	492
+1613	Nanchang	they	110	渠箇里	ʨje²¹³ko⁰⁴li⁰⁴	497
+1614	Chengdu	they	110	他们	tʰa⁵⁵mən³¹	492
+1615	Taiyuan	they	110	他们	tʰa¹¹məʔ	492
+1616	Beijing	they	110	他们	tʰam̩⁵⁵	491
+1617	Kunming	they	110	他们	tʰə⁴⁴mə⁴⁴	492
+1618	Shanghai	they	110	伊拉	ɦi¹³la⁵³	494
+# 
+1619	Meixian	self	112	自家	ʦʰɿ⁵³ka⁴⁴	498
+1620	Changsha	self	112	自家	ʦɿ¹¹ka	498
+1621	Guixian	self	112	自己	ʦɿ²¹³ʨi⁴²	498
+1622	Guixian	self	112	自家	ʦɿ²¹³ʨja⁵⁵	498
+1623	Guixian	self	112	各人	ko²¹zen²¹	500
+1624	Xiamen	self	112	家己	ka⁵⁵ki²²	499
+1625	Hefei	self	112	自己	ʦɿ⁵³ʦɿ²⁴	498
+1626	Jinan	self	112	自家	ʦɿ⁴²ʨja	498
+1627	Jinan	self	112	自个儿	ʦɿ⁴²kər²¹³	498
+1628	Hangzhou	self	112	自家	ʣɿ¹³ʨjɑ³³	498
+1629	Guangzhou	self	112	自己	ʦi²²kej³⁵	498
+1630	Nanchang	self	112	自拣	ʦʰɿ²¹kan²¹³	498
+1631	Chengdu	self	112	自家	ʦɿ¹³ʨja⁵⁵	498
+1632	Chengdu	self	112	各人	ko³¹zən³¹	500
+1633	Taiyuan	self	112	自家	ʦɿ⁴⁵ʨja⁵³	498
+1634	Shexian	self	112	自家	ʦʰɿ²²ka³¹	498
+1635	Beijing	self	112	自个儿	ʦɿ⁵¹kɤr²¹⁴	498
+1636	Kunming	self	112	自己	ʦɿ²¹²ʨi⁵³	498
+1637	Kunming	self	112	独自个	tu³¹ʦɿ²¹²kə²¹²	501
+1638	Shanghai	self	112	自家	zɿ¹³ka⁵³	498
+# 
+1639	Changsha	who	113	哪个	laj⁴¹ko	503
+1640	Guixian	who	113	哪个	la⁴²ko²¹³	503
+1641	Xiamen	who	113	啥人	sjã⁵³laŋ³⁵	506
+1642	Xiamen	who	113	甚物人	sim⁵³miʔ⁵laŋ³⁵	507
+1643	Hefei	who	113	哈个	xa²⁴kə	505
+1644	Jinan	who	113	谁	ʂej⁴²	502
+1645	Hangzhou	who	113	哪个	nɑ⁵³koʔ⁵	503
+1646	Guangzhou	who	113	边个	pin⁵⁵kɔ³³	504
+1647	Nanchang	who	113	哪个	lɑ²¹³ko⁰⁴	503
+1648	Chengdu	who	113	哪个	na⁵³ko¹³	503
+1649	Taiyuan	who	113	谁	swejuei¹¹	502
+1650	Shexian	who	113	哪一个	la³⁵iko³²⁴	503
+1651	Beijing	who	113	谁	ʂej³⁵	502
+1652	Kunming	who	113	哪个	nᴀ⁵³kə²¹²	503
+1653	Shanghai	who	113	啥人	sa³⁵ȵiŋ¹³	506
+# 
+1654	Meixian	what	114	脈个	mak¹ke⁵³	515
+1655	Changsha	what	114	么子	mo⁴¹ʦɿ	509
+1656	Guixian	what	114	朗子	laŋ⁴²ʦɿ⁴²	512
+1657	Guixian	what	114	那样	la⁴²jaŋ²¹³	514
+1658	Hefei	what	114	哄个	xəŋ²⁴kə	513
+1659	Jinan	what	114	么儿	mər⁴²	509
+1660	Jinan	what	114	么	mə⁴²	509
+1661	Jinan	what	114	什么	ʂəŋ⁴²mə	513
+1662	Hangzhou	what	114	啥西	sɑ⁵³ɕi³³	510
+1663	Guangzhou	what	114	乜	mɐt⁵	511
+1664	Guangzhou	what	114	乜嘢	mɐt⁵jɛ²³	511
+1665	Nanchang	what	114	什哩	sɨʔ⁵li⁰²	516
+1666	Chengdu	what	114	啥子	sa¹³ʦɿ⁵³	510
+1667	Taiyuan	what	114	甚	səŋ⁴⁵	513
+1668	Shexian	what	114	么唉	mɛ⁴⁴ɛ	509
+1669	Beijing	what	114	什么	ʂəm̩³⁵	508
+1670	Kunming	what	114	哪样	nᴀ⁵³jᴀ̃²¹²	514
+1671	Shanghai	what	114	啥	sa³⁵	510
+# 
+1672	Changsha	here	115	咯里	ko²⁴li	518
+1673	Changsha	here	115	咯块子	ko²⁴kʰwajuai⁴¹ʦɿ	525
+1674	Guixian	here	115	这点	ʦɿ⁵⁵tɛ⁴²	520
+1675	Xiamen	here	115	即带	ʦit³²te²¹	520
+1676	Xiamen	here	115	遮	ʦja³⁵	526
+1677	Hefei	here	115	第奥子	ti⁵³ɔʦə	521
+1678	Hefei	here	115	第格子	ti⁵³kəʦə	521
+1679	Jinan	here	115	这里	t͡ʂə²¹ȵi	522
+1680	Jinan	here	115	这儿	t͡ʂər²¹	517
+1681	Jinan	here	115	这窝里	t͡ʂə²¹vəȵi	522
+1682	Hangzhou	here	115	格里	kəʔ⁵li	518
+1683	Guangzhou	here	115	呢度	nej⁵⁵tow²²	519
+1684	Guangzhou	here	115	呢处	nej⁵⁵sy³³	519
+1685	Nanchang	here	115	箇里	ko²¹³li⁰⁴	518
+1686	Nanchang	here	115	箇块屑子	ko²¹³kʰwajuai⁰⁴ɕjɛʔ⁵ʦɿ⁰²	525
+1687	Chengdu	here	115	这儿	ʦər⁵⁵	517
+1688	Taiyuan	here	115	这里	ʦəʔ²lɤ	518
+1689	Taiyuan	here	115	这儿家	ʦar⁴⁵ʨja⁵³	517
+1690	Shexian	here	115	嗯哪	n̩³¹na	524
+1691	Beijing	here	115	这儿	t͡ʂɤr⁵¹	517
+1692	Kunming	here	115	这点儿	t͡ʂʅ²¹²tjə³¹ə³¹	520
+1693	Shanghai	here	115	迭搭	djɪʔ¹taʔ⁵	523
+1694	Shanghai	here	115	搿搭	gəʔ¹taʔ⁵	523
+1695	Shanghai	here	115	搿里	gəʔ¹li¹³	518
+# 
+1696	Changsha	there	116	那里	la⁵⁵li	528
+1697	Changsha	there	116	那块子	la⁵⁵kʰwajuai⁴¹ʦɿ	535
+1698	Guixian	there	116	那点	a⁵⁵tɛ⁴²	529
+1699	Xiamen	there	116	迄带	hit³²te²¹	534
+1700	Xiamen	there	116	遐	hja³⁵	537
+1701	Hefei	there	116	那奥子	la⁵³ɔʦə	531
+1702	Hefei	there	116	那格子	la⁵³kəʦə	531
+1703	Jinan	there	116	那里	na²¹ȵi	532
+1704	Jinan	there	116	那儿	nar²¹	527
+1705	Jinan	there	116	那窝里	na²¹vəȵi	532
+1706	Hangzhou	there	116	那里	nɑ⁴⁴⁵li	530
+1707	Nanchang	there	116	许里	he²¹³li⁰⁴	528
+1708	Nanchang	there	116	许块屑子	he²¹³kʰwajuai⁰⁴ɕjɛʔ⁵ʦ⁰²	535
+1709	Chengdu	there	116	那儿	nər⁵⁵	527
+1710	Taiyuan	there	116	兀里	vəʔ²lɤ	530
+1711	Taiyuan	there	116	兀儿家	var⁴⁵ʨja⁵³	533
+1712	Taiyuan	there	116	那里	nəʔ²lɤ	530
+1713	Taiyuan	there	116	那儿家	nar⁴⁵ʨja⁵³	533
+1714	Shexian	there	116	那哪	na²²na	532
+1715	Shexian	there	116	哪哪	na³⁵na	532
+1716	Beijing	there	116	那儿	nar⁵¹	527
+1717	Beijing	there	116	那下儿	na⁵¹xar	532
+1718	Kunming	there	116	那点儿	nə²¹²tjə³¹ə³¹	533
+1719	Shanghai	there	116	伊搭	i⁵³taʔ⁵	529
+1720	Shanghai	there	116	伊面	i⁵³mi¹³	536
+# 
+1721	Changsha	where	117	哪里	la⁴¹li	539
+1722	Changsha	where	117	哪块子	la⁴¹kʰwajuai⁴¹ʦɿ	543
+1723	Changsha	where	117	何至	o¹³t͡ʂʅ⁵⁵	546
+1724	Guixian	where	117	哪点	la⁴²tɛ⁴²	539
+1725	Xiamen	where	117	倒落一带	to⁵³loʔʦit⁵te²¹	542
+1726	Xiamen	where	117	倒落	to⁵³loʔ	542
+1727	Xiamen	where	117	甚物所在	sim⁵³miʔ⁵sɔ⁵³ʦaj²²	547
+1728	Hefei	where	117	哪格子	la²⁴kəʦə	539
+1729	Jinan	where	117	哪里	na⁵⁵ȵi	538
+1730	Jinan	where	117	哪	na⁵⁵	538
+1731	Jinan	where	117	哪里	na⁵⁵li	538
+1732	Hangzhou	where	117	哪里	nɑ⁵³li	538
+1733	Guangzhou	where	117	边	pin⁵⁵	540
+1734	Guangzhou	where	117	边度	pin⁵⁵tow²²	540
+1735	Guangzhou	where	117	边处	pin⁵⁵sy³³	540
+1736	Nanchang	where	117	哪里	lɑ²¹³li⁰⁴	539
+1737	Nanchang	where	117	哪块屑子	lɑ²¹³kʰwajuai⁰⁴ɕjɛʔ⁵ʦɿ⁰²	543
+1738	Taiyuan	where	117	哪里	na⁵³lɤ	538
+1739	Taiyuan	where	117	哪儿家	nar⁵³ʨja¹¹	538
+1740	Shexian	where	117	哪里	la³⁵li	539
+1741	Shexian	where	117	么唉落地	mɛ⁴⁴ɛ²²lɔ²²tʰi²²	545
+1742	Beijing	where	117	哪儿	nar²¹⁴	538
+1743	Beijing	where	117	哪下儿	na²¹⁴xar⁴	538
+1744	Kunming	where	117	哪点儿	nᴀ⁵³tjə³¹ə³¹	538
+1745	Shanghai	where	117	啥地方	sa³⁴di¹³fɑ̃⁵³	541
+1746	Shanghai	where	117	鞋里	ɦa¹³li¹³	544
+# 
+1747	Changsha	this	118	咯个	kaj²⁴ko	549
+1748	Changsha	this	118	咯只	kaj²⁴t͡ʂa²⁴	549
+1749	Guixian	this	118	这个	ʦɿ⁵⁵ko²¹³	548
+1750	Xiamen	this	118	即个	ʦit³²e³⁵	551
+1751	Hefei	this	118	第个	ti⁵³kə	548
+1752	Jinan	this	118	这个	t͡ʂə²¹kə	548
+1753	Hangzhou	this	118	接个	ʨjəʔ⁵koʔ⁵	548
+1754	Guangzhou	this	118	呢个	nej⁵⁵kɔ³³	550
+1755	Nanchang	this	118	箇只	ko²¹³ʦɑʔ⁵	549
+1756	Chengdu	this	118	这个	ʦe¹³ko¹³	548
+1757	Shexian	this	118	嗯个	n̩³¹ko	550
+1758	Beijing	this	118	这个	t͡ʂə⁵¹kə¹	548
+1759	Kunming	this	118	这个	t͡ʂʅ⁴⁴kə²¹²	548
+1760	Shanghai	this	118	迭个	djɪʔ¹gəʔ¹	548
+1761	Shanghai	this	118	搿个	gəʔ¹gəʔ¹	548
+# 
+1762	Changsha	that	119	那个	laj⁵⁵ko	553
+1763	Changsha	that	119	那只	laj⁵⁵t͡ʂa²⁴	553
+1764	Guixian	that	119	那个	a⁵⁵ko²¹³	552
+1765	Xiamen	that	119	迄个	hit³²e³⁵	555
+1766	Hefei	that	119	那个	lɑʔ⁵ko	553
+1767	Jinan	that	119	那个	na²¹kə	552
+1768	Hangzhou	that	119	那个	nɑ⁵³koʔ⁵	552
+1769	Nanchang	that	119	许个	he²¹³ko⁰⁴	552
+1770	Nanchang	that	119	许只	he²¹³ʦɑʔ⁵	556
+1771	Chengdu	that	119	那个	na¹³ko¹³	552
+1772	Taiyuan	that	119	乃	naj⁵³	554
+1773	Shexian	that	119	那个	na²²ko	552
+1774	Shexian	that	119	哪个	na³⁵ko	552
+1775	Beijing	that	119	那个	na⁵¹kə¹	552
+1776	Kunming	that	119	那个	nə²¹²kə²¹²	552
+1777	Shanghai	that	119	伊个	i⁵³gəʔ¹	552
+1778	Shanghai	that	119	哀个	e⁵³gəʔ¹	552
+# 
+1779	Changsha	what kind of	120	哪个	laj⁴¹ko	558
+1780	Changsha	what kind of	120	何至个	o¹³t͡ʂʅ⁵⁵ko⁵⁵	563
+1781	Guixian	what kind of	120	哪个	la⁴²ko²¹³	558
+1782	Xiamen	what kind of	120	倒落一个	to⁵³loʔ⁵ʦit⁵e³⁵	562
+1783	Hefei	what kind of	120	哈一个	xa²⁴jəʔ⁵kə	560
+1784	Jinan	what kind of	120	哪一个	na⁵⁵ikə	557
+1785	Hangzhou	what kind of	120	哪一个	nɑ⁴⁴⁵ʔjəʔ⁵koʔ⁵	560
+1786	Guangzhou	what kind of	120	边个	pin⁵⁵kɔ³³	559
+1787	Nanchang	what kind of	120	哪个	lɑ²¹³ko⁰⁴	558
+1788	Chengdu	what kind of	120	哪个	na⁵³ko¹³	557
+1789	Taiyuan	what kind of	120	哪块	na⁵³kwajuai⁴⁵	557
+1790	Taiyuan	what kind of	120	哪个	na⁵³kɤ⁴⁵	557
+1791	Beijing	what kind of	120	哪个	na²¹⁴kə	557
+1792	Kunming	what kind of	120	哪个	nᴀ⁵³kə²¹²	557
+1793	Shanghai	what kind of	120	鞋里个	ɦa¹³li¹³gəʔ¹	561
+# 
+1794	Meixian	how	121	样儿	ŋjoŋ⁵³ŋe	569
+1795	Changsha	how	121	何是	o¹³ʂʅ	565
+1796	Changsha	how	121	何里	o¹³li	573
+1797	Guixian	how	121	咋个样	ʦa²¹ko²¹jaŋ	566
+1798	Xiamen	how	121	怎仔样	ʦãj⁵³jã⁵³jũ²²	572
+1799	Xiamen	how	121	安怎	an⁵⁵ʦwã⁵³	575
+1800	Hefei	how	121	怎样	ʦən²⁴jɑ̃⁵³	564
+1801	Jinan	how	121	怎么样儿	ʦəŋ⁵⁵məiãəiãr²¹	564
+1802	Hangzhou	how	121	接个套	ʨjəʔ⁵kəʔ⁵tʰɔ⁴⁴⁵	568
+1803	Guangzhou	how	121	点	tim³⁵	567
+1804	Guangzhou	how	121	点样	tim³⁵jœŋ²²	567
+1805	Nanchang	how	121	郎	lɔŋ⁴⁵	570
+1806	Nanchang	how	121	郎样	lɔŋ⁴⁵jɔŋ²¹	570
+1807	Chengdu	how	121	咋个	ʦa³¹ko¹³	566
+1808	Chengdu	how	121	啷个	naŋ⁵³ko¹³	574
+1809	Taiyuan	how	121	咋地	ʦaʔ²ti⁴⁵	568
+1810	Shexian	how	121	何样	xo⁴⁴ja²²	571
+1811	Shexian	how	121	何如	xo⁴⁴y⁴⁴	571
+1812	Beijing	how	121	怎么样	ʦən²¹⁴mə⁴jɑŋ⁵¹	564
+1813	Kunming	how	121	咋个了	ʦᴀ³¹kə²¹²lə⁵³	566
+1814	Shanghai	how	121	哪能	na¹³nəŋ¹³	569
+# 
+1815	Meixian	classifier (person)	122	一个人客	ke⁵³	578
+1816	Changsha	classifier (person)	122	一位客人	wejuei¹¹	576
+1817	Guixian	classifier (person)	122	一个客人	ko²¹³	578
+1818	Xiamen	classifier (person)	122	一个人客	e³⁵	580
+1819	Hefei	classifier (person)	122	一个客人	kə⁵³	578
+1820	Jinan	classifier (person)	122	一位客人	vej²¹	576
+1821	Hangzhou	classifier (person)	122	一个客人	kəʔ⁵	578
+1822	Guangzhou	classifier (person)	122	一位客人	wɐj²²	577
+1823	Nanchang	classifier (person)	122	一个客	ko⁴⁵	578
+1824	Chengdu	classifier (person)	122	一位客人	wejuei¹³	576
+1825	Taiyuan	classifier (person)	122	一块客人	kwajuai⁴⁵	576
+1826	Shexian	classifier (person)	122	一个客	ko³²⁴	578
+1827	Beijing	classifier (person)	122	位	wejuei⁵¹	576
+1828	Kunming	classifier (person)	122	一个客人	kə²¹²	578
+1829	Shanghai	classifier (person)	122	一位客人	we¹³	579
+# 
+1830	Meixian	classifier (pair)	123	一双鞋	suŋ⁴⁴	581
+1831	Changsha	classifier (pair)	123	一双鞋子	ɕɥan³³	581
+1832	Guixian	classifier (pair)	123	一双鞋	swaŋ⁵⁵	581
+1833	Xiamen	classifier (pair)	123	一双鞋	sjaŋ⁵⁵	581
+1834	Hefei	classifier (pair)	123	一双鞋	ʂwɑ̃²¹	581
+1835	Jinan	classifier (pair)	123	一双鞋	ʂwaŋ²¹³	581
+1836	Hangzhou	classifier (pair)	123	一双鞋子	sɥɑŋ³³	581
+1837	Guangzhou	classifier (pair)	123	一对鞋	tøɥ³³	582
+1838	Nanchang	classifier (pair)	123	一双鞋子	sɔŋ⁴²	581
+1839	Chengdu	classifier (pair)	123	一双鞋	swaŋ⁵⁵	581
+1840	Taiyuan	classifier (pair)	123	一对鞋	twejuei⁴⁵	582
+1841	Shexian	classifier (pair)	123	一双鞋	so³¹	581
+1842	Beijing	classifier (pair)	123	双	ʂwaŋ⁵⁵	581
+1843	Kunming	classifier (pair)	123	一双鞋子	ʂwᴀ̃⁴⁴	581
+1844	Shanghai	classifier (pair)	123	一双鞋子	sɑ̃⁵³	581
+# 
+1845	Meixian	classifier (pillow)	124	一翻被	fon⁴⁴	584
+1846	Changsha	classifier (pillow)	124	一床被子	ʨɥan¹³	583
+1847	Guixian	classifier (pillow)	124	一床被窝	ʦʰwaŋ²¹	583
+1848	Xiamen	classifier (pillow)	124	一领被	nja	588
+1849	Xiamen	classifier (pillow)	124	一床被	ʦʰŋ̍³⁵	583
+1850	Hefei	classifier (pillow)	124	一床被	t͡ʂʰwɑ̃⁵⁵	583
+1851	Jinan	classifier (pillow)	124	一床被窝	t͡ʂʰwaŋ⁴²	583
+1852	Hangzhou	classifier (pillow)	124	一床棉被	ʣɥɑŋ²¹³	583
+1853	Hangzhou	classifier (pillow)	124	一条被头	djɔ²¹³	585
+1854	Guangzhou	classifier (pillow)	124	一床被	ʦʰɔŋ²¹	583
+1855	Guangzhou	classifier (pillow)	124	一张被	ʦœŋ⁵³	583
+1856	Nanchang	classifier (pillow)	124	一床被火	ʦʰɔŋ²⁴	583
+1857	Chengdu	classifier (pillow)	124	一床铺盖	ʦʰwaŋ³¹	583
+1858	Taiyuan	classifier (pillow)	124	一块被子	kwajuai⁴⁵	587
+1859	Shexian	classifier (pillow)	124	一床被	so⁴⁴	586
+1860	Shexian	classifier (pillow)	124	一条被	tʰjɔ⁴⁴	585
+1861	Beijing	classifier (pillow)	124	床	t͡ʂʰwɑŋ³⁵	583
+1862	Kunming	classifier (pillow)	124	一床被窝	ʦʰwaŋ²¹	583
+1863	Shanghai	classifier (pillow)	124	一条被头	djɔ¹³	585
+# 
+1864	Meixian	classifier (vehicle)	125	一辆车	ljoŋ¹¹	589
+1865	Changsha	classifier (vehicle)	125	一部车子	pu¹¹	590
+1866	Guixian	classifier (vehicle)	125	一架车子	ʨja²¹³	591
+1867	Xiamen	classifier (vehicle)	125	一顶车	tiŋ⁵³	593
+1868	Xiamen	classifier (vehicle)	125	一部车	pɔ²²	590
+1869	Hefei	classifier (vehicle)	125	一挂车	kwa⁵³	592
+1870	Jinan	classifier (vehicle)	125	一辆车	ljaŋ⁵⁵	589
+1871	Jinan	classifier (vehicle)	125	一挂车	kwa²¹	592
+1872	Hangzhou	classifier (vehicle)	125	一部车子	bu¹³	590
+1873	Guangzhou	classifier (vehicle)	125	一架车	ka³³	592
+1874	Nanchang	classifier (vehicle)	125	一部车子	pʰu²¹	590
+1875	Chengdu	classifier (vehicle)	125	一架车	ʨja¹³	591
+1876	Chengdu	classifier (vehicle)	125	一挂车	kwa¹³	592
+1877	Taiyuan	classifier (vehicle)	125	一挂车	kwa⁴⁵	592
+1878	Shexian	classifier (vehicle)	125	一部车	pʰu²²	590
+1879	Beijing	classifier (vehicle)	125	辆	ljɑŋ⁵¹	589
+1880	Kunming	classifier (vehicle)	125	一张车	t͡ʂᴀ̃⁴⁴	591
+1881	Shanghai	classifier (vehicle)	125	一部车子	bu¹³	590
+# 
+1882	Meixian	classifier (cow)	126	一条牛	tʰjawiau¹¹	595
+1883	Changsha	classifier (cow)	126	一条牛	tjawiau¹³	595
+1884	Guixian	classifier (cow)	126	一条牛	tʰjaoiao²¹	595
+1885	Xiamen	classifier (cow)	126	一只牛	ʦjaʔ³²	596
+1886	Hefei	classifier (cow)	126	一条牛	tʰjɔ⁵⁵	595
+1887	Jinan	classifier (cow)	126	一条牛	tʰjɔ⁴²	595
+1888	Jinan	classifier (cow)	126	一个牛	kə²¹	598
+1889	Hangzhou	classifier (cow)	126	一只牛	ʦɑʔ⁵	596
+1890	Guangzhou	classifier (cow)	126	一只牛	ʦɛk³	596
+1891	Guangzhou	classifier (cow)	126	一头牛	tʰɐw²¹	594
+1892	Nanchang	classifier (cow)	126	一只牛	ʦɑʔ⁵	596
+1893	Chengdu	classifier (cow)	126	一条牛	tʰjawiau³¹	595
+1894	Chengdu	classifier (cow)	126	一根牛	kən⁵⁵	598
+1895	Taiyuan	classifier (cow)	126	一块牛	kwajuai⁴⁵	597
+1896	Taiyuan	classifier (cow)	126	一头牛	tʰəw¹¹	594
+1897	Shexian	classifier (cow)	126	一只牛	ʨi²¹	596
+1898	Beijing	classifier (cow)	126	头	tʰow³⁵	594
+1899	Kunming	classifier (cow)	126	一条牛	tʰjɔ³¹	595
+1900	Shanghai	classifier (cow)	126	一只牛	ʦaʔ⁵	596
+# 
+1901	Meixian	classifier (pig)	127	一条猪	tʰjawiau¹¹	601
+1902	Changsha	classifier (pig)	127	一只猪	t͡ʂa²⁴	600
+1903	Guixian	classifier (pig)	127	一条猪	tʰjaoiao²¹	601
+1904	Xiamen	classifier (pig)	127	一只猪	ʦjaʔ³²	600
+1905	Hefei	classifier (pig)	127	一口猪	kʰɯ²⁴	599
+1906	Jinan	classifier (pig)	127	一口猪	kʰow⁵⁵	599
+1907	Hangzhou	classifier (pig)	127	一只猪	ʦɑʔ⁵	600
+1908	Guangzhou	classifier (pig)	127	一只猪	ʦɛk³	600
+1909	Guangzhou	classifier (pig)	127	一条猪	tʰju²¹	601
+1910	Nanchang	classifier (pig)	127	一只猪	ʦɑʔ⁵	600
+1911	Chengdu	classifier (pig)	127	一条猪	tʰjawiau³¹	601
+1912	Chengdu	classifier (pig)	127	一根猪	kən⁵⁵	599
+1913	Taiyuan	classifier (pig)	127	一块猪	kwajuai⁴⁵	602
+1914	Taiyuan	classifier (pig)	127	一头猪	tʰəw¹¹	603
+1915	Shexian	classifier (pig)	127	一只猪	ʨi²¹	600
+1916	Beijing	classifier (pig)	127	口	kʰow²¹⁴	599
+1917	Kunming	classifier (pig)	127	一个猪	kə²¹²	599
+1918	Kunming	classifier (pig)	127	一头猪	tʰəw³¹	603
+1919	Shanghai	classifier (pig)	127	一只猪猡	ʦaʔ⁵	600
+# 
+1920	Meixian	a while	128	听一下	ha⁵³	610
+1921	Changsha	a while	128	听一下下子	xa¹¹xaʦɿ	605
+1922	Guixian	a while	128	听一阵	ʦen²¹³	612
+1923	Guixian	a while	128	听一下	xa²¹³	610
+1924	Guixian	a while	128	听一分钟	fen⁵⁵ʦoŋ⁵⁵	612
+1925	Xiamen	a while	128	听一辄仔久	tʰjã⁵⁵ʦit⁵tjap³²ba⁵³ku	613
+1926	Xiamen	a while	128	听淡薄仔久	tʰjã⁵⁵tam²²poʔ⁵a⁵³ku⁵³	614
+1927	Hefei	a while	128	听一小刻子	ɕi²⁴kʰɐʔ⁵ʦə	608
+1928	Hefei	a while	128	听一霎子	ʂɐʔ⁵	607
+1929	Jinan	a while	128	听一会儿	xwer²¹	606
+1930	Hangzhou	a while	128	听一歇儿	ɕjəʔ⁵əl	607
+1931	Guangzhou	a while	128	听一阵	ʦɐn²²	612
+1932	Nanchang	a while	128	听一下子	ha²¹ʦɿ⁰²	610
+1933	Chengdu	a while	128	听下儿	xər⁵⁵	606
+1934	Taiyuan	a while	128	听一阵阵	ʦəŋ⁴⁵ʦəŋ⁴⁵	612
+1935	Shexian	a while	128	听一下儿	xã	611
+1936	Beijing	a while	128	一会儿	i⁵⁵xwər²¹⁴	604
+1937	Kunming	a while	128	听一小下	xᴀ²¹²	609
+1938	Shanghai	a while	128	听一歇	ɕjɪʔ⁵	607
+# 
+1939	Guixian	one time	129	打一下	xa	616
+1940	Guixian	one time	129	打一傢伙	ʨja⁵⁵xo⁴²	620
+1941	Guixian	one time	129	打一法式	fa²¹sɿ²¹³	621
+1942	Xiamen	one time	129	拍一下	e	619
+1943	Hangzhou	one time	129	敲一记	ʨi⁴⁴⁵	617
+1944	Guangzhou	one time	129	打一下	ha²³	615
+1945	Taiyuan	one time	129	打一下	xa⁴⁵	618
+1946	Shanghai	one time	129	打一记	ʨi³⁵	617
+# 
+1947	Meixian	on	130	上背	soŋ⁵³poj⁵³	623
+1948	Changsha	on	130	上面	ʂan¹¹mjẽ	623
+1949	Changsha	on	130	高头	kaw³³təw	624
+1950	Changsha	on	130	上头	ʂan¹¹təw	622
+1951	Guixian	on	130	上头	saŋ²¹³tʰəw⁵⁵	622
+1952	Guixian	on	130	高上	ka⁵⁵saŋ²¹³	626
+1953	Xiamen	on	130	顶头	tiŋ⁵³tʰaw	625
+1954	Xiamen	on	130	顶面	tiŋ⁵³bin²²	625
+1955	Hefei	on	130	高头	kɔ²¹tʰɯ	624
+1956	Jinan	on	130	上头	ʂaŋ²¹tʰow	622
+1957	Jinan	on	130	上边儿	ʂaŋ²¹pjɛr	623
+1958	Jinan	on	130	顶上	tiŋ⁵⁵ʂaŋ	625
+1959	Hangzhou	on	130	高头	kɔ³³dej²¹³	624
+1960	Hangzhou	on	130	上头	zɑŋ¹³dej²¹³	622
+1961	Guangzhou	on	130	上便	sœŋ²²pin²²	623
+1962	Guangzhou	on	130	上高	sœŋ²²kow⁵⁵	622
+1963	Nanchang	on	130	上头	sɔŋ²¹tʰɛw⁰²	622
+1964	Nanchang	on	130	高头	kɑw⁴²tʰɛw⁰²	624
+1965	Chengdu	on	130	上头	saŋ¹³tʰəw³¹	622
+1966	Chengdu	on	130	上边	saŋ¹³pjan⁵⁵	623
+1967	Chengdu	on	130	上面	saŋ¹³mjan¹³	623
+1968	Chengdu	on	130	高头	kaw⁵⁵tʰəw³¹	624
+1969	Chengdu	on	130	高上	kaw⁵⁵saŋ¹³	626
+1970	Chengdu	on	130	顶上	tin⁵³saŋ¹³	625
+1971	Taiyuan	on	130	脑头	naw⁵³tʰəw¹¹	624
+1972	Taiyuan	on	130	上头	sɒ̃⁴⁵tʰəw⁵³	622
+1973	Shexian	on	130	上头	ɕja²²tʰju⁴⁴	622
+1974	Beijing	on	130	上头	ʂɑŋ⁵¹tʰow¹	622
+1975	Beijing	on	130	上边儿	ʂɑŋ⁵¹pjar¹	623
+1976	Kunming	on	130	上首	ʂᴀ̃²¹²ʂəw	622
+1977	Kunming	on	130	高首	kɔ⁴⁴ʂəw⁵³	624
+1978	Shanghai	on	130	上头	zɑ̃¹³dɤ¹³	622
+1979	Shanghai	on	130	高头	kɔ⁵³dɤ¹³	624
+# 
+1980	Meixian	under	131	下背	ha⁴⁴poj⁵³	627
+1981	Changsha	under	131	下面	ɕja¹¹mjẽ	628
+1982	Changsha	under	131	脚下	ʨjo²⁴xa¹¹	633
+1983	Changsha	under	131	底下	ti⁴¹xa¹¹	630
+1984	Changsha	under	131	下头	ɕja¹¹təw	627
+1985	Guixian	under	131	下头	ɕja²¹³tʰəw⁵⁵	627
+1986	Guixian	under	131	脚脚	ʨjo²¹ʨjo⁵⁵	633
+1987	Xiamen	under	131	下底	e²²twe	632
+1988	Xiamen	under	131	下面	e²²bin²²	629
+1989	Hefei	under	131	底下	ʦɿ²⁴ɕja	630
+1990	Jinan	under	131	下头	ɕja²¹tʰow	627
+1991	Jinan	under	131	下边儿	ɕja²¹pjɛr	628
+1992	Jinan	under	131	底下	ti⁵⁵ɕja	630
+1993	Hangzhou	under	131	下底	ɦjɑ¹³ti⁵³	627
+1994	Guangzhou	under	131	下便	ha²²pin²²	629
+1995	Guangzhou	under	131	下低	ha²²tɐj⁵⁵	627
+1996	Nanchang	under	131	下头	hɑ²¹tʰɛw⁰²	627
+1997	Nanchang	under	131	底下	tiʔ⁵kɑ²¹	630
+1998	Chengdu	under	131	下头	ɕja¹³tʰəw³¹	627
+1999	Chengdu	under	131	下边	ɕja¹³pjan⁵⁵	628
+2000	Chengdu	under	131	下面	ɕja¹³mjan¹³	628
+2001	Chengdu	under	131	底下	ti⁵³ɕja¹³	630
+2002	Taiyuan	under	131	下头	xa⁴⁵tʰəw⁵³	627
+2003	Taiyuan	under	131	底下	ti⁵³xa⁴⁵	630
+2004	Shexian	under	131	下头	xa³⁵tʰju⁴⁴	631
+2005	Beijing	under	131	下头	ɕja⁵¹tʰow¹	627
+2006	Beijing	under	131	下边儿	ɕja⁵¹pjar¹	628
+2007	Kunming	under	131	下首	ɕjᴀ²¹²ʂəw	627
+2008	Kunming	under	131	底些	ti⁵³ɕjɛ²¹²	630
+2009	Shanghai	under	131	下头	ɦo¹³dɤ¹³	627
+2010	Shanghai	under	131	下底	ɦo¹³ti³⁵	627
+# 
+2011	Meixian	left	132	左片	ʦo³¹pʰjen³¹	634
+2012	Changsha	left	132	左边	ʦo⁴¹pjẽ³³	634
+2013	Guixian	left	132	左边	ʦo⁴²pjan⁵⁵	634
+2014	Xiamen	left	132	倒手爿	to²¹ʦʰju⁵³piŋ	637
+2015	Xiamen	left	132	左爿	ʦo⁵³piŋ³⁵	634
+2016	Hefei	left	132	左半个	ʦʊ²⁴pʊ̃⁵³kə	635
+2017	Jinan	left	132	左边儿	ʦwə²¹pjɛr	634
+2018	Hangzhou	left	132	左边	ʦo⁵³pjᴇ̃³³	634
+2019	Hangzhou	left	132	借手边	ʨi⁴⁴⁵sej⁵³pjᴇ̃³³	636
+2020	Guangzhou	left	132	左便	ʦɔ³⁵pin²²	634
+2021	Nanchang	left	132	左边	ʦo²¹³pjɛn⁰⁴	634
+2022	Nanchang	left	132	左首	ʦo²¹³sɨw⁰⁴	636
+2023	Chengdu	left	132	左边	ʦo⁵³pjan⁵⁵	634
+2024	Chengdu	left	132	左面	ʦo⁵³mjan¹³	634
+2025	Taiyuan	left	132	左半切	ʦɤ⁵³pæ̃⁴⁵ʨʰjəʔ²	635
+2026	Taiyuan	left	132	左面儿	ʦɤ⁵³mjar⁴⁵	634
+2027	Shexian	left	132	反边	fɛ³⁵pe³¹	634
+2028	Shexian	left	132	大边	tʰo²²pe³¹	638
+2029	Beijing	left	132	左边儿	ʦwo²¹⁴pjar⁴	634
+2030	Kunming	left	132	左手边	ʦo⁵³ʂəw⁵³pjɛ̃⁴⁴	636
+2031	Shanghai	left	132	左面	ʦu³⁵mi¹³	634
+2032	Shanghai	left	132	左半爿	ʦu³⁵pø³⁵ba¹³	635
+# 
+2033	Meixian	right	133	右片	ju⁵³pʰjen³¹	639
+2034	Changsha	right	133	右边	jəwiəu¹¹pjẽ³³	639
+2035	Guixian	right	133	右边	jəwiəu²¹³pjan⁵⁵	639
+2036	Xiamen	right	133	正手爿	ʦjã²¹ʦʰju⁵³piŋ	642
+2037	Xiamen	right	133	正爿	ʦjã²¹piŋ	642
+2038	Xiamen	right	133	右爿	ju²²piŋ³⁵	639
+2039	Hefei	right	133	右半个	i⁵³pʊ̃⁵³kə	641
+2040	Jinan	right	133	右边儿	jowiou²¹pjɛr	639
+2041	Hangzhou	right	133	右边	ɦjø¹³pjᴇ̃³³	640
+2042	Hangzhou	right	133	顺手边	zɥen¹³sej⁵³pjᴇ̃³³	639
+2043	Guangzhou	right	133	右便	jɐw²²pin²²	639
+2044	Nanchang	right	133	右边	ju²¹pjɛn⁰²	639
+2045	Nanchang	right	133	右首	ju²¹sɨw⁰²	639
+2046	Chengdu	right	133	右边	jəwiəu¹³pjan⁵⁵	639
+2047	Chengdu	right	133	右面	jəwiəu¹³mjan¹³	639
+2048	Taiyuan	right	133	右半切	jəwiəu⁴⁵pæ̃⁴⁵ʨʰjəʔ²	639
+2049	Taiyuan	right	133	右面儿	jəwiəu⁴⁵mjar⁵³	639
+2050	Shexian	right	133	顺边	ɕɥʌ̃²²pe³¹	640
+2051	Shexian	right	133	小边	sjɔ³⁵pe³¹	640
+2052	Beijing	right	133	右边儿	jowiou⁵¹pjar¹	639
+2053	Kunming	right	133	右手边	jəwiəu²¹²ʂəw⁵³pjɛ̃⁴⁴	639
+2054	Shanghai	right	133	右面	ɦjɤ¹³mi¹³	640
+2055	Shanghai	right	133	右半爿	ɦjɤ¹³pø³⁵ba¹³	640
+# 
+2056	Meixian	in the middle	134	中间	ʦuŋ⁴⁴kjan⁴⁴	644
+2057	Changsha	in the middle	134	中间	t͡ʂoŋ³³kan³³	644
+2058	Guixian	in the middle	134	当中	taŋ⁵⁵ʦoŋ⁵⁵	644
+2059	Guixian	in the middle	134	正中间	ʦen²¹³ʦoŋ⁵⁵ʨjan⁵⁵	644
+2060	Xiamen	in the middle	134	中央	tjɔŋ⁵⁵ŋ̍⁵⁵	645
+2061	Xiamen	in the middle	134	中头	tjɔŋ⁵⁵tʰaw	645
+2062	Hefei	in the middle	134	中间	t͡ʂəŋ²¹ʨjɪ̃²¹	644
+2063	Jinan	in the middle	134	当中间儿	taŋ²¹³t͡ʂuŋ²¹³ʨjɛr	644
+2064	Jinan	in the middle	134	当央儿里	taŋ²¹³jãr⁴²ȵi	643
+2065	Hangzhou	in the middle	134	当中	tɑŋ³³ʦoŋ³³	644
+2066	Hangzhou	in the middle	134	当中横里	tɑŋ³³ʦoŋ³³ɦwɑŋ²¹³li⁵³	644
+2067	Guangzhou	in the middle	134	中间	ʦoŋ⁵⁵kan⁵⁵	644
+2068	Nanchang	in the middle	134	当中	tɔŋ⁴²ʦuŋ⁴²	644
+2069	Nanchang	in the middle	134	中间上声	ʦuŋ⁴²kan²¹³	644
+2070	Chengdu	in the middle	134	当中	taŋ⁵⁵ʦoŋ⁵⁵	644
+2071	Chengdu	in the middle	134	中间	ʦoŋ⁵⁵ʨjan⁵⁵	644
+2072	Taiyuan	in the middle	134	当中间儿	tɒ̃¹¹ʦwəŋ¹¹ʨjar¹¹	644
+2073	Taiyuan	in the middle	134	当当中	tɒ̃¹¹tɒ̃¹¹ʦwəŋ¹¹	646
+2074	Shexian	in the middle	134	当中	ta³¹ʦʌ̃³¹	644
+2075	Beijing	in the middle	134	当间儿	tɑŋ⁵⁵ʨjar⁵¹	643
+2076	Kunming	in the middle	134	正中间	t͡ʂə̃²¹²ʦoŋ⁴⁴ʨʰjɛ̃⁴⁴	644
+2077	Shanghai	in the middle	134	当中	tɑ̃⁵³ʦoŋ⁵³	644
+2078	Shanghai	in the middle	134	当中横里	tɑ̃⁵³ʦoŋ⁵³ɦwã¹³li¹³	644
+# 
+2079	Meixian	inside	135	里肚儿	ti⁴⁴tu³¹ve	650
+2080	Changsha	inside	135	里面	li⁴¹mjẽ	651
+2081	Changsha	inside	135	里头	li⁴¹təw	649
+2082	Changsha	inside	135	肚里	təw¹¹li	653
+2083	Guixian	inside	135	里头	i⁴²tʰəw⁵⁵	649
+2084	Xiamen	inside	135	里面	laj²²bin²²	652
+2085	Xiamen	inside	135	里头	laj²²tʰaw³⁵	649
+2086	Hefei	inside	135	里头	zɿ²⁴tʰɯ	648
+2087	Jinan	inside	135	里头	li⁵⁵tʰow	649
+2088	Jinan	inside	135	里边儿	li⁵⁵pjɛr	651
+2089	Jinan	inside	135	里面	li⁵⁵mjã	651
+2090	Hangzhou	inside	135	里头	li⁵³dej²¹³	649
+2091	Guangzhou	inside	135	入便	jɐp²pin²²	647
+2092	Guangzhou	inside	135	埋便	maj²¹pin²²	652
+2093	Nanchang	inside	135	里头	li²¹³tʰɛw⁰⁴	649
+2094	Nanchang	inside	135	里首	li²¹³sɨw⁰⁴	649
+2095	Chengdu	inside	135	里面	ni⁵³mjan¹³	651
+2096	Chengdu	inside	135	里边	ni⁵³pjan⁵⁵	651
+2097	Chengdu	inside	135	里头	ni⁵³tʰəw³¹	649
+2098	Chengdu	inside	135	后头	xəw¹³tʰəw³¹	648
+2099	Taiyuan	inside	135	里头	li⁵³tʰəw¹¹	649
+2100	Shexian	inside	135	里头	li³⁵tʰju⁴⁴	649
+2101	Beijing	inside	135	里头	li²¹⁴tʰow	649
+2102	Beijing	inside	135	里面	li²¹⁴mjan⁴	651
+2103	Beijing	inside	135	里边儿	li²¹⁴pjar⁴	651
+2104	Kunming	inside	135	以首	i⁵³ʂəw⁵³	649
+2105	Shanghai	inside	135	里向	li¹³ɕjã³⁴	651
+# 
+2106	Meixian	outside	136	外背	ŋoj⁵³poj⁵³	657
+2107	Changsha	outside	136	外头	wajuai¹¹təw	656
+2108	Changsha	outside	136	外面	wajuai¹¹mjẽ	654
+2109	Guixian	outside	136	外头	wajuai²¹³tʰəw⁵⁵	656
+2110	Xiamen	outside	136	外口	gwa²²kʰaw	658
+2111	Xiamen	outside	136	外面	gwa²²bin²²	655
+2112	Hefei	outside	136	外头	wᴇ⁵³tʰɯ	656
+2113	Jinan	outside	136	外头	vɛ²¹tʰow	656
+2114	Jinan	outside	136	外边儿	vɛ²¹pjɛr	654
+2115	Jinan	outside	136	外面	vɛ²¹mjã	654
+2116	Hangzhou	outside	136	外头	ɦwᴇ¹³dej²¹³	656
+2117	Guangzhou	outside	136	出便	ʦʰøt⁵pin²²	655
+2118	Guangzhou	outside	136	开便	hɔj⁵³pin²²	655
+2119	Nanchang	outside	136	外头	wajuai²¹tʰɛw⁰²	656
+2120	Nanchang	outside	136	外首	wajuai²¹sɨw⁰²	656
+2121	Chengdu	outside	136	外面	wajuai¹³mjan¹³	654
+2122	Chengdu	outside	136	外边	wajuai¹³pjan⁵⁵	654
+2123	Chengdu	outside	136	外头	wajuai¹³tʰəw³¹	656
+2124	Taiyuan	outside	136	外头	vaj⁴⁵tʰəw⁵³	656
+2125	Shexian	outside	136	外头	wɛ²²tʰju⁴⁴	654
+2126	Beijing	outside	136	外头	wajuai⁵¹tʰow	656
+2127	Beijing	outside	136	外面儿	wajuai⁵¹mjan¹	654
+2128	Beijing	outside	136	外边儿	wajuai⁵¹pjar¹	654
+2129	Kunming	outside	136	外首	wæ²¹²ʂəw⁵³	656
+2130	Shanghai	outside	136	外面	ŋa¹³mi¹³	657
+2131	Shanghai	outside	136	外头	ŋa¹³dɤ¹³	657
+# 
+2132	Meixian	sweet	137	甜	tʰjam¹¹	659
+2133	Changsha	sweet	137	甜	tjẽ¹³	659
+2134	Guixian	sweet	137	甜	tʰjan²¹	659
+2135	Xiamen	sweet	137	甜	tĩ⁵⁵	660
+2136	Hefei	sweet	137	甜	tʰjɪ̃⁵⁵	659
+2137	Jinan	sweet	137	甜	tʰjã⁴²	659
+2138	Hangzhou	sweet	137	甜	djᴇ̃²¹³	659
+2139	Guangzhou	sweet	137	甜	tʰim²¹	659
+2140	Nanchang	sweet	137	甜	tʰjɛn²⁴	659
+2141	Chengdu	sweet	137	甜	tʰjan³¹	659
+2142	Taiyuan	sweet	137	甜	tʰje¹¹	659
+2143	Shexian	sweet	137	甜	tʰe⁴⁴	659
+2144	Beijing	sweet	137	甜	tʰjan³⁵	659
+2145	Kunming	sweet	137	甜	tʰjɛ̃³¹	659
+2146	Shanghai	sweet	137	甜	di¹³	659
+# 
+2147	Meixian	sour	138	酸	son⁴⁴	661
+2148	Changsha	sour	138	酸	sõ³³	661
+2149	Guixian	sour	138	酸	swan⁵⁵	661
+2150	Xiamen	sour	138	酸	sŋ̍⁵⁵	661
+2151	Hefei	sour	138	酸	sʊ̃²¹	661
+2152	Jinan	sour	138	酸	swã²¹³	661
+2153	Hangzhou	sour	138	酸	sɥõ³³	661
+2154	Guangzhou	sour	138	酸	syn⁵³	661
+2155	Nanchang	sour	138	酸	sɵn⁴²	661
+2156	Chengdu	sour	138	酸	swan⁵⁵	661
+2157	Taiyuan	sour	138	酸	swæ̃¹¹	661
+2158	Shexian	sour	138	酸	so³¹	661
+2159	Beijing	sour	138	酸	swan⁵⁵	661
+2160	Kunming	sour	138	酸	swᴀ̃⁴⁴	661
+2161	Shanghai	sour	138	酸	sø⁵³	661
+# 
+2162	Meixian	salty	139	咸	ham¹¹	664
+2163	Changsha	salty	139	咸	xan¹³	663
+2164	Guixian	salty	139	咸	ɕjan²¹	662
+2165	Xiamen	salty	139	咸	kjam³⁵	664
+2166	Hefei	salty	139	咸	ɕjɪ̃⁵⁵	662
+2167	Jinan	salty	139	咸	ɕjã⁴²	662
+2168	Hangzhou	salty	139	咸	ɦjᴇ̃²¹³	665
+2169	Guangzhou	salty	139	咸	ham²¹	664
+2170	Nanchang	salty	139	咸	han²⁴	664
+2171	Chengdu	salty	139	咸	xan³¹	663
+2172	Taiyuan	salty	139	咸	ɕje¹¹	662
+2173	Shexian	salty	139	咸	xɛ⁴⁴	663
+2174	Beijing	salty	139	咸	ɕjan³⁵	662
+2175	Kunming	salty	139	咸	ɕjɛ̃³¹	662
+2176	Shanghai	salty	139	咸	ɦe¹³	665
+# 
+2177	Meixian	light	140	淡	tʰam⁴⁴	666
+2178	Changsha	light	140	淡	tan¹¹	666
+2179	Guixian	light	140	淡	tan²¹³	666
+2180	Hefei	light	140	淡	tæ̃⁵³	666
+2181	Jinan	light	140	淡	tã²¹	666
+2182	Jinan	light	140	甜	tʰjã⁴²	666
+2183	Hangzhou	light	140	淡	dᴇ̃¹³	666
+2184	Guangzhou	light	140	淡	tʰam²³	666
+2185	Nanchang	light	140	淡	tʰan²¹	666
+2186	Chengdu	light	140	淡	tan¹³	666
+2187	Taiyuan	light	140	寡	kwa⁵³	667
+2188	Taiyuan	light	140	甜	tʰje¹¹	666
+2189	Shexian	light	140	淡	tɛ³⁵	666
+2190	Beijing	light	140	淡	tan⁵¹	666
+2191	Kunming	light	140	淡	tᴀ̃²¹²	666
+2192	Shanghai	light	140	淡	de¹³	666
+# 
+2193	Meixian	fat	141	肥	pʰi¹¹	670
+2194	Changsha	fat	141	壮	ʨɥan⁵⁵	668
+2195	Changsha	fat	141	胖	pʰan⁵⁵	670
+2196	Guixian	fat	141	胖	pʰaŋ²¹³	670
+2197	Xiamen	fat	141	肥	pwi³⁵	670
+2198	Hefei	fat	141	胖	pʰɑ̃⁵³	670
+2199	Jinan	fat	141	胖	pʰaŋ²¹	670
+2200	Hangzhou	fat	141	壮	ʦɥɑŋ⁴⁴⁵	668
+2201	Hangzhou	fat	141	胖	pʰɑŋ⁴⁴⁵	670
+2202	Guangzhou	fat	141	肥	fej²¹	669
+2203	Nanchang	fat	141	胖	pʰɔŋ²¹³	670
+2204	Chengdu	fat	141	胖	pʰaŋ¹³	670
+2205	Taiyuan	fat	141	肉	zəw⁴⁵	671
+2206	Shexian	fat	141	壮	ʦo³²⁴	668
+2207	Shexian	fat	141	胖	pʰo³²⁴	670
+2208	Beijing	fat	141	胖	pʰɑŋ⁵¹	670
+2209	Kunming	fat	141	胖	pʰᴀ̃²¹²	670
+2210	Shanghai	fat	141	壮	ʦɑ̃³	668
+2211	Shanghai	fat	141	胖	pʰɑ̃³⁵	670
+# 
+2212	Meixian	thin	142	瘦	sew⁵³	672
+2213	Changsha	thin	142	瘦	ʂəw⁵⁵	672
+2214	Changsha	thin	142	精	ʦin³³	673
+2215	Guixian	thin	142	瘦	səw²¹³	672
+2216	Hefei	thin	142	瘦	sɯ⁵³	672
+2217	Jinan	thin	142	瘦	ʂow²¹	672
+2218	Hangzhou	thin	142	瘦	sej⁴⁴⁵	672
+2219	Guangzhou	thin	142	瘦	sɐw³³	672
+2220	Nanchang	thin	142	瘦	sɛw⁴⁵	672
+2221	Chengdu	thin	142	瘦	səw¹³	672
+2222	Taiyuan	thin	142	瘦	səw⁴⁵	672
+2223	Shexian	thin	142	瘦	ɕju³²⁴	672
+2224	Beijing	thin	142	瘦	ʂow⁵¹	672
+2225	Kunming	thin	142	瘦	səw²¹²	672
+2226	Shanghai	thin	142	瘦	sɤ³⁵	672
+# 
+2227	Meixian	cold	143	寒	hon¹¹	676
+2228	Changsha	cold	143	冷	lən⁴¹	674
+2229	Guixian	cold	143	冷	len⁴²	674
+2230	Xiamen	cold	143	寒	kwã³⁵	677
+2231	Xiamen	cold	143	冷	liŋ⁵³	674
+2232	Hefei	cold	143	冷	lən²⁴	674
+2233	Jinan	cold	143	冷	ləŋ⁵⁵	674
+2234	Hangzhou	cold	143	冷	len⁵³	674
+2235	Hangzhou	cold	143	瀴	ʔin⁴⁴⁵	676
+2236	Guangzhou	cold	143	冻	toŋ³³	675
+2237	Nanchang	cold	143	冷	lɑŋ²¹³	674
+2238	Chengdu	cold	143	冷	nən⁵³	674
+2239	Taiyuan	cold	143	冻	twəŋ⁴⁵	675
+2240	Shexian	cold	143	冷	lɛ³⁵	674
+2241	Beijing	cold	143	冷	ləŋ²¹⁴	674
+2242	Kunming	cold	143	冷	lə̃⁵³	674
+2243	Shanghai	cold	143	冷	lã¹³	674
+2244	Shanghai	cold	143	瀴	iŋ³⁵	676
+# 
+2245	Meixian	hot	144	热	ŋjat⁵	679
+2246	Changsha	hot	144	热	ɥe²⁴	679
+2247	Guixian	hot	144	热	zɛ²¹	678
+2248	Xiamen	hot	144	热	lwaʔ⁵	680
+2249	Xiamen	hot	144	烧	sjo⁵⁵	684
+2250	Hefei	hot	144	热	ʐɐʔ⁵	678
+2251	Jinan	hot	144	热	ʐə²¹	678
+2252	Hangzhou	hot	144	热	zɥəʔ²	678
+2253	Guangzhou	hot	144	热	jit²	679
+2254	Guangzhou	hot	144	庆	heŋ³³	683
+2255	Nanchang	hot	144	热	lɛʔ⁵	680
+2256	Chengdu	hot	144	热	ze³¹	678
+2257	Taiyuan	hot	144	热	zaʔ²	678
+2258	Shexian	hot	144	热	ne²²	682
+2259	Beijing	hot	144	热	ʐɤ⁵¹	678
+2260	Kunming	hot	144	热	ʐə³¹	678
+2261	Kunming	hot	144	热和	ʐə³¹xo³¹	678
+2262	Kunming	hot	144	热乎	ʐə³¹xu⁴⁴	678
+2263	Shanghai	hot	144	暖热	nø¹³ȵjɪ¹	681
+2264	Shanghai	hot	144	热	ȵjɪʔ¹	679
+# 
+2265	Meixian	well smelling	145	香	hjoŋ⁴⁴	685
+2266	Changsha	well smelling	145	香	ɕjan³³	685
+2267	Guixian	well smelling	145	香	ɕjaŋ⁵⁵	685
+2268	Xiamen	well smelling	145	芳	pʰaŋ⁵⁵	686
+2269	Hefei	well smelling	145	香	ɕjɑ̃²¹	685
+2270	Jinan	well smelling	145	香	ɕjaŋ²¹³	685
+2271	Hangzhou	well smelling	145	香	ɕjɑŋ³³	685
+2272	Guangzhou	well smelling	145	香	hœŋ⁵³	685
+2273	Nanchang	well smelling	145	香	ɕjɔŋ⁴²	685
+2274	Chengdu	well smelling	145	香	ɕjaŋ⁵⁵	685
+2275	Taiyuan	well smelling	145	香	ɕjɒ̃¹¹	685
+2276	Shexian	well smelling	145	香	ɕja³¹	685
+2277	Beijing	well smelling	145	香	ɕjɑŋ⁵⁵	685
+2278	Kunming	well smelling	145	香	ɕjᴀ̃⁴⁴	685
+2279	Shanghai	well smelling	145	香	ɕjã⁵³	685
+# 
+2280	Meixian	stinky	146	臭	ʦʰu⁵³	687
+2281	Changsha	stinky	146	臭	t͡ʂʰəw⁵⁵	687
+2282	Guixian	stinky	146	臭	ʦʰəw²¹³	687
+2283	Xiamen	stinky	146	臭	ʦʰaw²¹	687
+2284	Hefei	stinky	146	臭	t͡ʂʰɯ⁵³	687
+2285	Jinan	stinky	146	臭	t͡ʂʰow²¹	687
+2286	Hangzhou	stinky	146	臭	ʦʰej⁴⁴⁵	687
+2287	Guangzhou	stinky	146	臭	ʦʰɐw³³	687
+2288	Guangzhou	stinky	146	冤	jyn⁵³	688
+2289	Nanchang	stinky	146	臭	ʦʰɨw²¹³	687
+2290	Chengdu	stinky	146	臭	ʦʰəw¹³	687
+2291	Taiyuan	stinky	146	臭	ʦʰəw⁴⁵	687
+2292	Shexian	stinky	146	臭	ʨʰju³²⁴	687
+2293	Beijing	stinky	146	臭	t͡ʂʰow⁵¹	687
+2294	Kunming	stinky	146	臭	t͡ʂʰəw²¹²	687
+2295	Shanghai	stinky	146	臭	ʦʰɤ³⁵	687
+# 
+2296	Meixian	thick	147	粗	ʦʰɿ⁴⁴	689
+2297	Changsha	thick	147	粗	ʦʰəw³³	689
+2298	Guixian	thick	147	粗	ʦʰu⁵⁵	689
+2299	Hefei	thick	147	粗	ʦʰu²¹	689
+2300	Jinan	thick	147	粗	ʦʰu²¹³	689
+2301	Hangzhou	thick	147	粗	ʦʰu³³	689
+2302	Nanchang	thick	147	粗	ʦʰu⁴²	689
+2303	Chengdu	thick	147	粗	ʦʰu⁵⁵	689
+2304	Taiyuan	thick	147	粗	ʦʰu¹¹	689
+2305	Shexian	thick	147	粗	ʦʰu³¹	689
+2306	Beijing	thick	147	粗	ʦʰu⁵⁵	689
+2307	Beijing	thick	147	顸	xan⁵⁵	690
+2308	Kunming	thick	147	粗	ʦʰu⁴⁴	689
+2309	Shanghai	thick	147	粗	ʦʰu⁵³	689
+# 
+2310	Meixian	tiny	148	幼	ju⁵³	692
+2311	Changsha	tiny	148	细	si⁵⁵	691
+2312	Guixian	tiny	148	细	ɕi²¹³	691
+2313	Hefei	tiny	148	细	sɿ⁵³	691
+2314	Jinan	tiny	148	细	ɕi²¹	691
+2315	Hangzhou	tiny	148	细	ɕi⁴⁴⁵	691
+2316	Nanchang	tiny	148	细	ɕi⁴⁵	691
+2317	Chengdu	tiny	148	细	ɕi¹³	691
+2318	Taiyuan	tiny	148	细	ɕi⁴⁵	691
+2319	Shexian	tiny	148	细	si³²⁴	691
+2320	Beijing	tiny	148	细	ɕi⁵¹	691
+2321	Kunming	tiny	148	细	ɕi²¹²	691
+2322	Shanghai	tiny	148	细	ɕi³⁵	691
+# 
+2323	Meixian	long	149	长	ʦʰoŋ¹¹	693
+2324	Changsha	long	149	长	t͡ʂan¹³	693
+2325	Guixian	long	149	长	ʦʰaŋ²¹	693
+2326	Xiamen	long	149	长	tŋ̍	695
+2327	Hefei	long	149	长	tʰɑ̃⁵⁵	693
+2328	Jinan	long	149	长	t͡ʂʰaŋ⁴²	693
+2329	Hangzhou	long	149	长	ʣɑŋ²¹³	693
+2330	Guangzhou	long	149	长	ʦʰœŋ²¹	693
+2331	Nanchang	long	149	长	ʦʰɔŋ²⁴	693
+2332	Chengdu	long	149	长	ʦʰaŋ³¹	693
+2333	Taiyuan	long	149	长	ʦʰɒ̃¹¹	693
+2334	Shexian	long	149	长	ʨʰja⁴⁴	693
+2335	Beijing	long	149	长	t͡ʂʰɑŋ³⁵	693
+2336	Kunming	long	149	长	t͡ʂʰᴀ̃³¹	693
+2337	Shanghai	long	149	长	zã¹³	694
+# 
+2338	Meixian	short	150	短	ton³¹	696
+2339	Changsha	short	150	短	tõ⁴¹	696
+2340	Guixian	short	150	短	twan⁴²	696
+2341	Xiamen	short	150	短	te⁵³	696
+2342	Xiamen	short	150	矮	we⁵³	697
+2343	Hefei	short	150	短	tʊ̃²⁴	696
+2344	Jinan	short	150	短	twã⁵⁵	696
+2345	Hangzhou	short	150	短	twõ⁵³	696
+2346	Guangzhou	short	150	短	tyn³⁵	696
+2347	Nanchang	short	150	短	tɵn²¹³	696
+2348	Chengdu	short	150	短	twan⁵³	696
+2349	Taiyuan	short	150	短	twæ̃⁵³	696
+2350	Shexian	short	150	短	to³⁵	696
+2351	Beijing	short	150	短	twan²¹⁴	696
+2352	Kunming	short	150	短	twᴀ̃⁵³	696
+2353	Shanghai	short	150	短	tø³⁵	696
+# 
+2354	Changsha	dirty	151	邋遢	la²⁴tʰa²⁴	699
+2355	Changsha	dirty	151	邋糊	la⁴¹fu¹³	706
+2356	Guixian	dirty	151	腊踏	la²¹tʰa²¹	699
+2357	Guixian	dirty	151	脏	ʦaŋ⁵⁵	698
+2358	Xiamen	dirty	151	流疡	law³⁵sjɔŋ³⁵	705
+2359	Hefei	dirty	151	脏	ʦɑ̃	698
+2360	Hefei	dirty	151	拾弄	ʂəʔ⁵ləŋ	707
+2361	Hefei	dirty	151	污糟	u²¹ʦɔ	702
+2362	Jinan	dirty	151	脏	ʦaŋ²¹³	698
+2363	Jinan	dirty	151	邋遢	la²¹³tʰa	699
+2364	Jinan	dirty	151	腌臜	ŋa²¹³ʦa	702
+2365	Hangzhou	dirty	151	埲	foŋ⁴⁴⁵	701
+2366	Hangzhou	dirty	151	龌龊	ʔoʔ⁵ʦʰoʔ⁵	703
+2367	Guangzhou	dirty	151	污糟	wu⁵⁵ʦow⁵³	700
+2368	Guangzhou	dirty	151	邋遢	lat²tʰat³	699
+2369	Nanchang	dirty	151	腌臜	ŋɑ⁴²ʦɑ⁰²	702
+2370	Nanchang	dirty	151	邋遢	laʔ⁵tʰaʔ⁰²	699
+2371	Chengdu	dirty	151	脏	ʦaŋ⁵⁵	698
+2372	Chengdu	dirty	151	稀脏	ɕi⁵⁵ʦaŋ⁵⁵	704
+2373	Chengdu	dirty	151	龌龊	o³¹ʦʰo³¹	703
+2374	Chengdu	dirty	151	邋遢	na³¹tʰa³¹	699
+2375	Chengdu	dirty	151	哇连	wa⁵⁵njan³¹	710
+2376	Taiyuan	dirty	151	日脏	zəʔ²ʦɒ̃¹¹	704
+2377	Taiyuan	dirty	151	腌脏	ɣa¹¹ʦa¹¹	709
+2378	Shexian	dirty	151	邋遢	la²¹tʰaʔ²¹	699
+2379	Beijing	dirty	151	脏	ʦɑŋ⁵⁵	698
+2380	Kunming	dirty	151	脏	ʦᴀ̃⁴⁴	698
+2381	Kunming	dirty	151	脏巴拉尸	ʦᴀ̃⁴⁴pᴀ⁴⁴lᴀ⁴⁴ʂʅ⁴⁴	708
+2382	Shanghai	dirty	151	龌龊	oʔ⁵ʦʰoʔ⁵	703
+# 
+2383	Meixian	clean	152	净	ʦʰjaŋ⁵³	713
+2384	Changsha	clean	152	干净	kan³³ʦin⁵⁵	711
+2385	Changsha	clean	152	索利	so²⁴li⁵⁵	714
+2386	Guixian	clean	152	干净	kan⁵⁵ʨin²¹³	711
+2387	Xiamen	clean	152	清气	ʦʰiŋ⁵⁵kʰi²¹	712
+2388	Hefei	clean	152	清亮	ʨʰin²¹ljɑ	712
+2389	Jinan	clean	152	干净	kã²¹³ʨiŋ	711
+2390	Hangzhou	clean	152	干净	kᴇ̃³³ʥin¹³	711
+2391	Hangzhou	clean	152	清爽	ʨʰin³³sɥɑŋ⁵³	712
+2392	Guangzhou	clean	152	干净	kɔn⁵³ʦɛŋ²²	711
+2393	Nanchang	clean	152	干净	kɵn⁴²ʨʰin⁰²	711
+2394	Chengdu	clean	152	干净	kan⁵⁵ʨin¹³	711
+2395	Taiyuan	clean	152	干净	kæ̃¹¹ʨjəŋ⁴⁵	711
+2396	Shexian	clean	152	干净	kɛ³¹ʦʰjʌ̃²²	711
+2397	Beijing	clean	152	干净	kan⁵⁵ʨiŋ²	711
+2398	Kunming	clean	152	干净	kᴀ̃⁴⁴ʨĩ²¹²	711
+2399	Shanghai	clean	152	清爽	ʨʰiŋ⁵³sɑ̃³⁵	712
+# 
+2400	Meixian	cheap	153	便宜	pʰjen¹¹ŋin¹¹	715
+2401	Changsha	cheap	153	便宜	pjẽ¹³i	715
+2402	Guixian	cheap	153	便宜	pʰjan²¹i²¹³	715
+2403	Guixian	cheap	153	相应	ɕjaŋ⁵⁵in⁵⁵	717
+2404	Xiamen	cheap	153	俗	sjɔk⁵	718
+2405	Xiamen	cheap	153	便宜	pan³⁵gi³⁵	715
+2406	Hefei	cheap	153	巧	ʨʰjɔ²⁴	716
+2407	Jinan	cheap	153	便宜	pʰjã⁴²i	715
+2408	Hangzhou	cheap	153	便宜	bjᴇ̃²¹³ȵi²¹³	715
+2409	Guangzhou	cheap	153	平	pʰɛŋ²¹	715
+2410	Nanchang	cheap	153	便宜	pʰjɛn²⁴i⁰⁴	715
+2411	Chengdu	cheap	153	便宜	pʰjan³¹ȵi³¹	715
+2412	Chengdu	cheap	153	相因	ɕjaŋ⁵⁵in⁵⁵	717
+2413	Taiyuan	cheap	153	贱	ʨje⁴⁵	716
+2414	Taiyuan	cheap	153	便宜	pʰje¹¹i⁴⁵	715
+2415	Shexian	cheap	153	便宜	pʰe⁴⁴ni⁴⁴	715
+2416	Shexian	cheap	153	巧	ʨʰjɔ³⁵	716
+2417	Beijing	cheap	153	便宜	pʰjan³⁵i³	715
+2418	Kunming	cheap	153	相因	ɕjᴀ̃⁴⁴ĩ⁴⁴	717
+# 
+2419	Meixian	just right	156	正好	ʦaŋ⁵³haw³¹	721
+2420	Changsha	just right	156	刚好	kan³³xaw⁴¹	721
+2421	Changsha	just right	156	恰合	ʨʰja²⁴xo²⁴	721
+2422	Guixian	just right	156	正对头	ʦen²¹³twejuei²¹³tʰəw²¹	720
+2423	Guixian	just right	156	正合式	ʦen²¹³xo²¹sɿ²¹³	721
+2424	Xiamen	just right	156	拄拄仔好	tu⁵³tu⁵³a⁵³ho⁵³	724
+2425	Hefei	just right	156	将好	ʨjɑ̃²¹xʊ²⁴	721
+2426	Jinan	just right	156	刚好	ʨjaŋ²¹³xɔ⁵⁵	721
+2427	Jinan	just right	156	正好	t͡ʂəŋ²¹xɔ⁵⁵	721
+2428	Hangzhou	just right	156	刚好	kɑŋ³³hɔ⁵³	721
+2429	Hangzhou	just right	156	正好	ʦen⁴⁴⁵hɔ⁵³	721
+2430	Guangzhou	just right	156	啱好	ŋam⁵³how³⁵	719
+2431	Nanchang	just right	156	正好	ʦɨn⁴⁵hɑw²¹³	721
+2432	Nanchang	just right	156	刚好	kɔŋ⁴²hɑw²¹³	721
+2433	Chengdu	just right	156	正好	ʦən¹³xaw⁵³	721
+2434	Chengdu	just right	156	刚好	kaŋ⁵⁵xaw⁵³	721
+2435	Chengdu	just right	156	恰好	ʨʰja³¹xaw⁵³	721
+2436	Chengdu	just right	156	恰恰	ʨʰja³¹ʨʰja³¹	725
+2437	Taiyuan	just right	156	正好好	ʦəŋ⁴⁵xaw⁵³xaw⁵³	721
+2438	Shexian	just right	156	碰巧	pʰʌ̃³²⁴ʨʰjɔ³⁵	723
+2439	Shexian	just right	156	刚好	ʨja³¹xɔ³⁵	721
+2440	Beijing	just right	156	正好儿	t͡ʂəŋ⁵¹xawr²¹⁴	721
+2441	Kunming	just right	156	刚好	kᴀ̃⁴⁴xɔ⁵³	721
+2442	Kunming	just right	156	将合适	ʨjᴀ̃⁴⁴xo³¹ʂʅ²¹²	721
+2443	Shanghai	just right	156	刚正好	kɑ̃⁵³ʦəŋ³⁵hɔ³	722
+# 
+2444	Meixian	and	157	同	tʰuŋ¹¹	732
+2445	Changsha	and	157	跟	kən³³	727
+2446	Guixian	and	157	和	xo²¹	726
+2447	Guixian	and	157	和倒	xo²¹ta⁴²	726
+2448	Guixian	and	157	参	ʦʰan⁵⁵	727
+2449	Guixian	and	157	参倒	ʦʰan⁵⁵ta⁴²	727
+2450	Xiamen	and	157	合	kap³²	731
+2451	Hefei	and	157	跟	kən²¹	727
+2452	Jinan	and	157	和	xə⁴²	726
+2453	Jinan	and	157	跟	kẽ²¹³	727
+2454	Jinan	and	157	给	ʨi⁴²	735
+2455	Hangzhou	and	157	搭	tɑʔ⁵	728
+2456	Hangzhou	and	157	同	doŋ²¹³	732
+2457	Guangzhou	and	157	同	tʰoŋ²¹	732
+2458	Guangzhou	and	157	同埋	tʰoŋ²¹maj²¹	732
+2459	Guangzhou	and	157	帮	pɔŋ⁵⁵	734
+2460	Guangzhou	and	157	帮埋	pɔŋ⁵³maj²¹	732
+2461	Nanchang	and	157	跟	kjɛn⁴²	727
+2462	Nanchang	and	157	跟到	kjɛn⁴²tɑw⁰²	727
+2463	Chengdu	and	157	和	xo³¹	726
+2464	Chengdu	and	157	跟	kən⁵⁵	727
+2465	Chengdu	and	157	同	tʰoŋ³¹	732
+2466	Taiyuan	and	157	和	xwɤ¹¹	730
+2467	Taiyuan	and	157	跟	kəŋ¹¹	727
+2468	Shexian	and	157	搭	taʔ²¹	728
+2469	Beijing	and	157	和	xɤ³⁵	726
+2470	Beijing	and	157	跟	kən⁵⁵	727
+2471	Kunming	and	157	挨	æ⁴⁴	729
+2472	Kunming	and	157	搭	tᴀ³¹	728
+2473	Shanghai	and	157	搭	taʔ⁵	728
+2474	Shanghai	and	157	教	kɔ³⁵	733
+# 
+2475	Meixian	only	158	只	ʦak¹	736
+2476	Changsha	only	158	只	t͡ʂʅ⁴¹	736
+2477	Guixian	only	158	只	ʦɿ⁴²	736
+2478	Guixian	only	158	独	tu²¹	740
+2479	Xiamen	only	158	干但	kan⁵⁵tã²²	739
+2480	Xiamen	only	158	只	ʦi⁵³	736
+2481	Hefei	only	158	只	t͡ʂəʔ⁵	736
+2482	Jinan	only	158	只	t͡ʂʅ⁴²	736
+2483	Hangzhou	only	158	只	ʦəʔ⁵	736
+2484	Guangzhou	only	158	净只	ʦeŋ²²ʦi³⁵	737
+2485	Guangzhou	only	158	只	ʦi³⁵	736
+2486	Nanchang	only	158	只	ʦɨʔ⁵	736
+2487	Chengdu	only	158	只	ʦɿ⁵³	736
+2488	Chengdu	only	158	光	kwaŋ⁵⁵	738
+2489	Taiyuan	only	158	光	kwɒ̃¹¹	738
+2490	Shexian	only	158	只	ʨiʔ²¹	736
+2491	Beijing	only	158	只	t͡ʂʅ²¹⁴	736
+2492	Kunming	only	158	只	t͡ʂʅ⁵³	736
+2493	Shanghai	only	158	只	ʦəʔ⁵	736
+# 
+2494	Meixian	from	159	从	ʦʰjuŋ¹¹	741
+2495	Changsha	from	159	从	ʦoŋ¹³	741
+2496	Guixian	from	159	齐	ʨʰi²¹	742
+2497	Xiamen	from	159	对	twi²¹	743
+2498	Hefei	from	159	从	ʦʰəŋ⁵⁵	741
+2499	Jinan	from	159	从	ʦʰuŋ⁴²	741
+2500	Jinan	from	159	打	ta⁵⁵	743
+2501	Hangzhou	from	159	从	ʣoŋ²¹³	741
+2502	Guangzhou	from	159	从	ʦʰoŋ²¹	741
+2503	Nanchang	from	159	从	ʦʰuŋ²⁴	741
+2504	Nanchang	from	159	走	ʦɛw²¹³	742
+2505	Chengdu	from	159	从	ʦʰoŋ³¹	741
+2506	Taiyuan	from	159	从	ʦʰwəŋ¹¹	741
+2507	Shexian	from	159	从	ʦʰʌ̃⁴⁴	742
+2508	Beijing	from	159	从	ʦʰuŋ³⁵	741
+2509	Beijing	from	159	打	ta²¹⁴	743
+2510	Beijing	from	159	且	ʨʰjɛ²¹⁴	742
+2511	Kunming	from	159	从	ʦʰoŋ³¹	741
+2512	Shanghai	from	159	从	zoŋ¹³	741
+# 
+2513	Meixian	instead of	160	替	tʰi⁵³	744
+2514	Changsha	instead of	160	帮	pan³³	745
+2515	Guixian	instead of	160	替	tʰi²¹³	744
+2516	Xiamen	instead of	160	合	kap³²	747
+2517	Xiamen	instead of	160	替	tʰwe²¹	744
+2518	Hefei	instead of	160	帮	pɑ̃²¹	745
+2519	Jinan	instead of	160	替	tʰi²¹	744
+2520	Jinan	instead of	160	给	ʨi⁴²	750
+2521	Hangzhou	instead of	160	拨	pɑʔ⁵	745
+2522	Guangzhou	instead of	160	帮	pɔŋ⁵⁵	745
+2523	Guangzhou	instead of	160	同	tʰoŋ²¹	749
+2524	Nanchang	instead of	160	帮	pɔŋ⁴²	745
+2525	Chengdu	instead of	160	替	tʰi¹³	744
+2526	Chengdu	instead of	160	代	taj¹³	748
+2527	Chengdu	instead of	160	帮	paŋ⁵⁵	745
+2528	Taiyuan	instead of	160	替	tʰi⁴⁵	744
+2529	Shexian	instead of	160	帮	pɔ³¹	745
+2530	Beijing	instead of	160	替	tʰi⁵¹	744
+2531	Kunming	instead of	160	挨	æ⁴⁴	746
+2532	Shanghai	instead of	160	代	de¹³	744
+# 
+2533	Meixian	take	161	拿	na⁴⁴	751
+2534	Changsha	take	161	拿	la³³	752
+2535	Guixian	take	161	拿	la²¹	752
+2536	Xiamen	take	161	对	twi²¹	754
+2537	Xiamen	take	161	掠	ljaʔ⁵	752
+2538	Hefei	take	161	拿	la⁵⁵	752
+2539	Jinan	take	161	拿	na⁴²	751
+2540	Hangzhou	take	161	驮	do²¹³	753
+2541	Nanchang	take	161	搦	lɑʔ⁵	752
+2542	Nanchang	take	161	捉	ʦɔʔ⁵	755
+2543	Chengdu	take	161	拿	na³¹	751
+2544	Taiyuan	take	161	拿	na¹¹	751
+2545	Shexian	take	161	担	tɛ³¹	753
+2546	Beijing	take	161	拿	na³⁵	751
+2547	Kunming	take	161	拿	nᴀ³¹	751
+2548	Shanghai	take	161	拿	ne⁵³	751
+# 
+2549	Meixian	on purpose	162	故意	ku⁵³i⁵³	756
+2550	Meixian	on purpose	162	有意	ju⁴⁴i⁵³	763
+2551	Changsha	on purpose	162	故意	ku⁵⁵i⁵⁵	756
+2552	Changsha	on purpose	162	罢是	pa¹¹ʂʅ¹¹	759
+2553	Guixian	on purpose	162	罢意	pa²¹³i²¹³	759
+2554	Guixian	on purpose	162	刁意	tjaoiao⁵⁵i²¹³	767
+2555	Xiamen	on purpose	162	刁故意	tʰjawiau⁵⁵kɔ²¹i²¹	765
+2556	Xiamen	on purpose	162	刁工	tʰjawiau⁵⁵kaŋ⁵⁵	765
+2557	Hefei	on purpose	162	故意	ku⁵³zɿ	756
+2558	Hefei	on purpose	162	巴巴	pa⁵³pa⁵³	759
+2559	Jinan	on purpose	162	特为的	tej⁴²vejti	761
+2560	Hangzhou	on purpose	162	特为	dəʔ²wi¹³	760
+2561	Guangzhou	on purpose	162	特登	tɐk²tɐŋ⁵⁵	758
+2562	Guangzhou	on purpose	162	专登	ʦyn⁵⁵tɐŋ⁵⁵	766
+2563	Nanchang	on purpose	162	特事	tʰɛʔ²sɿ⁰²	760
+2564	Chengdu	on purpose	162	利边	ni¹³pjan⁵⁵	757
+2565	Chengdu	on purpose	162	成心	ʦʰən³¹ɕin⁵⁵	766
+2566	Taiyuan	on purpose	162	专意	ʦwæ̃¹¹i⁴⁵	764
+2567	Taiyuan	on purpose	162	故意	ku⁴⁵i⁴⁵	756
+2568	Taiyuan	on purpose	162	成心	ʦʰəŋ¹¹ɕjəŋ¹¹	766
+2569	Shexian	on purpose	162	有意	ju³⁵i³²⁴	763
+2570	Beijing	on purpose	162	故意	ku⁵¹i⁵¹	756
+2571	Kunming	on purpose	162	罢意	pᴀ²¹²i²¹²	759
+2572	Kunming	on purpose	162	故意	ku²¹²i²¹²	756
+2573	Shanghai	on purpose	162	有意	ɦjɤ¹³i⁵³	762
+2574	Shanghai	on purpose	162	迭为	djɪʔ¹ɦwe¹³	760
+2575	Shanghai	on purpose	162	有心	ɦjɤ¹³ɕiŋ⁵³	762
+# 
+2576	Meixian	one	163	一	it¹	770
+2577	Changsha	one	163	一	i²⁴	768
+2578	Guixian	one	163	一	i²¹	768
+2579	Xiamen	one	163	一	it³²	770
+2580	Hefei	one	163	一	jəʔ⁵	769
+2581	Jinan	one	163	一	i²¹³	768
+2582	Hangzhou	one	163	一	ʔjəʔ⁵	769
+2583	Guangzhou	one	163	一	jɐt⁵	769
+2584	Nanchang	one	163	一	iʔ⁵	768
+2585	Chengdu	one	163	一	i³¹	768
+2586	Taiyuan	one	163	一	jəʔ²	769
+2587	Shexian	one	163	一	iʔ²¹	768
+2588	Beijing	one	163	一	i⁵⁵	768
+2589	Kunming	one	163	一	i³¹	768
+2590	Shanghai	one	163	一	jɪʔ	771
+# 
+2591	Meixian	two	164	二	ŋi⁵³	775
+2592	Changsha	two	164	二	ə¹¹	773
+2593	Guixian	two	164	二	ɚ²¹³	773
+2594	Xiamen	two	164	两	nŋ̍²²	777
+2595	Xiamen	two	164	二	li²²	778
+2596	Hefei	two	164	二	a⁵³	773
+2597	Jinan	two	164	二	ər²¹	772
+2598	Hangzhou	two	164	二	əl⁴⁴⁵	772
+2599	Guangzhou	two	164	二	ji²²	774
+2600	Nanchang	two	164	二	ɵ²¹	773
+2601	Chengdu	two	164	二	ər¹³	772
+2602	Taiyuan	two	164	二	ər⁴⁵	772
+2603	Shexian	two	164	二	lja³⁵	776
+2604	Beijing	two	164	二	ər⁵¹	772
+2605	Kunming	two	164	二	ə²¹²	773
+2606	Shanghai	two	164	二	ȵi¹³	775
+# 
+2607	Meixian	three	165	三	sam⁴⁴	779
+2608	Changsha	three	165	三	san³³	779
+2609	Guixian	three	165	三	san⁵⁵	779
+2610	Xiamen	three	165	三	sã⁵⁵	779
+2611	Hefei	three	165	三	sæ̃²¹	779
+2612	Jinan	three	165	三	sã²¹³	779
+2613	Hangzhou	three	165	三	sᴇ̃³³	779
+2614	Guangzhou	three	165	三	sam⁵³	779
+2615	Nanchang	three	165	三	san⁴²	779
+2616	Chengdu	three	165	三	san⁵⁵	779
+2617	Taiyuan	three	165	三	sæ̃¹¹	779
+2618	Shexian	three	165	三	sɛ³¹	779
+2619	Beijing	three	165	三	san⁵⁵	779
+2620	Kunming	three	165	三	sᴀ̃⁴⁴	779
+2621	Shanghai	three	165	三	se⁵³	779
+# 
+2622	Meixian	four	166	四	si⁵³	780
+2623	Changsha	four	166	四	sɿ⁵⁵	780
+2624	Guixian	four	166	四	sɿ²¹³	780
+2625	Xiamen	four	166	四	si²¹	780
+2626	Hefei	four	166	四	sɿ⁵³	780
+2627	Jinan	four	166	四	sɿ²¹	780
+2628	Hangzhou	four	166	四	sɿ⁴⁴⁵	780
+2629	Guangzhou	four	166	四	sej³³	780
+2630	Nanchang	four	166	四	sɿ⁴⁵	780
+2631	Chengdu	four	166	四	sɿ¹³	780
+2632	Taiyuan	four	166	四	sɿ⁴⁵	780
+2633	Shexian	four	166	四	sɿ³²⁴	780
+2634	Beijing	four	166	四	sɿ⁵¹	780
+2635	Kunming	four	166	四	sɿ²¹²	780
+2636	Shanghai	four	166	四	sɿ³⁵	780
+# 
+2637	Meixian	five	167	五	n̩³¹	782
+2638	Changsha	five	167	五	u⁴¹	781
+2639	Guixian	five	167	五	u⁴²	781
+2640	Xiamen	five	167	五	gɔ²²	783
+2641	Hefei	five	167	五	u²⁴	781
+2642	Jinan	five	167	五	u⁵⁵	781
+2643	Hangzhou	five	167	五	ʔu⁵³	781
+2644	Guangzhou	five	167	五	ŋ̍²³	782
+2645	Nanchang	five	167	五	ŋ̍²¹³	782
+2646	Chengdu	five	167	五	u⁵³	781
+2647	Taiyuan	five	167	五	vu⁵³	781
+2648	Shexian	five	167	五	u³⁵	781
+2649	Beijing	five	167	五	u²¹⁴	781
+2650	Kunming	five	167	五	u⁵³	781
+2651	Shanghai	five	167	五	ŋ̍¹³	782
+# 
+2652	Meixian	six	168	六	ljuk¹	785
+2653	Changsha	six	168	六	ləw²⁴	785
+2654	Guixian	six	168	六	lu²¹	785
+2655	Xiamen	six	168	六	lak⁵	785
+2656	Hefei	six	168	六	ləʔ⁵	785
+2657	Jinan	six	168	六	ljowiou²¹	784
+2658	Hangzhou	six	168	六	loʔ²	785
+2659	Guangzhou	six	168	六	lok²	785
+2660	Nanchang	six	168	六	ljuʔ²	785
+2661	Chengdu	six	168	六	nu³¹	786
+2662	Taiyuan	six	168	六	ljəwiəu⁴⁵	784
+2663	Shexian	six	168	六	lo²²	785
+2664	Beijing	six	168	六	ljowiou⁵¹	784
+2665	Kunming	six	168	六	lu³¹	785
+2666	Shanghai	six	168	六	loʔ¹	785
+# 
+2667	Meixian	seven	169	七	ʦʰit¹	787
+2668	Changsha	seven	169	七	ʦʰi²⁴	787
+2669	Guixian	seven	169	七	ʨʰi²¹	787
+2670	Xiamen	seven	169	七	ʦʰit³²	787
+2671	Hefei	seven	169	七	ʨʰjəʔ⁵	787
+2672	Jinan	seven	169	七	ʨʰi²¹³	787
+2673	Hangzhou	seven	169	七	ʨʰjəʔ⁵	787
+2674	Guangzhou	seven	169	七	ʦʰɐt⁵	787
+2675	Nanchang	seven	169	七	ʨʰiʔ⁵	787
+2676	Chengdu	seven	169	七	ʨʰi³¹	787
+2677	Taiyuan	seven	169	七	ʨʰjəʔ²	787
+2678	Shexian	seven	169	七	ʦʰiʔ²¹	787
+2679	Beijing	seven	169	七	ʨʰi⁵⁵	787
+2680	Kunming	seven	169	七	ʨʰi³¹	787
+2681	Shanghai	seven	169	七	ʨʰjɪʔ⁵	787
+# 
+2682	Meixian	eight	170	八	pat¹	788
+2683	Changsha	eight	170	八	pa²⁴	788
+2684	Guixian	eight	170	八	pa²¹	788
+2685	Xiamen	eight	170	八	pweʔ³²	788
+2686	Hefei	eight	170	八	pɐʔ⁵	788
+2687	Jinan	eight	170	八	pa²¹³	788
+2688	Hangzhou	eight	170	八	pɑʔ⁵	788
+2689	Guangzhou	eight	170	八	pat³	788
+2690	Nanchang	eight	170	八	paʔ⁵	788
+2691	Chengdu	eight	170	八	pa³¹	788
+2692	Taiyuan	eight	170	八	paʔ²	788
+2693	Shexian	eight	170	八	paʔ²¹	788
+2694	Beijing	eight	170	八	pa⁵⁵	788
+2695	Kunming	eight	170	八	pᴀ³¹	788
+2696	Shanghai	eight	170	八	paʔ⁵	788
+# 
+2697	Meixian	nine	171	九	kju³¹	789
+2698	Changsha	nine	171	九	ʨjəwiəu⁴¹	789
+2699	Guixian	nine	171	九	ʨjəwiəu⁴²	789
+2700	Xiamen	nine	171	九	kaw⁵³	790
+2701	Hefei	nine	171	九	ʨjɯ²⁴	789
+2702	Jinan	nine	171	九	ʨjowiou⁵⁵	789
+2703	Hangzhou	nine	171	九	ʨjø⁵³	789
+2704	Guangzhou	nine	171	九	kɐw³⁵	790
+2705	Nanchang	nine	171	九	ʨju²¹³	789
+2706	Chengdu	nine	171	九	ʨjəwiəu⁵³	789
+2707	Taiyuan	nine	171	九	ʨjəwiəu⁵³	789
+2708	Shexian	nine	171	九	ʨju³⁵	789
+2709	Beijing	nine	171	九	ʨjowiou²¹⁴	789
+2710	Kunming	nine	171	九	ʨjəwiəu⁵³	789
+2711	Shanghai	nine	171	九	ʨjɤ³⁵	789
+# 
+2712	Meixian	ten	172	十	səp⁵	791
+2713	Changsha	ten	172	十	ʂʅ²⁴	791
+2714	Changsha	ten	172	炮	pʰaw⁵⁵	792
+2715	Guixian	ten	172	十	sɿ²¹	791
+2716	Xiamen	ten	172	十	ʦap⁵	791
+2717	Hefei	ten	172	十	ʂəʔ⁵	791
+2718	Jinan	ten	172	十	ʂʅ⁴²	791
+2719	Hangzhou	ten	172	十	zəʔ²	791
+2720	Guangzhou	ten	172	十	sɐp²	791
+2721	Nanchang	ten	172	十	sɨʔ²	791
+2722	Chengdu	ten	172	十	sɿ³¹	791
+2723	Taiyuan	ten	172	十	səʔ⁵⁴	791
+2724	Shexian	ten	172	十	ɕi²²	791
+2725	Beijing	ten	172	十	ʂʅ³⁵	791
+2726	Kunming	ten	172	十	ʂʅ³¹	791
+2727	Shanghai	ten	172	十	zəʔ¹	791
+# 
+2728	Meixian	eleven	173	十一	səp⁵it¹	793
+2729	Changsha	eleven	173	十一	ʂʅ²⁴i²⁴	793
+2730	Guixian	eleven	173	十一	sɿ²¹i²¹	793
+2731	Xiamen	eleven	173	十一	ʦap⁵it³²	793
+2732	Hefei	eleven	173	十一	ʂəʔ⁵jəʔ⁵	793
+2733	Jinan	eleven	173	十一	ʂʅ⁴²i²¹³	793
+2734	Hangzhou	eleven	173	十一	zəʔ²ʔjəʔ⁵	793
+2735	Guangzhou	eleven	173	十一	sɐp²jɐt⁵	793
+2736	Nanchang	eleven	173	十一	sɨʔ²iʔ⁵	793
+2737	Chengdu	eleven	173	十一	sɿ³¹i³¹	793
+2738	Taiyuan	eleven	173	十一	səʔ⁵⁴jəʔ²	793
+2739	Shexian	eleven	173	十一	ɕi²²iʔ²¹	793
+2740	Beijing	eleven	173	十一	ʂʅ³⁵i⁵⁵	793
+2741	Kunming	eleven	173	十一	ʂʅ³¹i³¹	793
+2742	Shanghai	eleven	173	十一	zəʔ¹jɪʔ⁵	793
+# 
+2743	Xiamen	twenty	175	廿	ljap⁵	797
+2744	Guangzhou	twenty	175	廿	ja²²	794
+2745	Shexian	twenty	175	两拾	lja³⁵ɕi²²	796
+2746	Shanghai	twenty	175	念	ȵje¹³ne¹³	795
+# 
+2747	Meixian	first	177	第一	tʰi⁵³it¹	798
+2748	Changsha	first	177	第一	ti¹¹i²⁴	798
+2749	Guixian	first	177	第一	ti²¹³i²¹	798
+2750	Xiamen	first	177	第一	te²²it³²	798
+2751	Hefei	first	177	第一	ʦɿ⁵³jəʔ⁵	798
+2752	Jinan	first	177	第一	ti²¹i²¹³	798
+2753	Hangzhou	first	177	第一	di¹³ʔjəʔ⁵	798
+2754	Guangzhou	first	177	第一	tɐj²²jɐt⁵	798
+2755	Nanchang	first	177	第一	tʰi²¹iʔ⁵	798
+2756	Chengdu	first	177	第一	ti¹³i³¹	798
+2757	Taiyuan	first	177	第一	ti⁴⁵jəʔ²	798
+2758	Shexian	first	177	第一	tʰi²²iʔ²¹	798
+2759	Beijing	first	177	第一	ti⁵¹i⁵⁵	798
+2760	Kunming	first	177	第一	ti²¹²i³¹	798
+2761	Shanghai	first	177	第一	di¹³jɪʔ⁵	798
+# 
+2762	Meixian	second	178	第二	tʰi⁵³ŋi⁵³	799
+2763	Changsha	second	178	第二	ti¹¹ə¹¹	799
+2764	Guixian	second	178	第二	ti²¹³ɚ²¹³	799
+2765	Jinan	second	178	第二	ti²¹ər²¹	799
+2766	Hangzhou	second	178	第二	di¹³əl⁴⁴⁵	799
+2767	Guangzhou	second	178	第二	tɐj²²ji²²	799
+2768	Nanchang	second	178	第二	tʰi²¹ɵ²¹	799
+2769	Chengdu	second	178	第二	ti¹³ər¹³	799
+2770	Taiyuan	second	178	第二	ti⁴⁵ər⁴⁵	799
+2771	Shexian	second	178	第二	tʰi²²ɛ²²	799
+2772	Beijing	second	178	第二	ti⁵¹ər⁵¹	799
+2773	Kunming	second	178	第二	ti²¹²ə²¹²	799
+2774	Shanghai	second	178	第二	di¹³ȵi¹³	799
+# 
+2775	Meixian	two pairs	180	两两	ljoŋ³¹ljoŋ⁴⁴	800
+2776	Changsha	two pairs	180	二两	ə¹¹ljan⁴¹	800
+2777	Guixian	two pairs	180	二两	ɚ²¹³ljaŋ⁴²	800
+2778	Xiamen	two pairs	180	两里	nŋ̍²²nŋ̍²²	801
+2779	Hefei	two pairs	180	二两	a⁵³ljɑ̃²⁴	800
+2780	Jinan	two pairs	180	二两	ər²¹ljaŋ	800
+2781	Hangzhou	two pairs	180	二两	əl⁴⁴⁵ljɑŋ⁵³	800
+2782	Guangzhou	two pairs	180	二两	ji²²lœŋ³⁵	800
+2783	Nanchang	two pairs	180	二两	ɵ²¹ljɔŋ²¹³	800
+2784	Chengdu	two pairs	180	二两	ər¹³njaŋ⁵³	800
+2785	Taiyuan	two pairs	180	二两	ər⁴⁵ljɒ̃⁵³	800
+2786	Shexian	two pairs	180	二两	ɛ²²lja³⁵	800
+2787	Beijing	two pairs	180	二两	ər⁵¹ljɑŋ²¹⁴	800
+2788	Kunming	two pairs	180	二两	ə²¹²ljᴀ̃⁵³	800
+2789	Shanghai	two pairs	180	二两	ȵi¹³ljã¹³	800
+# SIN_'sca'_-2.0_0.3_0.5_0.5_0.7_100_3-2_None_T__True_gep:0.50-0.50_global-local_gop:-2--1

@@ -32,6 +32,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
 <h3 onclick="clearit();"><a name='browse' style="color:black">Browse the Data</a></h3>
+
   <ol style="list-style:upper-roman;">
     <li id="alm" style="cursor:pointer;" onclick="toggleData('alm');"> Phonetic alignment benchmark</li>
     <li id="ralm" style="cursor:pointer;" onclick="toggleData('ralm');">Results for automatic phonetic alignment analyses</li>
@@ -51,6 +52,10 @@
   <a class="tar_download_link" href="https://github.com/SequenceComparison/SupplementaryMaterial/tarball/master">Download this project as a tar.gz file</a>
 </div>
 
+
+
+
+
 <h3 onclick="clearit();">Download the Source Code</h3>
 <script>
 if(document.URL.indexOf('msa') != -1)
@@ -65,7 +70,7 @@ if(document.URL.indexOf('msa') != -1)
   }
   toggleData('alm');
   browseMSA('benchmark/msa/'+params['msa']);
-  window.location.hash = "#browse";
+  window.location.hash = "#msa_head";
 }
 </script>
 

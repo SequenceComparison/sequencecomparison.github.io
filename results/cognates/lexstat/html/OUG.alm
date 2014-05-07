@@ -1,0 +1,2166 @@
+OUG
+
+1	Jugan Khanty..........	all	1	e	j	n	æː	m
+1	Likrisovskoje Khanty..	all	1	e	j	n	æː	m
+1	Malyj Jugan Khanty....	all	1	e	j	n	æː	m
+1	Tremjugan Khanty......	all	1	e	j	n	æː	m
+1	Vakh Khanty...........	all	1	e	j	n	æː	m
+1	Vartovskoje Khanty....	all	1	e	j	n	æː	m
+1	Verkhne-Kalymsk Khanty	all	1	e	j	n	æː	m
+2	Kazym Khanty..........	all	1	i	s	aː
+2	Nizjam Khanty.........	all	1	i	s	a	χ	aː	t
+2	Sherkaly Khanty.......	all	1	i	s	aː	t
+2	Synja Khanty..........	all	1	i	s	aː
+3	Konda Khanty..........	all	1	p	e	r	t	æː
+4	Konda Mansi...........	all	1	s	o	q
+4	Lower Lozva Mansi.....	all	1	ʃ	a	q
+4	Pelymka Mansi.........	all	1	ʃ	o	q
+4	Tavda Mansi...........	all	1	ʃ	ɔ	χ
+5	Middle Lozva Mansi....	all	1	p	u	ʃ	n
+5	North Mansi...........	all	1	p	u	s	ə	n
+6	Upper Demjanka Khanty.	all	1	χ	a	r	n	aː
+
+7	Jugan Khanty..........	ashes	2	n	æː	j	p	æː	r
+7	Tremjugan Khanty......	ashes	2	n	æː	j	p	æː	r
+7	Vakh Khanty...........	ashes	2	p	æː	r
+7	Vasjugan Khanty.......	ashes	2	p	æː	r
+8	Kazym Khanty..........	ashes	2	r	aː	t	χ	i	ʃ
+8	Obdorsk Khanty........	ashes	2	r	æː	t	χ	i	s
+9	Konda Khanty..........	ashes	2	χ	oː	j	ə	m
+9	Konda Mansi...........	ashes	2	q	u	ʎ	ə	m
+9	Lower Lozva Mansi.....	ashes	2	q	u	ʎ	ə	m
+9	Middle Lozva Mansi....	ashes	2	q	u	ʎ	ə	m
+9	Nizjam Khanty.........	ashes	2	χ	ɔː	j	ə	m
+9	North Mansi...........	ashes	2	χ	u	ʎ	ə	m
+9	Sherkaly Khanty.......	ashes	2	χ	ɔː	j	ə	m
+9	Tavda Mansi...........	ashes	2	q	oː	ʎ	ə	m
+9	Upper Demjanka Khanty.	ashes	2	χ	oː	j	ə	m
+
+10	Jugan Khanty..........	bark	3	k	æː	r
+10	Kazym Khanty..........	bark	3	k	aː	r
+10	Konda Khanty..........	bark	3	k	æː	r
+10	Likrisovskoje Khanty..	bark	3	k	æː	r
+10	Malyj Jugan Khanty....	bark	3	k	æː	r
+10	Nizjam Khanty.........	bark	3	k	aː	r
+10	Obdorsk Khanty........	bark	3	k	æː	r
+10	Tremjugan Khanty......	bark	3	k	æː	r
+10	Upper Demjanka Khanty.	bark	3	k	æː	r
+10	Vakh Khanty...........	bark	3	k	æː	r
+10	Vasjugan Khanty.......	bark	3	k	æː	r
+10	Verkhne-Kalymsk Khanty	bark	3	k	æː	r
+11	Konda Mansi...........	bark	3	s	uː	l
+11	Lower Lozva Mansi.....	bark	3	s	u	l
+11	Middle Lozva Mansi....	bark	3	s	u	l
+11	North Mansi...........	bark	3	s	u	l
+11	Pelymka Mansi.........	bark	3	s	u	l
+12	Tavda Mansi...........	bark	3	s	u
+
+13	Jugan Khanty..........	belly	4	k	o	n
+13	Kazym Khanty..........	belly	4	χ	o	ɳ
+13	Konda Khanty..........	belly	4	χ	o	n
+13	Likrisovskoje Khanty..	belly	4	k	o	ɳ
+13	Malyj Jugan Khanty....	belly	4	k	o	n
+13	Nizjam Khanty.........	belly	4	χ	o	n
+13	Obdorsk Khanty........	belly	4	χ	o	n
+13	Sherkaly Khanty.......	belly	4	χ	o	n
+13	Synja Khanty..........	belly	4	χ	o	ɳ
+13	Tremjugan Khanty......	belly	4	k	o	ɳ
+13	Vakh Khanty...........	belly	4	k	o	ɳ
+13	Vartovskoje Khanty....	belly	4	k	o	ɳ
+13	Vasjugan Khanty.......	belly	4	k	o	ɳ
+13	Verkhne-Kalymsk Khanty	belly	4	k	o	ɳ
+14	Middle Lozva Mansi....	belly	4	s	ɔ	r
+14	North Mansi...........	belly	4	s	o	r	ɨ	ɣ
+14	Pelymka Mansi.........	belly	4	s	o	r	i
+15	Upper Demjanka Khanty.	belly	4	p	oː	r	ə	χ
+
+16	Kazym Khanty..........	big	5	w	ɵː	n
+16	Synja Khanty..........	big	5	uː	n
+17	Jugan Khanty..........	big	5	e	n	t	ɬ
+17	Konda Khanty..........	big	5	eː	n	ə
+17	Konda Mansi...........	big	5	j	æ	n	i
+17	Lower Lozva Mansi.....	big	5	j	æ	n	i
+17	Malyj Jugan Khanty....	big	5	e	n	ɬ
+17	Middle Lozva Mansi....	big	5	j	æ	n	i
+17	Nizjam Khanty.........	big	5	uː	n	ə
+17	North Mansi...........	big	5	j	æ	n	ɨ	ɣ
+17	Pelymka Mansi.........	big	5	j	æ	n	i
+17	Sherkaly Khanty.......	big	5	uː	n	ə
+17	Tavda Mansi...........	big	5	j	æ	n	u
+17	Tremjugan Khanty......	big	5	e	n	ɬ
+17	Upper Demjanka Khanty.	big	5	eː	n	ə
+18	Likrisovskoje Khanty..	big	5	e	ɭ	ə
+18	Vakh Khanty...........	big	5	e	ɭː	ə
+18	Vartovskoje Khanty....	big	5	e	ɭ	ə
+18	Vasjugan Khanty.......	big	5	e	ɭː	ə
+18	Verkhne-Kalymsk Khanty	big	5	e	ɭ	ə
+
+19	Kazym Khanty..........	bird	6	t	o	χ	ɬ	ə	ŋ	w	ɔː	j
+19	Tremjugan Khanty......	bird	6	t	o	ɣ	ɬ	ə	ŋ	w	ɔː	j	ə	ɣ
+19	Upper Demjanka Khanty.	bird	6	t	o	χ	t	ə	ŋ	w	oː	j	ə
+20	Konda Mansi...........	bird	6	w	u	j
+20	Pelymka Mansi.........	bird	6	w	u	j
+20	Sherkaly Khanty.......	bird	6	w	ɔː	j
+20	Vakh Khanty...........	bird	6	w	aː	j	ə	ɣ
+20	Vasjugan Khanty.......	bird	6	w	aː	j	ə	ɣ
+21	Lower Lozva Mansi.....	bird	6	u	j
+22	Middle Lozva Mansi....	bird	6	t	ɔu	l	ə	ŋ	u	j
+22	North Mansi...........	bird	6	t	ɔ	w	l	ə	ŋ	u	j
+23	Tavda Mansi...........	bird	6	s	o	s	q	o	l
+
+24	Jugan Khanty..........	bite (V)	7	p	o	r
+24	Kazym Khanty..........	bite (V)	7	p	o	r
+24	Konda Khanty..........	bite (V)	7	p	a	r
+24	Konda Mansi...........	bite (V)	7	p	o	r	i
+24	Likrisovskoje Khanty..	bite (V)	7	p	o	r
+24	Lower Lozva Mansi.....	bite (V)	7	p	u	r	i
+24	Malyj Jugan Khanty....	bite (V)	7	p	o	r
+24	Middle Lozva Mansi....	bite (V)	7	p	u	r	i
+24	Nizjam Khanty.........	bite (V)	7	p	o	r
+24	North Mansi...........	bite (V)	7	p	u	r	i
+24	Obdorsk Khanty........	bite (V)	7	p	a	r
+24	Pelymka Mansi.........	bite (V)	7	p	u	r	i
+24	Sherkaly Khanty.......	bite (V)	7	p	o	r
+24	Synja Khanty..........	bite (V)	7	p	o	r
+24	Tavda Mansi...........	bite (V)	7	p	u	r
+24	Tremjugan Khanty......	bite (V)	7	p	o	r
+24	Upper Demjanka Khanty.	bite (V)	7	p	a	r
+24	Vakh Khanty...........	bite (V)	7	p	o	r
+24	Vasjugan Khanty.......	bite (V)	7	p	o	r
+24	Verkhne-Kalymsk Khanty	bite (V)	7	p	o	r
+
+25	Jugan Khanty..........	black	8	p	e	ɣ	t	ə
+25	Kazym Khanty..........	black	8	p	i	t	iː
+25	Konda Khanty..........	black	8	p	e	ɣ	t	ə
+25	Likrisovskoje Khanty..	black	8	p	e	ɣ	t	ə
+25	Malyj Jugan Khanty....	black	8	p	e	ɣ	t	ə
+25	Nizjam Khanty.........	black	8	p	i	ɣ	t	ə
+25	Obdorsk Khanty........	black	8	p	uː	t	iː
+25	Sherkaly Khanty.......	black	8	p	i	ɣ	t	ə
+25	Synja Khanty..........	black	8	p	i	t	iː
+25	Tremjugan Khanty......	black	8	p	e	ɣ	t	ə
+25	Upper Demjanka Khanty.	black	8	p	e	ɣ	t	ə
+25	Vakh Khanty...........	black	8	p	e	ɣ	t	ə
+25	Vasjugan Khanty.......	black	8	p	e	ɣ	t	ə
+25	Verkhne-Kalymsk Khanty	black	8	p	e	ɣ	t	ə
+26	Konda Mansi...........	black	8	s	eː	m	ə	l
+26	Lower Lozva Mansi.....	black	8	ʃ	eː	m	ə	l
+26	Middle Lozva Mansi....	black	8	ʃ	eː	m	ə	l
+26	North Mansi...........	black	8	s	eː	m	ə	l
+26	Pelymka Mansi.........	black	8	ʃ	eː	m	ə	l
+27	Tavda Mansi...........	black	8	p	æ	ŋ
+
+28	Jugan Khanty..........	blood	9	w	e	r
+28	Konda Khanty..........	blood	9	w	e	r
+28	Konda Mansi...........	blood	9	w	ɨ	r
+28	Lower Lozva Mansi.....	blood	9	œː	r
+28	Middle Lozva Mansi....	blood	9	w	yi	r
+28	Obdorsk Khanty........	blood	9	w	uː	r
+28	Pelymka Mansi.........	blood	9	w	yɨ	r
+28	Synja Khanty..........	blood	9	w	u	r
+28	Tavda Mansi...........	blood	9	uː	r
+28	Tremjugan Khanty......	blood	9	w	e	r
+28	Upper Demjanka Khanty.	blood	9	w	e	r
+28	Vakh Khanty...........	blood	9	w	e	r
+28	Vasjugan Khanty.......	blood	9	w	e	r
+29	Kazym Khanty..........	blood	9	k	a	ɬ	iː
+29	Nizjam Khanty.........	blood	9	k	a	t	ə
+29	North Mansi...........	blood	9	k	eː	l	p
+29	Sherkaly Khanty.......	blood	9	k	a	t	ə
+
+30	Jugan Khanty..........	bone	10	ɬ	o	w
+30	Kazym Khanty..........	bone	10	ɬ	u	w
+30	Konda Khanty..........	bone	10	t	o	w
+30	Likrisovskoje Khanty..	bone	10	θ	o	ɣ
+30	Malyj Jugan Khanty....	bone	10	ɬ	o	ɣʷ
+30	Nizjam Khanty.........	bone	10	t	u	w
+30	Obdorsk Khanty........	bone	10	l	a	w
+30	Sherkaly Khanty.......	bone	10	t	u	w
+30	Synja Khanty..........	bone	10	l	o	w
+30	Tremjugan Khanty......	bone	10	ɬ	o	ɣʷ
+30	Upper Demjanka Khanty.	bone	10	t	e	w
+30	Vakh Khanty...........	bone	10	l	o	ɣ
+30	Vartovskoje Khanty....	bone	10	ɬ	o	ɣ
+30	Vasjugan Khanty.......	bone	10	l	o	ɣ
+30	Verkhne-Kalymsk Khanty	bone	10	l	o	ɣ
+31	Konda Mansi...........	bone	10	l	o
+31	Middle Lozva Mansi....	bone	10	l	u
+31	North Mansi...........	bone	10	l	u
+31	Pelymka Mansi.........	bone	10	l	u
+32	Lower Lozva Mansi.....	bone	10	l	u	ʃ	m
+32	Tavda Mansi...........	bone	10	l	o	ʃ	ə	m
+
+33	Jugan Khanty..........	breast	11	m	æ	w	ə	ɬ
+33	Kazym Khanty..........	breast	11	m	eː	w	ə	ɬ
+33	Konda Khanty..........	breast	11	m	eː	ɣ	ə	t
+33	Konda Mansi...........	breast	11	m	ɔu	l
+33	Likrisovskoje Khanty..	breast	11	m	æ	ɣʷ	ə	θ
+33	Lower Lozva Mansi.....	breast	11	m	aɨ	l
+33	Malyj Jugan Khanty....	breast	11	m	æ	ɣʷ	ə	ɬ
+33	Middle Lozva Mansi....	breast	11	m	aɨ	l
+33	Nizjam Khanty.........	breast	11	m	eː	w	ə	t
+33	North Mansi...........	breast	11	m	a	ɣ	ɨ	l
+33	Obdorsk Khanty........	breast	11	m	eː	w	ə	l
+33	Pelymka Mansi.........	breast	11	m	a	ɣ	ɨ	l
+33	Sherkaly Khanty.......	breast	11	m	eː	ɣ	ə	t
+33	Synja Khanty..........	breast	11	m	eː	w	ə	l
+33	Tavda Mansi...........	breast	11	m	əu	l
+33	Tremjugan Khanty......	breast	11	m	æ	ɣʷ	ə	ɬ
+33	Upper Demjanka Khanty.	breast	11	m	eː	ɣ	ə	t
+33	Vakh Khanty...........	breast	11	m	œː	ɣ	ə	l
+33	Vartovskoje Khanty....	breast	11	m	œ	ɣ	ə	ɬ
+33	Vasjugan Khanty.......	breast	11	m	œː	ɣ	ə	l
+33	Verkhne-Kalymsk Khanty	breast	11	m	œː	ɣ	ə	l
+
+34	Jugan Khanty..........	burn (V)	12	ɬ	æː	p	ə	t
+34	Kazym Khanty..........	burn (V)	12	ɬ	aː	p	ə	t
+34	Konda Khanty..........	burn (V)	12	t	æː	p	ə	t
+34	Synja Khanty..........	burn (V)	12	l	aː	p	ə	t
+34	Upper Demjanka Khanty.	burn (V)	12	t	æː	p	ə	t
+35	Konda Mansi...........	burn (V)	12	t	ə	χ	t	i
+35	Lower Lozva Mansi.....	burn (V)	12	t	i	χ	t	i
+35	Middle Lozva Mansi....	burn (V)	12	t	i	χ	t	i
+35	North Mansi...........	burn (V)	12	t	i	tː	i
+35	Pelymka Mansi.........	burn (V)	12	t	i	χ	t	i
+35	Tavda Mansi...........	burn (V)	12	t	æi	t	æ	l
+
+36	Jugan Khanty..........	claw	13	k	œ	n	ʧ
+36	Kazym Khanty..........	claw	13	k	u	ʃ
+36	Konda Khanty..........	claw	13	k	o	n	ʧ
+36	Konda Mansi...........	claw	13	kʷ	æ	n	s
+36	Likrisovskoje Khanty..	claw	13	k	œ	ɳ	ʧ
+36	Lower Lozva Mansi.....	claw	13	kʷ	æ	n	ʃ
+36	Malyj Jugan Khanty....	claw	13	k	œ	ɳ	ʧ
+36	Middle Lozva Mansi....	claw	13	kʷ	æ	n	ʃ
+36	Nizjam Khanty.........	claw	13	k	u	ʃ
+36	North Mansi...........	claw	13	kʷ	o	n	s
+36	Obdorsk Khanty........	claw	13	k	uː	s
+36	Pelymka Mansi.........	claw	13	kʷ	æ	n	ʃ
+36	Sherkaly Khanty.......	claw	13	k	u	ʃ
+36	Synja Khanty..........	claw	13	k	u	ʃ
+36	Tavda Mansi...........	claw	13	k	u	n	ʃ
+36	Tremjugan Khanty......	claw	13	k	œ	ɳ	ʧ
+36	Upper Demjanka Khanty.	claw	13	k	o	n	ʧ
+36	Vakh Khanty...........	claw	13	k	œ	ɳ	ʧ
+36	Vartovskoje Khanty....	claw	13	k	œ	ɳ	ʧ
+36	Vasjugan Khanty.......	claw	13	k	œ	ɳ	ʧ
+36	Verkhne-Kalymsk Khanty	claw	13	k	œ	ɳ	ʧ
+
+37	Konda Mansi...........	cloud	14	t	o	l
+37	Lower Lozva Mansi.....	cloud	14	t	u	l
+37	Middle Lozva Mansi....	cloud	14	t	u	l
+37	North Mansi...........	cloud	14	t	u	l
+37	Pelymka Mansi.........	cloud	14	t	u	l
+37	Tavda Mansi...........	cloud	14	t	u	l
+38	Jugan Khanty..........	cloud	14	p	e	ɬ	ə	ŋ
+38	Kazym Khanty..........	cloud	14	p	a	ɬ	ə	ŋ
+38	Likrisovskoje Khanty..	cloud	14	p	e	θ	ə	ŋ
+38	Malyj Jugan Khanty....	cloud	14	p	e	ɬ	ə	ŋ
+38	Nizjam Khanty.........	cloud	14	p	a	t	ə	ŋ
+38	Obdorsk Khanty........	cloud	14	p	æ	l	ə	ŋ
+38	Sherkaly Khanty.......	cloud	14	p	a	t	ə	ŋ
+38	Synja Khanty..........	cloud	14	p	a	l	ə	ŋ
+38	Tremjugan Khanty......	cloud	14	p	e	ɬ	ə	ŋ
+38	Upper Demjanka Khanty.	cloud	14	p	e	t	ə	ŋ
+38	Vakh Khanty...........	cloud	14	p	e	l	ə	ŋ
+38	Vartovskoje Khanty....	cloud	14	p	e	ɬ	ə	ŋ
+38	Vasjugan Khanty.......	cloud	14	p	e	l	ə	ŋ
+38	Verkhne-Kalymsk Khanty	cloud	14	p	e	l	ə	ŋ
+
+39	Jugan Khanty..........	cold	15	j	æ	ɣ	ɬ	iː
+39	Tremjugan Khanty......	cold	15	j	æ	ɣ	ɬ	iː
+40	Kazym Khanty..........	cold	15	i	s	j	k	iː
+40	Nizjam Khanty.........	cold	15	i	s	j	k	ə
+40	Obdorsk Khanty........	cold	15	i	s	j	k	iː
+40	Sherkaly Khanty.......	cold	15	i	s	j	k	ə
+40	Synja Khanty..........	cold	15	i	s	j	k	iː
+41	Konda Khanty..........	cold	15	e	t	j	ə	k
+41	Upper Demjanka Khanty.	cold	15	e	t	j	ə	k
+41	Vakh Khanty...........	cold	15	e	t	j	ə	ɣ
+41	Vasjugan Khanty.......	cold	15	e	t	j	ə	ɣ
+41	Verkhne-Kalymsk Khanty	cold	15	e	t	j	ə	ɣ
+42	Konda Mansi...........	cold	15	a	sʲ	ə	r	ə	m
+42	Lower Lozva Mansi.....	cold	15	æ	sʲ	e	r	ə	m
+42	Middle Lozva Mansi....	cold	15	æ	sʲ	e	r	ə	m
+42	North Mansi...........	cold	15	a	sʲ	e	r	ə	m
+42	Pelymka Mansi.........	cold	15	æ	sʲ	ə	r	ə	m
+42	Tavda Mansi...........	cold	15	i	ʧ	i	r	ə	m
+43	Malyj Jugan Khanty....	cold	15	ɬ	iː	ɬ
+
+44	Jugan Khanty..........	come (V)	16	j	œ
+44	Kazym Khanty..........	come (V)	16	j	i
+44	Konda Khanty..........	come (V)	16	j	e
+44	Likrisovskoje Khanty..	come (V)	16	j	œ
+44	Malyj Jugan Khanty....	come (V)	16	j	œ
+44	Obdorsk Khanty........	come (V)	16	j	iː
+44	Sherkaly Khanty.......	come (V)	16	j	i
+44	Synja Khanty..........	come (V)	16	j	i
+44	Tremjugan Khanty......	come (V)	16	j	œ
+44	Upper Demjanka Khanty.	come (V)	16	j	e
+44	Vakh Khanty...........	come (V)	16	j	œ
+45	Konda Mansi...........	come (V)	16	j	i	w
+45	Middle Lozva Mansi....	come (V)	16	j	i	w
+45	North Mansi...........	come (V)	16	j	i	w
+45	Pelymka Mansi.........	come (V)	16	j	i	w
+45	Tavda Mansi...........	come (V)	16	j	æː	n	t
+46	Lower Lozva Mansi.....	come (V)	16	iː	w
+47	Vasjugan Khanty.......	come (V)	16	j	œ
+
+48	Jugan Khanty..........	die (V)	17	s	uː	r	aː	ɬ
+48	Likrisovskoje Khanty..	die (V)	17	s	uː	r
+48	Malyj Jugan Khanty....	die (V)	17	s	uː	r	æː	ɬ
+48	Tremjugan Khanty......	die (V)	17	s	uː	r	æː	ɬ
+48	Upper Demjanka Khanty.	die (V)	17	s	uː	r	aː	t
+48	Vakh Khanty...........	die (V)	17	s	uː	r
+48	Vartovskoje Khanty....	die (V)	17	s	uː	r
+48	Verkhne-Kalymsk Khanty	die (V)	17	s	uː	r
+49	Kazym Khanty..........	die (V)	17	p	ɔː	s	aː	ɬ	ə
+49	Obdorsk Khanty........	die (V)	17	p	aː	s	æː	l	ə
+49	Synja Khanty..........	die (V)	17	p	o	s	aː	l	ə
+50	Konda Khanty..........	die (V)	17	j	oː	χ	aː	t
+50	Nizjam Khanty.........	die (V)	17	t	o	χ	aː	t
+51	Konda Mansi...........	die (V)	17	q	oː	l	i
+51	Lower Lozva Mansi.....	die (V)	17	q	ɔː	l	i
+51	Middle Lozva Mansi....	die (V)	17	q	ɔ	l	i
+51	North Mansi...........	die (V)	17	χ	ɔː	l	i
+51	Pelymka Mansi.........	die (V)	17	q	oː	l	i
+51	Tavda Mansi...........	die (V)	17	q	ɔ	l	ɔ	n	t
+52	Vasjugan Khanty.......	die (V)	17	t	eː	w	ə	r	s	æː	ɣ	j	e	n	t	æː
+
+53	Konda Mansi...........	dog	18	oɔ	m	p
+53	Lower Lozva Mansi.....	dog	18	ɔː	m	p
+53	Middle Lozva Mansi....	dog	18	oɔ	m	p
+53	North Mansi...........	dog	18	aː	m	p
+53	Pelymka Mansi.........	dog	18	oɔ	m	p
+53	Tavda Mansi...........	dog	18	æː	m	p
+54	Jugan Khanty..........	dog	18	æː	m	p
+54	Kazym Khanty..........	dog	18	aː	m	p
+54	Konda Khanty..........	dog	18	æː	m	p
+54	Likrisovskoje Khanty..	dog	18	æː	m	p
+54	Malyj Jugan Khanty....	dog	18	æː	m	p
+54	Nizjam Khanty.........	dog	18	aː	m	p
+54	Obdorsk Khanty........	dog	18	æː	m	p
+54	Synja Khanty..........	dog	18	aː	p
+54	Tremjugan Khanty......	dog	18	æː	m	p
+54	Upper Demjanka Khanty.	dog	18	æː	m	p
+54	Vakh Khanty...........	dog	18	æː	m	p
+54	Vasjugan Khanty.......	dog	18	æː	m	p
+
+55	Kazym Khanty..........	drink (V)	19	j	aː	ɲ	s	j
+55	Konda Khanty..........	drink (V)	19	j	æː	ɲ	t	j
+55	Nizjam Khanty.........	drink (V)	19	j	aː	ɲ	s	j
+55	Obdorsk Khanty........	drink (V)	19	j	eː	ɲ	s	j
+55	Sherkaly Khanty.......	drink (V)	19	j	aː	ɲ	s	j
+55	Synja Khanty..........	drink (V)	19	j	i	ɲ	s	j
+55	Tremjugan Khanty......	drink (V)	19	j	eː	ɲ	t	j
+55	Upper Demjanka Khanty.	drink (V)	19	j	æː	ɲ	t	j
+56	Konda Mansi...........	drink (V)	19	æ	j	i
+56	Lower Lozva Mansi.....	drink (V)	19	æ	j	i
+56	Middle Lozva Mansi....	drink (V)	19	æ	j	i
+56	North Mansi...........	drink (V)	19	a	j	i
+56	Pelymka Mansi.........	drink (V)	19	æ	j	i
+56	Tavda Mansi...........	drink (V)	19	æ	j	æ	n	t
+57	Likrisovskoje Khanty..	drink (V)	19	θ	iː
+57	Malyj Jugan Khanty....	drink (V)	19	ɬ	iː
+57	Vakh Khanty...........	drink (V)	19	l	iː
+57	Vartovskoje Khanty....	drink (V)	19	ɬ	iː
+57	Verkhne-Kalymsk Khanty	drink (V)	19	j	iː
+58	Vasjugan Khanty.......	drink (V)	19	iː
+
+59	Jugan Khanty..........	dry	20	s	ɔː	r	ə	m
+59	Kazym Khanty..........	dry	20	s	ɔː	r	ə	m
+59	Konda Khanty..........	dry	20	s	oː	r	ə	m
+59	Konda Mansi...........	dry	20	t	oː	s	ə	m
+59	Lower Lozva Mansi.....	dry	20	t	oː	ʃ	ə	m
+59	Middle Lozva Mansi....	dry	20	t	oː	ʃ	ə	m
+59	Nizjam Khanty.........	dry	20	s	ɔː	r	ə	m
+59	North Mansi...........	dry	20	t	ɔː	s	ə	m
+59	Obdorsk Khanty........	dry	20	s	aː	r	ə	m
+59	Pelymka Mansi.........	dry	20	t	oː	ʃ	ə	m
+59	Sherkaly Khanty.......	dry	20	s	ɔː	r	ə	m
+59	Synja Khanty..........	dry	20	s	ɔː	r	ə	m
+59	Tavda Mansi...........	dry	20	t	ɔ	ʃ	ɔ	m
+59	Tremjugan Khanty......	dry	20	s	ɔː	r	ə	m
+59	Upper Demjanka Khanty.	dry	20	s	oː	r	ə	m
+60	Vakh Khanty...........	dry	20	p	æː	n	t	ə	m
+60	Vasjugan Khanty.......	dry	20	p	æː	n	t	ə	m
+
+61	Jugan Khanty..........	ear	21	p	e	ɬ
+61	Kazym Khanty..........	ear	21	p	a	ɬ
+61	Konda Khanty..........	ear	21	p	e	t
+61	Konda Mansi...........	ear	21	p	æ	ʎ
+61	Likrisovskoje Khanty..	ear	21	p	e	θ
+61	Lower Lozva Mansi.....	ear	21	p	æ	ʎ
+61	Malyj Jugan Khanty....	ear	21	p	e	ɬ
+61	Middle Lozva Mansi....	ear	21	p	æ	ʎ
+61	Nizjam Khanty.........	ear	21	p	a	t
+61	North Mansi...........	ear	21	p	a	ʎ
+61	Obdorsk Khanty........	ear	21	p	æ	l
+61	Pelymka Mansi.........	ear	21	p	æ	ʎ
+61	Sherkaly Khanty.......	ear	21	p	a	t
+61	Tavda Mansi...........	ear	21	p	i	ʎ
+61	Tremjugan Khanty......	ear	21	p	e	ɬ
+61	Upper Demjanka Khanty.	ear	21	p	e	t
+61	Vakh Khanty...........	ear	21	p	e	l
+61	Vartovskoje Khanty....	ear	21	p	e	ɬ
+61	Vasjugan Khanty.......	ear	21	p	e	l
+61	Verkhne-Kalymsk Khanty	ear	21	p	e	l
+
+62	Jugan Khanty..........	earth	22	m	e	ɣ
+62	Kazym Khanty..........	earth	22	m	u	w
+62	Konda Khanty..........	earth	22	m	e	ɣ
+62	Konda Mansi...........	earth	22	m	əː
+62	Lower Lozva Mansi.....	earth	22	m	əː
+62	Middle Lozva Mansi....	earth	22	m	əː
+62	Nizjam Khanty.........	earth	22	m	i	ɣ
+62	North Mansi...........	earth	22	m	aː
+62	Obdorsk Khanty........	earth	22	m	uː	w
+62	Pelymka Mansi.........	earth	22	m	əː
+62	Sherkaly Khanty.......	earth	22	m	i	ɣ
+62	Synja Khanty..........	earth	22	m	u	w
+62	Tavda Mansi...........	earth	22	m	aː
+62	Tremjugan Khanty......	earth	22	m	e	ɣ
+62	Upper Demjanka Khanty.	earth	22	m	e	ɣ
+62	Vakh Khanty...........	earth	22	m	e	ɣ
+62	Vasjugan Khanty.......	earth	22	m	e	ɣ
+62	Verkhne-Kalymsk Khanty	earth	22	m	e	ɣ
+
+63	Jugan Khanty..........	eat (V)	23	ɬ	iː
+63	Kazym Khanty..........	eat (V)	23	ɬ	ɛː
+63	Konda Khanty..........	eat (V)	23	t	eː
+63	Konda Mansi...........	eat (V)	23	t	əɨ	ɣ
+63	Likrisovskoje Khanty..	eat (V)	23	θ	iː
+63	Lower Lozva Mansi.....	eat (V)	23	t	i
+63	Malyj Jugan Khanty....	eat (V)	23	ɬ	iː
+63	Middle Lozva Mansi....	eat (V)	23	t	i	j
+63	Nizjam Khanty.........	eat (V)	23	t	eː
+63	North Mansi...........	eat (V)	23	t	eːɨ	ɣ
+63	Obdorsk Khanty........	eat (V)	23	l	iː
+63	Pelymka Mansi.........	eat (V)	23	t	eːi
+63	Sherkaly Khanty.......	eat (V)	23	t	eː
+63	Synja Khanty..........	eat (V)	23	l	eː
+63	Tremjugan Khanty......	eat (V)	23	ɬ	iː
+63	Upper Demjanka Khanty.	eat (V)	23	t	eː
+63	Vakh Khanty...........	eat (V)	23	l	iː
+63	Vartovskoje Khanty....	eat (V)	23	ɬ	iː
+63	Verkhne-Kalymsk Khanty	eat (V)	23	j	iː
+64	Tavda Mansi...........	eat (V)	23	t	æ	j	æ	n	t
+65	Vasjugan Khanty.......	eat (V)	23	iː
+
+66	Jugan Khanty..........	egg	24	m	oː	k
+66	Likrisovskoje Khanty..	egg	24	m	aː	kʷ
+66	Malyj Jugan Khanty....	egg	24	m	oː	k
+66	Tremjugan Khanty......	egg	24	m	oː	k
+66	Vakh Khanty...........	egg	24	m	ɔː	k
+66	Vartovskoje Khanty....	egg	24	m	oː	k
+66	Verkhne-Kalymsk Khanty	egg	24	m	oː	k
+67	Kazym Khanty..........	egg	24	p	o	ʃ	ə	χ
+67	Nizjam Khanty.........	egg	24	p	o	ʃ	ə	χ
+67	Obdorsk Khanty........	egg	24	p	a	s	ə	χ
+67	Sherkaly Khanty.......	egg	24	p	o	ʃ	ə	χ
+68	Konda Khanty..........	egg	24	k	æ	r	ə	m	oː	χ
+68	Upper Demjanka Khanty.	egg	24	k	æː	r	ə	m	oː	χ
+69	Konda Mansi...........	egg	24	m	o	ŋ
+69	North Mansi...........	egg	24	m	u	ŋ	i
+70	Lower Lozva Mansi.....	egg	24	ɲ	a	m	r	ə	χ
+70	Middle Lozva Mansi....	egg	24	ɲ	æ	m	r	ə	χ
+70	Pelymka Mansi.........	egg	24	ɲ	ɔ	m	ə	r	t	k	ə
+70	Tavda Mansi...........	egg	24	ɲ	a	m	ə	r	t	k
+
+71	Jugan Khanty..........	eye	25	s	æ	m
+71	Kazym Khanty..........	eye	25	s	ɛː	m
+71	Konda Khanty..........	eye	25	s	eː	m
+71	Konda Mansi...........	eye	25	s	æ	m
+71	Lower Lozva Mansi.....	eye	25	ʃ	æ	m
+71	Middle Lozva Mansi....	eye	25	ʃ	æ	m
+71	Nizjam Khanty.........	eye	25	s	eː	m
+71	North Mansi...........	eye	25	s	a	m
+71	Obdorsk Khanty........	eye	25	s	eː	m
+71	Pelymka Mansi.........	eye	25	ʃ	æ	m
+71	Sherkaly Khanty.......	eye	25	s	eː	m
+71	Synja Khanty..........	eye	25	s	eː	m
+71	Tavda Mansi...........	eye	25	ʃ	ə	m
+71	Tremjugan Khanty......	eye	25	s	æ	m
+71	Upper Demjanka Khanty.	eye	25	s	eː	m
+71	Vakh Khanty...........	eye	25	s	eː	m
+71	Vartovskoje Khanty....	eye	25	s	æ	m
+71	Vasjugan Khanty.......	eye	25	s	eː	m
+71	Verkhne-Kalymsk Khanty	eye	25	s	eː	m
+
+72	Jugan Khanty..........	fat	26	w	o	j
+72	Kazym Khanty..........	fat	26	w	o	j
+72	Konda Khanty..........	fat	26	yː	j
+72	Konda Mansi...........	fat	26	w	uo	j
+72	Likrisovskoje Khanty..	fat	26	w	oː	j
+72	Malyj Jugan Khanty....	fat	26	w	o	j
+72	Middle Lozva Mansi....	fat	26	w	uo	j
+72	North Mansi...........	fat	26	w	oː	j
+72	Obdorsk Khanty........	fat	26	w	a	j
+72	Pelymka Mansi.........	fat	26	w	uo	j
+72	Synja Khanty..........	fat	26	w	o	j
+72	Tavda Mansi...........	fat	26	w	ɔː	j
+72	Tremjugan Khanty......	fat	26	w	o	j
+72	Upper Demjanka Khanty.	fat	26	uː	j
+72	Vakh Khanty...........	fat	26	w	oː	j
+72	Vartovskoje Khanty....	fat	26	w	oː	j
+72	Vasjugan Khanty.......	fat	26	w	oː	j
+72	Verkhne-Kalymsk Khanty	fat	26	w	oː	j
+73	Nizjam Khanty.........	fat	26	s	a	χ	s	ə
+73	Sherkaly Khanty.......	fat	26	s	a	χ	s	ə
+
+74	Kazym Khanty..........	feather	27	p	u	n
+74	Konda Khanty..........	feather	27	p	yː	n
+74	Konda Mansi...........	feather	27	p	o	n
+74	Likrisovskoje Khanty..	feather	27	p	uː	n
+74	Lower Lozva Mansi.....	feather	27	p	u	n
+74	Malyj Jugan Khanty....	feather	27	p	uː	n
+74	Middle Lozva Mansi....	feather	27	p	u	n
+74	Nizjam Khanty.........	feather	27	p	u	n
+74	North Mansi...........	feather	27	p	u	n
+74	Obdorsk Khanty........	feather	27	p	uː	n
+74	Pelymka Mansi.........	feather	27	p	u	n
+74	Sherkaly Khanty.......	feather	27	p	u	n
+74	Synja Khanty..........	feather	27	p	u	n
+74	Tavda Mansi...........	feather	27	p	o	n
+74	Tremjugan Khanty......	feather	27	p	uː	n
+74	Upper Demjanka Khanty.	feather	27	p	yː	n
+74	Vakh Khanty...........	feather	27	p	uː	n
+74	Vasjugan Khanty.......	feather	27	p	uː	n
+74	Verkhne-Kalymsk Khanty	feather	27	p	uː	n
+
+75	Jugan Khanty..........	fire	28	t	e	w	ə	t
+75	Kazym Khanty..........	fire	28	t	u	t
+75	Konda Khanty..........	fire	28	t	yː	t
+75	Konda Mansi...........	fire	28	t	ɔu	t
+75	Likrisovskoje Khanty..	fire	28	t	e	ɣʷ	ə	t
+75	Lower Lozva Mansi.....	fire	28	t	ɔː	t
+75	Malyj Jugan Khanty....	fire	28	t	e	ɣʷ	ə	t
+75	Middle Lozva Mansi....	fire	28	t	oɔ	t
+75	Nizjam Khanty.........	fire	28	t	u	t
+75	Obdorsk Khanty........	fire	28	t	uː	t
+75	Sherkaly Khanty.......	fire	28	t	u	t
+75	Synja Khanty..........	fire	28	t	u	t
+75	Tavda Mansi...........	fire	28	t	æu	t
+75	Tremjugan Khanty......	fire	28	t	e	ɣʷ	ə	t
+75	Upper Demjanka Khanty.	fire	28	t	yː	t
+75	Vakh Khanty...........	fire	28	t	œ	ɣ	ə	t
+75	Vartovskoje Khanty....	fire	28	t	œ	ɣ	ə	t
+75	Vasjugan Khanty.......	fire	28	t	œ	ɣ	ə	t
+75	Verkhne-Kalymsk Khanty	fire	28	t	œ	ɣ	ə	t
+76	North Mansi...........	fire	28	u	ʎ	æ
+77	Pelymka Mansi.........	fire	28	oɔ	r	ə	sʲ
+
+78	Jugan Khanty..........	fish	29	k	uː	ɬ
+78	Kazym Khanty..........	fish	29	χ	u	ɬ
+78	Konda Khanty..........	fish	29	χ	uː	t	j
+78	Konda Mansi...........	fish	29	q	u	l
+78	Likrisovskoje Khanty..	fish	29	k	uː	θ
+78	Lower Lozva Mansi.....	fish	29	q	u	l
+78	Malyj Jugan Khanty....	fish	29	k	uː	ɬ
+78	Middle Lozva Mansi....	fish	29	q	u	l
+78	Nizjam Khanty.........	fish	29	χ	u	t
+78	North Mansi...........	fish	29	χ	u	l
+78	Obdorsk Khanty........	fish	29	χ	uː	l
+78	Pelymka Mansi.........	fish	29	q	u	l
+78	Sherkaly Khanty.......	fish	29	χ	u	t
+78	Synja Khanty..........	fish	29	χ	u	l
+78	Tavda Mansi...........	fish	29	q	o	l
+78	Tremjugan Khanty......	fish	29	k	uː	ɬ
+78	Upper Demjanka Khanty.	fish	29	χ	uː	t	j
+78	Vakh Khanty...........	fish	29	k	uː	l
+78	Vartovskoje Khanty....	fish	29	k	uː	ɬ
+78	Vasjugan Khanty.......	fish	29	k	uː	l
+78	Verkhne-Kalymsk Khanty	fish	29	k	uː	l
+
+79	Jugan Khanty..........	fly (V)	30	ɬ	e	ɣ	ə	ɬ
+79	Konda Khanty..........	fly (V)	30	t	e	ɣ	ə	t
+79	Tremjugan Khanty......	fly (V)	30	ɬ	e	ɣ	ə	ɬ
+79	Upper Demjanka Khanty.	fly (V)	30	t	e	ɣ	ə	t
+79	Vakh Khanty...........	fly (V)	30	l	e	ɣ	ə	l
+80	Kazym Khanty..........	fly (V)	30	j	a	ŋ
+80	Sherkaly Khanty.......	fly (V)	30	j	a	ŋ	χ
+80	Synja Khanty..........	fly (V)	30	j	a	ŋ	χ
+81	Konda Mansi...........	fly (V)	30	t	əɨ	l	i
+81	Lower Lozva Mansi.....	fly (V)	30	t	iː	l	i
+81	Middle Lozva Mansi....	fly (V)	30	t	ɨː	l	i
+81	North Mansi...........	fly (V)	30	t	ɨː	l	i
+81	Pelymka Mansi.........	fly (V)	30	t	əɨ	l	i
+81	Tavda Mansi...........	fly (V)	30	t	æu	l	æ	n	t
+
+82	Jugan Khanty..........	foot	31	k	œ	r
+82	Kazym Khanty..........	foot	31	k	u	r
+82	Konda Khanty..........	foot	31	k	o	r
+82	Nizjam Khanty.........	foot	31	k	u	r
+82	Obdorsk Khanty........	foot	31	k	uː	r
+82	Sherkaly Khanty.......	foot	31	k	u	r
+82	Synja Khanty..........	foot	31	k	u	r
+82	Tremjugan Khanty......	foot	31	k	œ	r
+82	Upper Demjanka Khanty.	foot	31	k	o	r
+82	Vakh Khanty...........	foot	31	k	œ	r
+82	Vasjugan Khanty.......	foot	31	k	œ	r
+82	Verkhne-Kalymsk Khanty	foot	31	k	œ	r
+83	Konda Mansi...........	foot	31	l	ə	l
+83	Lower Lozva Mansi.....	foot	31	l	ə	l
+83	Middle Lozva Mansi....	foot	31	l	ə	l
+83	North Mansi...........	foot	31	l	a	ɣ	ɨ	l
+83	Pelymka Mansi.........	foot	31	l	ə	l
+83	Tavda Mansi...........	foot	31	l	aə	l
+
+84	Jugan Khanty..........	full	32	t	æ	ɬ	ə	ɬ
+84	Kazym Khanty..........	full	32	t	ɛː	ɬ
+84	Konda Khanty..........	full	32	t	eː	t
+84	Konda Mansi...........	full	32	t	a	ɣ	ɨ	l
+84	Likrisovskoje Khanty..	full	32	t	æ	θ
+84	Lower Lozva Mansi.....	full	32	t	aɨ	l
+84	Malyj Jugan Khanty....	full	32	t	æ	ɬ
+84	Middle Lozva Mansi....	full	32	t	aɨ	l
+84	Nizjam Khanty.........	full	32	t	eː	t
+84	North Mansi...........	full	32	t	a	ɣ	ɨ	l
+84	Obdorsk Khanty........	full	32	t	eː	l
+84	Pelymka Mansi.........	full	32	t	æ	ɣ	ɨ	l
+84	Sherkaly Khanty.......	full	32	t	eː	t
+84	Synja Khanty..........	full	32	t	eː	l
+84	Tavda Mansi...........	full	32	t	æu	l
+84	Tremjugan Khanty......	full	32	t	æ	ɬ
+84	Upper Demjanka Khanty.	full	32	t	eː	t
+84	Vakh Khanty...........	full	32	t	eː	l	ɣ	æː	l
+84	Vasjugan Khanty.......	full	32	t	eː	l
+84	Verkhne-Kalymsk Khanty	full	32	t	eː	l
+
+85	Jugan Khanty..........	give (V)	33	m	e
+85	Kazym Khanty..........	give (V)	33	m	a
+85	Konda Khanty..........	give (V)	33	m	e
+85	Konda Mansi...........	give (V)	33	m	əɨ	ɣ
+85	Lower Lozva Mansi.....	give (V)	33	m	iː
+85	Middle Lozva Mansi....	give (V)	33	m	i	j
+85	Nizjam Khanty.........	give (V)	33	m	a
+85	North Mansi...........	give (V)	33	m	ɨː	ɣ
+85	Obdorsk Khanty........	give (V)	33	m	æ
+85	Sherkaly Khanty.......	give (V)	33	m	a
+85	Synja Khanty..........	give (V)	33	m	a
+85	Tremjugan Khanty......	give (V)	33	m	e
+85	Upper Demjanka Khanty.	give (V)	33	m	e
+85	Vakh Khanty...........	give (V)	33	m	e
+85	Vasjugan Khanty.......	give (V)	33	m	e
+86	Pelymka Mansi.........	give (V)	33	m	æ	j	i
+86	Tavda Mansi...........	give (V)	33	m	æ	j	æ	n	t
+
+87	Jugan Khanty..........	good	34	j	e	m
+87	Kazym Khanty..........	good	34	j	a	m
+87	Konda Khanty..........	good	34	j	e	m
+87	Likrisovskoje Khanty..	good	34	j	e	m
+87	Malyj Jugan Khanty....	good	34	j	e	m
+87	Nizjam Khanty.........	good	34	j	a	m
+87	Obdorsk Khanty........	good	34	j	iː	m
+87	Sherkaly Khanty.......	good	34	j	a	m
+87	Synja Khanty..........	good	34	j	a	m
+87	Tremjugan Khanty......	good	34	j	e	m
+87	Upper Demjanka Khanty.	good	34	j	e	m
+87	Vakh Khanty...........	good	34	j	e	m
+87	Vartovskoje Khanty....	good	34	j	e	m
+87	Vasjugan Khanty.......	good	34	j	e	m
+87	Verkhne-Kalymsk Khanty	good	34	j	e	m
+88	Konda Mansi...........	good	34	j	ɔ	m	ə	s
+88	Lower Lozva Mansi.....	good	34	j	æ	m	ə	s
+88	Middle Lozva Mansi....	good	34	j	æ	m	ə	s
+88	North Mansi...........	good	34	j	ɔ	m	ə	s
+88	Pelymka Mansi.........	good	34	j	ɔ	m	ə	s
+88	Tavda Mansi...........	good	34	j	u	m	ɔ	s
+
+89	Jugan Khanty..........	green	35	w	a	s	t	ə
+89	Kazym Khanty..........	green	35	w	o	s	t	iː
+89	Konda Khanty..........	green	35	w	a	s	t	ə
+89	Nizjam Khanty.........	green	35	w	o	s	t	ə
+89	Obdorsk Khanty........	green	35	w	a	s	t	iː
+89	Sherkaly Khanty.......	green	35	w	o	s	t	ə
+89	Synja Khanty..........	green	35	w	o	s	t	iː
+89	Tremjugan Khanty......	green	35	w	a	s	t	ə
+89	Upper Demjanka Khanty.	green	35	w	a	s	t	ə
+90	Konda Mansi...........	green	35	ɲ	oɔ	r	p	o	m
+90	Middle Lozva Mansi....	green	35	ɲ	oɔ	r	p	u	m
+90	North Mansi...........	green	35	ɲ	aː	r	p	u	m
+90	Pelymka Mansi.........	green	35	ɲ	ɔː	r	p	u	m
+91	Tavda Mansi...........	green	35	ɲ	æ	r	q	ɔ	r
+
+92	Jugan Khanty..........	hair	36	oː	p	ə	t
+92	Kazym Khanty..........	hair	36	ɵː	p	ə	t
+92	Konda Khanty..........	hair	36	uː	p	ə	t
+92	Konda Mansi...........	hair	36	əː	t
+92	Likrisovskoje Khanty..	hair	36	oː	p	ə	t
+92	Lower Lozva Mansi.....	hair	36	əː	t
+92	Malyj Jugan Khanty....	hair	36	oː	p	ə	t
+92	Middle Lozva Mansi....	hair	36	əː	t
+92	Nizjam Khanty.........	hair	36	uː	p	ə	t
+92	North Mansi...........	hair	36	aː	t
+92	Obdorsk Khanty........	hair	36	oː	p	ə	t
+92	Pelymka Mansi.........	hair	36	əː	t
+92	Sherkaly Khanty.......	hair	36	uː	p	ə	t
+92	Synja Khanty..........	hair	36	uː	p	ə	t
+92	Tavda Mansi...........	hair	36	æː	t
+92	Tremjugan Khanty......	hair	36	oː	p	ə	t
+92	Upper Demjanka Khanty.	hair	36	uː	p	ə	t
+92	Vakh Khanty...........	hair	36	aː	w	ə	t
+92	Vartovskoje Khanty....	hair	36	aː	w	ə	t
+92	Vasjugan Khanty.......	hair	36	aː	w	ə	t
+92	Verkhne-Kalymsk Khanty	hair	36	aː	w	ə	t
+
+93	Kazym Khanty..........	hand	37	j	ɔː	ʃ
+93	Nizjam Khanty.........	hand	37	j	ɔː	ʃ
+93	Obdorsk Khanty........	hand	37	j	aː	s
+93	Sherkaly Khanty.......	hand	37	j	ɔː	ʃ
+93	Synja Khanty..........	hand	37	j	ɔː	ʃ
+94	Jugan Khanty..........	hand	37	k	œ	t
+94	Konda Khanty..........	hand	37	k	eː	t
+94	Konda Mansi...........	hand	37	k	oæ	t
+94	Likrisovskoje Khanty..	hand	37	k	œ	t
+94	Lower Lozva Mansi.....	hand	37	k	ɔː	t
+94	Malyj Jugan Khanty....	hand	37	k	œ	t
+94	Middle Lozva Mansi....	hand	37	k	oɔ	t
+94	North Mansi...........	hand	37	k	aː	t
+94	Pelymka Mansi.........	hand	37	k	oɔ	t
+94	Tavda Mansi...........	hand	37	k	æː	t
+94	Tremjugan Khanty......	hand	37	k	œ	t
+94	Upper Demjanka Khanty.	hand	37	k	eː	t
+94	Vakh Khanty...........	hand	37	k	œː	t
+94	Vartovskoje Khanty....	hand	37	k	œ	t
+94	Vasjugan Khanty.......	hand	37	k	œː	t
+94	Verkhne-Kalymsk Khanty	hand	37	k	œː	t
+
+95	Jugan Khanty..........	head	38	oː	w
+95	Kazym Khanty..........	head	38	o	χ
+95	Konda Khanty..........	head	38	uː	χ
+95	Malyj Jugan Khanty....	head	38	oː	ɣʷ
+95	Nizjam Khanty.........	head	38	uː	χ
+95	Obdorsk Khanty........	head	38	o	χ
+95	Sherkaly Khanty.......	head	38	uː	χ
+95	Synja Khanty..........	head	38	o	χ
+95	Tremjugan Khanty......	head	38	oː	ɣʷ
+95	Upper Demjanka Khanty.	head	38	uː	χ
+95	Vakh Khanty...........	head	38	ɔː	ɣ
+95	Vartovskoje Khanty....	head	38	oː	ɣ
+95	Vasjugan Khanty.......	head	38	ɔː	ɣ
+95	Verkhne-Kalymsk Khanty	head	38	oː	ɣ
+96	Konda Mansi...........	head	38	p	æ	ŋ	k
+96	Lower Lozva Mansi.....	head	38	p	ə	ŋ	k
+96	Middle Lozva Mansi....	head	38	p	ə	ŋ	k
+96	North Mansi...........	head	38	p	u	ŋ	k
+96	Pelymka Mansi.........	head	38	p	ə	ŋ	k
+96	Tavda Mansi...........	head	38	p	ə	ŋ
+
+97	Jugan Khanty..........	hear	39	k	oː	ɬ
+97	Kazym Khanty..........	hear	39	χ	ɵː	ɬ
+97	Konda Khanty..........	hear	39	χ	uː	t
+97	Konda Mansi...........	hear	39	q	oː	l	i
+97	Likrisovskoje Khanty..	hear	39	k	oː	θ
+97	Lower Lozva Mansi.....	hear	39	q	oː	l	i
+97	Malyj Jugan Khanty....	hear	39	k	oː	ɬ
+97	Middle Lozva Mansi....	hear	39	qʷ	o	l	i
+97	Nizjam Khanty.........	hear	39	χ	uː	t
+97	North Mansi...........	hear	39	χ	ɔː	l	i
+97	Obdorsk Khanty........	hear	39	χ	oː	l
+97	Pelymka Mansi.........	hear	39	q	oː	l	i
+97	Sherkaly Khanty.......	hear	39	χ	uː	t
+97	Synja Khanty..........	hear	39	χ	uː	l
+97	Tremjugan Khanty......	hear	39	k	oː	ɬ
+97	Upper Demjanka Khanty.	hear	39	χ	uː	t
+97	Vakh Khanty...........	hear	39	k	ɔː	l
+97	Vartovskoje Khanty....	hear	39	k	oː	ɬ
+97	Vasjugan Khanty.......	hear	39	k	ɔː	l
+97	Verkhne-Kalymsk Khanty	hear	39	k	oː	l
+98	Tavda Mansi...........	hear	39	q	ɔ	l	ɔ	n	t
+
+99	Jugan Khanty..........	heart	40	s	e	m
+99	Kazym Khanty..........	heart	40	s	a	m
+99	Konda Khanty..........	heart	40	s	e	m
+99	Konda Mansi...........	heart	40	s	ə	m
+99	Likrisovskoje Khanty..	heart	40	s	e	m
+99	Lower Lozva Mansi.....	heart	40	ʃ	i	m
+99	Malyj Jugan Khanty....	heart	40	s	e	m
+99	Middle Lozva Mansi....	heart	40	ʃ	i	m
+99	Nizjam Khanty.........	heart	40	s	a	m
+99	North Mansi...........	heart	40	s	i	m
+99	Obdorsk Khanty........	heart	40	s	æ	m
+99	Pelymka Mansi.........	heart	40	ʃ	i	m
+99	Sherkaly Khanty.......	heart	40	s	a	m
+99	Synja Khanty..........	heart	40	s	a	m
+99	Tavda Mansi...........	heart	40	ʃ	ɔ	m
+99	Tremjugan Khanty......	heart	40	s	e	m
+99	Upper Demjanka Khanty.	heart	40	s	e	m
+99	Vakh Khanty...........	heart	40	s	e	m
+99	Vartovskoje Khanty....	heart	40	s	e	m
+99	Vasjugan Khanty.......	heart	40	s	e	m
+99	Verkhne-Kalymsk Khanty	heart	40	s	e	m
+
+100	Jugan Khanty..........	horn	41	ɔː	ŋ	ə	t
+100	Kazym Khanty..........	horn	41	ɔː	ŋ	ə	t
+100	Konda Khanty..........	horn	41	oː	ŋ	ə	t
+100	Konda Mansi...........	horn	41	əː	ɲ	tʲ
+100	Likrisovskoje Khanty..	horn	41	a	ŋ	ə	t
+100	Lower Lozva Mansi.....	horn	41	a	ɲ	t
+100	Malyj Jugan Khanty....	horn	41	ɔː	ŋ	ə	t
+100	Middle Lozva Mansi....	horn	41	ɔ	ɲ	t
+100	Nizjam Khanty.........	horn	41	ɔː	ŋ	ə	t
+100	North Mansi...........	horn	41	aː	ɲ	t
+100	Obdorsk Khanty........	horn	41	aː	ŋ	ə	t
+100	Pelymka Mansi.........	horn	41	ɔ	ɲ	t
+100	Sherkaly Khanty.......	horn	41	ɔː	ŋ	ə	t
+100	Synja Khanty..........	horn	41	ɔː	ŋ	ə	t
+100	Tavda Mansi...........	horn	41	æː	n	t
+100	Tremjugan Khanty......	horn	41	ɔː	ŋ	ə	t
+100	Upper Demjanka Khanty.	horn	41	oː	ŋ	ə	t
+100	Vakh Khanty...........	horn	41	a	ŋ	ə	t
+100	Vartovskoje Khanty....	horn	41	a	ŋ	ə	t
+100	Vasjugan Khanty.......	horn	41	a	ŋ	ə	t
+100	Verkhne-Kalymsk Khanty	horn	41	a	ŋ	ə	t
+
+101	Jugan Khanty..........	I	42	m	æː
+101	Kazym Khanty..........	I	42	m	aː
+101	Konda Khanty..........	I	42	m	æ	n
+101	Nizjam Khanty.........	I	42	m	aː
+101	Obdorsk Khanty........	I	42	m	æː
+101	Sherkaly Khanty.......	I	42	m	aː
+101	Synja Khanty..........	I	42	m	aː
+101	Tremjugan Khanty......	I	42	m	æː
+101	Upper Demjanka Khanty.	I	42	m	æː	n
+101	Vakh Khanty...........	I	42	m	æː
+101	Vasjugan Khanty.......	I	42	m	æː
+102	Konda Mansi...........	I	42	ɔ	m
+102	Lower Lozva Mansi.....	I	42	a	m
+102	Middle Lozva Mansi....	I	42	æ	m
+102	North Mansi...........	I	42	a	m
+102	Pelymka Mansi.........	I	42	ɔ	m
+102	Tavda Mansi...........	I	42	æ	m
+
+103	Jugan Khanty..........	kill (V)	43	w	æ	ɬ
+103	Kazym Khanty..........	kill (V)	43	w	eː	ɬ
+103	Konda Khanty..........	kill (V)	43	w	eː	t
+103	Likrisovskoje Khanty..	kill (V)	43	w	æ	θ
+103	Malyj Jugan Khanty....	kill (V)	43	w	æ	ɬ
+103	Nizjam Khanty.........	kill (V)	43	w	eː	t
+103	Obdorsk Khanty........	kill (V)	43	w	eː	l
+103	Sherkaly Khanty.......	kill (V)	43	w	eː	t
+103	Synja Khanty..........	kill (V)	43	w	eː	l
+103	Tremjugan Khanty......	kill (V)	43	w	æ	ɬ
+103	Upper Demjanka Khanty.	kill (V)	43	w	eː	t
+103	Vakh Khanty...........	kill (V)	43	w	eː	l
+103	Vasjugan Khanty.......	kill (V)	43	w	eː	l
+104	Konda Mansi...........	kill (V)	43	æ	l	i
+104	Lower Lozva Mansi.....	kill (V)	43	æ	l	i
+104	Middle Lozva Mansi....	kill (V)	43	æ	l	i
+104	North Mansi...........	kill (V)	43	a	l	i
+104	Pelymka Mansi.........	kill (V)	43	æ	l	i
+104	Tavda Mansi...........	kill (V)	43	æ	l	æ	n	t
+
+105	Jugan Khanty..........	knee	44	ʧ	æː	n	ʧ
+105	Kazym Khanty..........	knee	44	ʃ	aː	ʃ
+105	Konda Khanty..........	knee	44	ʧ	æː	n	ʧ
+105	Konda Mansi...........	knee	44	s	ɔ	n	ə	s
+105	Likrisovskoje Khanty..	knee	44	ʧ	æː	ɳ	ʧ
+105	Lower Lozva Mansi.....	knee	44	ʃ	aː	n	ʃ
+105	Malyj Jugan Khanty....	knee	44	ʧ	æː	n	ʧ
+105	Middle Lozva Mansi....	knee	44	ʃ	a	n	ʃ
+105	Nizjam Khanty.........	knee	44	ʃ	aː	ʃ
+105	North Mansi...........	knee	44	s	aː	n	s
+105	Obdorsk Khanty........	knee	44	s	æː	s
+105	Pelymka Mansi.........	knee	44	ʃ	a	n	ʃ
+105	Sherkaly Khanty.......	knee	44	ʃ	aː	ʃ
+105	Synja Khanty..........	knee	44	ʃ	aː	ʃ
+105	Tavda Mansi...........	knee	44	ʃ	ɔ	n	ʃ
+105	Tremjugan Khanty......	knee	44	ʧ	æː	ɳ	ʧ
+105	Upper Demjanka Khanty.	knee	44	ʧ	æː	n	ʧ
+105	Vakh Khanty...........	knee	44	ʧ	æː	ɳ	ʧ
+105	Vartovskoje Khanty....	knee	44	ʧ	æː	ɳ	ʧ
+105	Vasjugan Khanty.......	knee	44	ʧ	æː	ɳ	ʧ
+105	Verkhne-Kalymsk Khanty	knee	44	ʧ	æː	ɳ	ʧ
+
+106	Jugan Khanty..........	know (V)	45	uː
+106	Nizjam Khanty.........	know (V)	45	uː
+106	Sherkaly Khanty.......	know (V)	45	uː
+107	Kazym Khanty..........	know (V)	45	w	ɵː
+107	North Mansi...........	know (V)	45	w	aː	ɣ
+107	Tremjugan Khanty......	know (V)	45	w	uː
+107	Upper Demjanka Khanty.	know (V)	45	w	oː
+108	Konda Mansi...........	know (V)	45	q	a	ɲ	sʲ	i
+108	Lower Lozva Mansi.....	know (V)	45	q	a	n	ʃ	i
+108	Middle Lozva Mansi....	know (V)	45	q	a	ɲ	sʲ	i
+108	Pelymka Mansi.........	know (V)	45	q	a	ɲ	ʃ	i
+108	Tavda Mansi...........	know (V)	45	q	a	ɲ	ʃ	a	n	t
+109	Likrisovskoje Khanty..	know (V)	45	t	o	ŋ	ə	m	t	ə
+109	Malyj Jugan Khanty....	know (V)	45	t	o	ŋ	ə	m	t	ə
+109	Vakh Khanty...........	know (V)	45	t	o	ŋ	ə	m	t
+109	Vartovskoje Khanty....	know (V)	45	t	o	ŋ	ə	m	t
+109	Vasjugan Khanty.......	know (V)	45	t	o	ŋ	ə	m	t
+109	Verkhne-Kalymsk Khanty	know (V)	45	t	o	ŋ	ə	m	t
+110	Obdorsk Khanty........	know (V)	45	oː	s	j
+111	Synja Khanty..........	know (V)	45	uː	j	ə	t
+
+112	Jugan Khanty..........	leaf	46	ɭ	ɨː	p	ə	t
+112	Kazym Khanty..........	leaf	46	ɭ	i	p	ə	t
+112	Konda Khanty..........	leaf	46	l	iː	p	ə	t
+112	Likrisovskoje Khanty..	leaf	46	ɭ	ɨː	p	ə	t
+112	Malyj Jugan Khanty....	leaf	46	ɭ	ɨː	p	ə	t
+112	Nizjam Khanty.........	leaf	46	l	i	p	ə	t
+112	Obdorsk Khanty........	leaf	46	l	iː	p	ə	t
+112	Sherkaly Khanty.......	leaf	46	l	i	p	ə	t
+112	Synja Khanty..........	leaf	46	ɭ	i	p	ə	t
+112	Tremjugan Khanty......	leaf	46	ɭ	ɨː	p	ə	t
+112	Upper Demjanka Khanty.	leaf	46	l	iː	p	ə	t
+112	Vakh Khanty...........	leaf	46	ɭ	ɨː	w	ə	t
+112	Vartovskoje Khanty....	leaf	46	ɭ	ɨː	w	ə	t
+112	Vasjugan Khanty.......	leaf	46	ɭ	ɨː	w	ə	t
+112	Verkhne-Kalymsk Khanty	leaf	46	ɭ	ɨː	w	ə	t
+113	Konda Mansi...........	leaf	46	l	ə	p	t	ə
+113	Lower Lozva Mansi.....	leaf	46	l	ɔː	p	t	a
+113	Middle Lozva Mansi....	leaf	46	l	uo	p	t	æ
+113	North Mansi...........	leaf	46	l	uː	p	t	æ
+113	Pelymka Mansi.........	leaf	46	l	u	p	t	ə
+113	Tavda Mansi...........	leaf	46	l	ɔ	p	t	ɔ
+
+114	Jugan Khanty..........	lie (V)	47	a	ɬ
+114	Kazym Khanty..........	lie (V)	47	o	ɬ
+114	Konda Khanty..........	lie (V)	47	a	t
+114	Sherkaly Khanty.......	lie (V)	47	o	t
+114	Synja Khanty..........	lie (V)	47	o	l
+114	Tremjugan Khanty......	lie (V)	47	a	ɬ
+114	Upper Demjanka Khanty.	lie (V)	47	a	t
+115	Konda Mansi...........	lie (V)	47	q	o	j	i
+115	Lower Lozva Mansi.....	lie (V)	47	q	u	j	i
+115	Middle Lozva Mansi....	lie (V)	47	q	u	jː	i
+115	North Mansi...........	lie (V)	47	χ	u	j	i
+115	Obdorsk Khanty........	lie (V)	47	χ	oː	j
+115	Pelymka Mansi.........	lie (V)	47	q	u	j	i
+115	Tavda Mansi...........	lie (V)	47	q	u	j
+116	Vakh Khanty...........	lie (V)	47	a	l	aː
+116	Vasjugan Khanty.......	lie (V)	47	a	l	aː
+
+117	Jugan Khanty..........	liver	48	m	uː	w	ɬ
+117	Kazym Khanty..........	liver	48	m	o	χ	ə	ɬ
+117	Konda Khanty..........	liver	48	m	uː	χ	ə	t
+117	Likrisovskoje Khanty..	liver	48	m	uː	ɣ	ə	θ
+117	Malyj Jugan Khanty....	liver	48	m	uː	ɣ	ə	ɬ
+117	Nizjam Khanty.........	liver	48	m	uː	χ	ə	t
+117	Obdorsk Khanty........	liver	48	m	a	χ	ə	l
+117	Sherkaly Khanty.......	liver	48	m	uː	χ	ə	t
+117	Tremjugan Khanty......	liver	48	m	uː	ɣ	ə	ɬ
+117	Upper Demjanka Khanty.	liver	48	m	uː	χ	ə	t
+117	Vakh Khanty...........	liver	48	m	uː	ɣ	ə	l
+117	Vasjugan Khanty.......	liver	48	m	uː	ɣ	ə	l
+117	Verkhne-Kalymsk Khanty	liver	48	m	uː	ɣ	ə	l
+118	Konda Mansi...........	liver	48	m	əː	t
+118	Lower Lozva Mansi.....	liver	48	m	ə	t
+118	Middle Lozva Mansi....	liver	48	m	əː	t
+118	North Mansi...........	liver	48	m	a	j	t
+118	Pelymka Mansi.........	liver	48	m	ə	t
+118	Tavda Mansi...........	liver	48	m	ai	t
+
+119	Jugan Khanty..........	long	49	k	o	w
+119	Kazym Khanty..........	long	49	χ	u	w
+119	Konda Khanty..........	long	49	χ	o	w
+119	Konda Mansi...........	long	49	qʷ	ɔi	sʲ	ə
+119	Likrisovskoje Khanty..	long	49	k	ɔ	ɣ
+119	Lower Lozva Mansi.....	long	49	qʷ	ɔ	ʃ	æ
+119	Malyj Jugan Khanty....	long	49	k	o	ɣʷ
+119	Middle Lozva Mansi....	long	49	qʷ	ɔ	ʃ	æ
+119	Nizjam Khanty.........	long	49	χ	u	w
+119	North Mansi...........	long	49	χ	ɔ	s	æ
+119	Obdorsk Khanty........	long	49	χ	o	w
+119	Pelymka Mansi.........	long	49	qʷ	ɔ	ʃ	æ
+119	Sherkaly Khanty.......	long	49	χ	u	w
+119	Synja Khanty..........	long	49	χ	u	w
+119	Tavda Mansi...........	long	49	q	u	ʃ	o
+119	Tremjugan Khanty......	long	49	k	o	ɣʷ
+119	Upper Demjanka Khanty.	long	49	χ	o	w
+119	Vakh Khanty...........	long	49	k	oː	ɣ
+119	Vartovskoje Khanty....	long	49	k	ɔ	ɣ
+119	Vasjugan Khanty.......	long	49	k	oː	ɣ
+119	Verkhne-Kalymsk Khanty	long	49	k	oː	ɣ
+
+120	Jugan Khanty..........	louse	50	t	æ	w	t	ə	m
+120	Kazym Khanty..........	louse	50	t	eː	w	t	ə	m
+120	Konda Khanty..........	louse	50	t	eː	w	t	ə	m
+120	Konda Mansi...........	louse	50	t	ɔː	χ	ə	m
+120	Likrisovskoje Khanty..	louse	50	t	e	ɣʷ	t	ə	m
+120	Lower Lozva Mansi.....	louse	50	t	a	χ	ə	m
+120	Malyj Jugan Khanty....	louse	50	t	æ	ɣʷ	t	ə	m
+120	Middle Lozva Mansi....	louse	50	t	aː	χ	ə	m
+120	Nizjam Khanty.........	louse	50	t	eː	w	t	ə	m
+120	North Mansi...........	louse	50	t	aː	k	ə	m
+120	Obdorsk Khanty........	louse	50	t	eː	w	t	ə	m
+120	Pelymka Mansi.........	louse	50	t	a	χ	ə	m
+120	Sherkaly Khanty.......	louse	50	t	eː	w	t	ə	m
+120	Synja Khanty..........	louse	50	t	eː	w	t	ə	m
+120	Tavda Mansi...........	louse	50	t	æ	χ	ə	m
+120	Tremjugan Khanty......	louse	50	t	æ	ɣʷ	t	ə	m
+120	Upper Demjanka Khanty.	louse	50	t	eː	w	t	ə	m
+120	Vakh Khanty...........	louse	50	t	œː	ɣ	t	ə	m
+120	Vasjugan Khanty.......	louse	50	t	œː	ɣ	t	ə	m
+120	Verkhne-Kalymsk Khanty	louse	50	t	œː	ɣ	t	ə	m
+
+121	Jugan Khanty..........	man	51	k	oː
+121	Konda Mansi...........	man	51	q	o	m
+121	Likrisovskoje Khanty..	man	51	k	uː
+121	Lower Lozva Mansi.....	man	51	q	u	m
+121	Malyj Jugan Khanty....	man	51	k	oː
+121	Middle Lozva Mansi....	man	51	q	u	m
+121	North Mansi...........	man	51	χ	u	m
+121	Pelymka Mansi.........	man	51	q	u	m
+121	Tavda Mansi...........	man	51	q	o	m
+121	Tremjugan Khanty......	man	51	k	oː
+121	Vakh Khanty...........	man	51	k	uː
+121	Vartovskoje Khanty....	man	51	k	uː
+121	Verkhne-Kalymsk Khanty	man	51	k	uː
+122	Kazym Khanty..........	man	51	χ	ɵː
+122	Nizjam Khanty.........	man	51	χ	uː
+122	Sherkaly Khanty.......	man	51	χ	uː
+122	Synja Khanty..........	man	51	χ	uː
+123	Konda Khanty..........	man	51	χ	uː	j
+123	Obdorsk Khanty........	man	51	χ	oː	j
+123	Upper Demjanka Khanty.	man	51	χ	oː	j
+124	Vasjugan Khanty.......	man	51	k	uː
+
+125	Jugan Khanty..........	many	52	æː	r
+125	Kazym Khanty..........	many	52	aː	r
+125	Konda Khanty..........	many	52	æː	r
+125	Nizjam Khanty.........	many	52	aː	r
+125	Obdorsk Khanty........	many	52	æː	r
+125	Sherkaly Khanty.......	many	52	aː	r
+125	Synja Khanty..........	many	52	aː	r
+125	Tremjugan Khanty......	many	52	æː	r
+125	Upper Demjanka Khanty.	many	52	æː	r
+125	Vakh Khanty...........	many	52	æː	r
+125	Vasjugan Khanty.......	many	52	æː	r
+126	Konda Mansi...........	many	52	s	ɔu
+126	Lower Lozva Mansi.....	many	52	ʃ	ɔu
+126	Middle Lozva Mansi....	many	52	ʃ	oɔ	w
+126	North Mansi...........	many	52	s	a	w
+126	Tavda Mansi...........	many	52	ʃ	ɔu
+127	Pelymka Mansi.........	many	52	ʃ	ɔu
+
+128	Jugan Khanty..........	meat	53	ɲ	a	w	ɨː
+128	Kazym Khanty..........	meat	53	ɲ	o	χ	iː
+128	Konda Khanty..........	meat	53	ɲ	o	χ	ə
+128	Konda Mansi...........	meat	53	ɲ	ou	l
+128	Likrisovskoje Khanty..	meat	53	ɲ	a	ɣʷ	ɨː
+128	Lower Lozva Mansi.....	meat	53	ɲ	ɔu	l
+128	Malyj Jugan Khanty....	meat	53	ɲ	a	ɣʷ	ɨː
+128	Middle Lozva Mansi....	meat	53	ɲ	ou	l
+128	Nizjam Khanty.........	meat	53	ɲ	o	χ	ə
+128	North Mansi...........	meat	53	ɲ	ɔ	w	ə	ʎ
+128	Obdorsk Khanty........	meat	53	ɲ	o	χ	aː
+128	Pelymka Mansi.........	meat	53	ɲ	ɔu	ʎ
+128	Sherkaly Khanty.......	meat	53	ɲ	o	χ	ə
+128	Synja Khanty..........	meat	53	ɲ	o	χ	iː
+128	Tavda Mansi...........	meat	53	ɲ	əːu	l
+128	Tremjugan Khanty......	meat	53	ɲ	a	ɣʷ	ɨː
+128	Upper Demjanka Khanty.	meat	53	ɲ	o	χ	ə
+128	Vakh Khanty...........	meat	53	ɲ	oː	ɣ	ɨː
+128	Vartovskoje Khanty....	meat	53	ɲ	oː	ɣ	ɨː
+128	Vasjugan Khanty.......	meat	53	ɲ	oː	ɣ	ɨː
+128	Verkhne-Kalymsk Khanty	meat	53	ɲ	oː	ɣ	ɨː
+
+129	Jugan Khanty..........	moon	54	t	ɨː	l	ə	s
+129	Kazym Khanty..........	moon	54	t	i	ɬ	ə	s	j
+129	Konda Khanty..........	moon	54	t	iː	l	ə	ʃ
+129	Nizjam Khanty.........	moon	54	t	i	l	ə	s	j
+129	Obdorsk Khanty........	moon	54	t	iː	l	ə	s	j
+129	Sherkaly Khanty.......	moon	54	t	i	l	ə	s	j
+129	Synja Khanty..........	moon	54	t	i	l	ə	s	j
+129	Tremjugan Khanty......	moon	54	t	ɨː	ɬ	ə	s
+129	Upper Demjanka Khanty.	moon	54	t	iː	l	ə	ʃ
+130	Konda Mansi...........	moon	54	j	oː	ŋ	q	ə	p
+130	Lower Lozva Mansi.....	moon	54	j	ɔː	ŋ	χ	ə	p
+130	Middle Lozva Mansi....	moon	54	j	oɔ	ŋ	q	ə	p
+130	North Mansi...........	moon	54	j	ɔː	ŋ	χ	ə	p
+130	Pelymka Mansi.........	moon	54	j	oː	ŋ	q	ə	p
+130	Tavda Mansi...........	moon	54	j	a	m	p
+131	Vakh Khanty...........	moon	54	iː	k	iː
+131	Vasjugan Khanty.......	moon	54	iː	k	iː
+
+132	Jugan Khanty..........	mountain	55	r	æ	p
+132	Kazym Khanty..........	mountain	55	r	ɛː	p
+132	Konda Khanty..........	mountain	55	r	eː	p
+132	Likrisovskoje Khanty..	mountain	55	r	æ	p
+132	Nizjam Khanty.........	mountain	55	r	eː	p
+132	Obdorsk Khanty........	mountain	55	r	eː	p
+132	Synja Khanty..........	mountain	55	r	eː	p
+132	Tremjugan Khanty......	mountain	55	r	æ	p
+132	Upper Demjanka Khanty.	mountain	55	r	eː	p
+133	Konda Mansi...........	mountain	55	ə	χ
+133	Lower Lozva Mansi.....	mountain	55	ə	χ
+133	Pelymka Mansi.........	mountain	55	ə	χ
+133	Tavda Mansi...........	mountain	55	æ	χ
+134	Middle Lozva Mansi....	mountain	55	u	r
+134	North Mansi...........	mountain	55	u	r
+135	Sherkaly Khanty.......	mountain	55	k	eː	w
+136	Vakh Khanty...........	mountain	55	j	o	ɣ
+137	Vartovskoje Khanty....	mountain	55	r	æ	w
+137	Vasjugan Khanty.......	mountain	55	r	eː	w
+137	Verkhne-Kalymsk Khanty	mountain	55	r	eː	w
+
+138	Jugan Khanty..........	mouth	56	ɬ	uː	ɬ
+138	Konda Khanty..........	mouth	56	t	uː	t
+138	Konda Mansi...........	mouth	56	t	u	s
+138	Likrisovskoje Khanty..	mouth	56	θ	uː	θ
+138	Lower Lozva Mansi.....	mouth	56	t	u	s
+138	Malyj Jugan Khanty....	mouth	56	ɬ	uː	ɬ
+138	Middle Lozva Mansi....	mouth	56	t	u	s
+138	Nizjam Khanty.........	mouth	56	t	uː	t
+138	Pelymka Mansi.........	mouth	56	t	u	s
+138	Sherkaly Khanty.......	mouth	56	t	uː	t
+138	Tavda Mansi...........	mouth	56	t	oː	ʃ
+138	Tremjugan Khanty......	mouth	56	ɬ	uː	ɬ
+138	Upper Demjanka Khanty.	mouth	56	t	uː	t
+138	Vakh Khanty...........	mouth	56	l	uː	l
+138	Vartovskoje Khanty....	mouth	56	ɬ	uː	ɬ
+138	Vasjugan Khanty.......	mouth	56	j	uː	l
+138	Verkhne-Kalymsk Khanty	mouth	56	j	uː	l
+139	Kazym Khanty..........	mouth	56	u	ŋ	ə	ɬ
+139	Obdorsk Khanty........	mouth	56	uː	ŋ	ə	l
+139	Synja Khanty..........	mouth	56	u	ŋ	ə	l
+140	North Mansi...........	mouth	56	s	uː	p
+
+141	Jugan Khanty..........	name	57	n	æ	m
+141	Kazym Khanty..........	name	57	n	ɛː	m
+141	Konda Khanty..........	name	57	n	eː	m
+141	Konda Mansi...........	name	57	n	æ	m
+141	Likrisovskoje Khanty..	name	57	n	æ	m
+141	Malyj Jugan Khanty....	name	57	n	æ	m
+141	Middle Lozva Mansi....	name	57	n	æ	m
+141	Nizjam Khanty.........	name	57	n	eː	m
+141	North Mansi...........	name	57	n	a	m
+141	Obdorsk Khanty........	name	57	n	eː	m
+141	Pelymka Mansi.........	name	57	n	æ	m
+141	Sherkaly Khanty.......	name	57	n	eː	m
+141	Synja Khanty..........	name	57	n	eː	m
+141	Tavda Mansi...........	name	57	n	æ	m
+141	Tremjugan Khanty......	name	57	n	æ	m
+141	Upper Demjanka Khanty.	name	57	n	eː	m
+141	Vakh Khanty...........	name	57	n	eː	m
+141	Vartovskoje Khanty....	name	57	n	æ	m
+141	Vasjugan Khanty.......	name	57	n	eː	m
+141	Verkhne-Kalymsk Khanty	name	57	n	eː	m
+
+142	Jugan Khanty..........	neck	58	s	æː	p	ə	ɬ
+142	Kazym Khanty..........	neck	58	s	aː	p	ə	ɬ
+142	Likrisovskoje Khanty..	neck	58	s	æː	p	ə	θ
+142	Malyj Jugan Khanty....	neck	58	s	æː	p	ə	ɬ
+142	Nizjam Khanty.........	neck	58	s	aː	p	ə	t
+142	Obdorsk Khanty........	neck	58	s	æː	p	ə	l
+142	Sherkaly Khanty.......	neck	58	s	aː	p	ə	t
+142	Synja Khanty..........	neck	58	s	aː	p	ə	l
+142	Tremjugan Khanty......	neck	58	s	æː	p	ə	ɬ
+142	Upper Demjanka Khanty.	neck	58	s	æː	p	ə	t
+142	Vakh Khanty...........	neck	58	s	æː	w	ə	l
+142	Vasjugan Khanty.......	neck	58	s	æː	w	ə	l
+142	Verkhne-Kalymsk Khanty	neck	58	s	æː	w	ə	l
+143	Konda Mansi...........	neck	58	s	o	p	l	o
+143	Middle Lozva Mansi....	neck	58	ʃ	i	p	l	u
+143	North Mansi...........	neck	58	s	i	p	l	u
+143	Pelymka Mansi.........	neck	58	ʃ	i	p	l	u
+
+144	Jugan Khanty..........	new	59	j	e	ɬ	ə	p
+144	Kazym Khanty..........	new	59	j	i	ɬ	ə	p
+144	Konda Khanty..........	new	59	j	e	t	ə	p
+144	Likrisovskoje Khanty..	new	59	j	e	θ	ə	p
+144	Malyj Jugan Khanty....	new	59	j	e	ɬ	ə	p
+144	Nizjam Khanty.........	new	59	j	i	t	ə	p
+144	North Mansi...........	new	59	i	ʎ	p
+144	Obdorsk Khanty........	new	59	j	iː	l	ə	p
+144	Sherkaly Khanty.......	new	59	j	a	t	ə	p
+144	Synja Khanty..........	new	59	j	a	l	ə	p
+144	Tremjugan Khanty......	new	59	j	e	ɬ	ə	p
+144	Upper Demjanka Khanty.	new	59	j	e	t	ə	p
+144	Vakh Khanty...........	new	59	j	e	l	ə	w
+144	Vartovskoje Khanty....	new	59	j	e	ɬ	ə	w
+144	Vasjugan Khanty.......	new	59	j	e	l	ə	w
+144	Verkhne-Kalymsk Khanty	new	59	j	e	l	ə	w
+145	Konda Mansi...........	new	59	j	e	l	p	ə	l
+145	Lower Lozva Mansi.....	new	59	ʎ	æ	ʎ	p	ə	l
+145	Middle Lozva Mansi....	new	59	ʎ	æ	ʎ	p	ə	l
+145	Pelymka Mansi.........	new	59	ʎ	æ	ʎ	p	ə	l
+146	Tavda Mansi...........	new	59	e	l	p	ə	ʎ
+
+147	Jugan Khanty..........	night	60	æː	t
+147	Kazym Khanty..........	night	60	aː	t
+147	Konda Khanty..........	night	60	æː	t
+147	Malyj Jugan Khanty....	night	60	æː	t
+147	Nizjam Khanty.........	night	60	aː	t
+147	North Mansi...........	night	60	eː	t
+147	Obdorsk Khanty........	night	60	æː	t
+147	Sherkaly Khanty.......	night	60	aː	t
+147	Synja Khanty..........	night	60	aː	t
+147	Tremjugan Khanty......	night	60	æː	t
+147	Upper Demjanka Khanty.	night	60	æː	t
+148	Konda Mansi...........	night	60	j	ə
+148	Middle Lozva Mansi....	night	60	j	iː
+148	Pelymka Mansi.........	night	60	j	iː
+148	Tavda Mansi...........	night	60	j	iː
+148	Vakh Khanty...........	night	60	j	e	j
+148	Vartovskoje Khanty....	night	60	j	e	j
+148	Vasjugan Khanty.......	night	60	e	j
+148	Verkhne-Kalymsk Khanty	night	60	j	e	j
+149	Lower Lozva Mansi.....	night	60	i
+
+150	Jugan Khanty..........	nose	61	ɲ	o	ɬ
+150	Kazym Khanty..........	nose	61	ɲ	o	ɬ
+150	Konda Khanty..........	nose	61	ɲ	a	t
+150	Konda Mansi...........	nose	61	ɲ	ɔ	l
+150	Likrisovskoje Khanty..	nose	61	ɲ	o	θ
+150	Lower Lozva Mansi.....	nose	61	ɲ	a	l
+150	Malyj Jugan Khanty....	nose	61	ɲ	o	ɬ
+150	Middle Lozva Mansi....	nose	61	ɲ	a	l
+150	Nizjam Khanty.........	nose	61	ɲ	o	t
+150	North Mansi...........	nose	61	ɲ	o	l
+150	Obdorsk Khanty........	nose	61	ɲ	a	l
+150	Pelymka Mansi.........	nose	61	ɲ	a	l
+150	Sherkaly Khanty.......	nose	61	ɲ	o	t
+150	Synja Khanty..........	nose	61	ɲ	o	l
+150	Tavda Mansi...........	nose	61	ɲ	ɔ	l
+150	Tremjugan Khanty......	nose	61	ɲ	o	ɬ
+150	Upper Demjanka Khanty.	nose	61	ɲ	a	t
+150	Vakh Khanty...........	nose	61	ɲ	o	l
+150	Vasjugan Khanty.......	nose	61	ɲ	o	l
+150	Verkhne-Kalymsk Khanty	nose	61	ɲ	o	l
+
+151	Jugan Khanty..........	not	62	e	n	t	ə
+151	Nizjam Khanty.........	not	62	a	n	t	a
+151	Sherkaly Khanty.......	not	62	a	n	t
+151	Tremjugan Khanty......	not	62	e	n	t	ə
+151	Vakh Khanty...........	not	62	e	n	t	ə
+151	Vasjugan Khanty.......	not	62	e	n	t	ə
+152	Kazym Khanty..........	not	62	a	n
+152	Konda Khanty..........	not	62	e	n
+152	Obdorsk Khanty........	not	62	æ	n
+152	Upper Demjanka Khanty.	not	62	e	n
+153	Konda Mansi...........	not	62	oɔ	t
+153	Lower Lozva Mansi.....	not	62	a	t
+153	Middle Lozva Mansi....	not	62	a	t
+153	North Mansi...........	not	62	a	t
+153	Pelymka Mansi.........	not	62	a	t
+153	Synja Khanty..........	not	62	a	t
+154	Tavda Mansi...........	not	62	æː
+
+155	Konda Mansi...........	one	63	æ	kʷ
+155	Lower Lozva Mansi.....	one	63	æ	k
+155	Middle Lozva Mansi....	one	63	æ	kʷ
+155	North Mansi...........	one	63	a	kʷ
+155	Pelymka Mansi.........	one	63	ə	kʷ
+155	Tavda Mansi...........	one	63	u	χ
+156	Jugan Khanty..........	one	63	e	j
+156	Kazym Khanty..........	one	63	i
+156	Konda Khanty..........	one	63	e	j
+156	Nizjam Khanty.........	one	63	i	j
+156	Obdorsk Khanty........	one	63	iː	j
+156	Sherkaly Khanty.......	one	63	i	j
+156	Synja Khanty..........	one	63	i
+156	Tremjugan Khanty......	one	63	e	j
+156	Upper Demjanka Khanty.	one	63	e	j
+156	Vakh Khanty...........	one	63	e	j
+156	Vasjugan Khanty.......	one	63	e	j
+156	Verkhne-Kalymsk Khanty	one	63	e	j
+
+157	Kazym Khanty..........	person	64	χ	o	j	aː	t
+157	Konda Khanty..........	person	64	χ	a	j	æː	t
+157	Nizjam Khanty.........	person	64	χ	o	j	aː	t
+157	Sherkaly Khanty.......	person	64	χ	o	j	aː	t
+157	Synja Khanty..........	person	64	χ	o	j	aː	t
+157	Upper Demjanka Khanty.	person	64	χ	a	j	eː	t
+158	Konda Mansi...........	person	64	q	o	l	ə	s
+158	Lower Lozva Mansi.....	person	64	q	ɔ	l	s
+158	Middle Lozva Mansi....	person	64	q	ɔ	l	s
+158	Pelymka Mansi.........	person	64	q	ɔ	l	ə	s
+158	Tavda Mansi...........	person	64	q	ɔ	l	ɔ	s
+159	North Mansi...........	person	64	eː	l	ə	m	χ	ɔː	l	ə	s
+160	Obdorsk Khanty........	person	64	n	eː	ŋ	χ	uː	j
+161	Tremjugan Khanty......	person	64	k	a	n	t	ə	kː	oː
+162	Vakh Khanty...........	person	64	k	a	s	ɨː
+162	Vasjugan Khanty.......	person	64	k	a	s	ɨː
+
+163	Jugan Khanty..........	rain	65	j	o	m
+163	Malyj Jugan Khanty....	rain	65	j	o	m
+163	Tremjugan Khanty......	rain	65	j	o	m
+164	Kazym Khanty..........	rain	65	j	ɛː	r	t
+164	Konda Khanty..........	rain	65	j	eː	r	t
+164	Nizjam Khanty.........	rain	65	j	eː	r	t
+164	Obdorsk Khanty........	rain	65	j	eː	r	t
+164	Sherkaly Khanty.......	rain	65	j	eː	r
+164	Synja Khanty..........	rain	65	j	eː	r
+164	Upper Demjanka Khanty.	rain	65	j	eː	r	t
+165	Konda Mansi...........	rain	65	r	æ	χʷ
+165	Lower Lozva Mansi.....	rain	65	r	æ	χʷ
+165	Middle Lozva Mansi....	rain	65	r	æ	χʷ
+165	Pelymka Mansi.........	rain	65	r	æ	χʷ
+165	Tavda Mansi...........	rain	65	r	u	χ
+166	Likrisovskoje Khanty..	rain	65	ɭ	o	p	ə	t	j
+166	Vakh Khanty...........	rain	65	ɭ	a	w	ə	t	j
+166	Vartovskoje Khanty....	rain	65	ɭ	ɔ	w	ə	t	j
+166	Vasjugan Khanty.......	rain	65	ɭ	a	w	ə	t	j
+166	Verkhne-Kalymsk Khanty	rain	65	ɭ	a	w	ə	t	j
+167	North Mansi...........	rain	65	r	a	kʷ
+
+168	Konda Mansi...........	red	66	w	ɨ	r
+168	Lower Lozva Mansi.....	red	66	œː	r
+168	Middle Lozva Mansi....	red	66	w	yi	r
+168	North Mansi...........	red	66	w	ɨ	ɣ	ɨ	r
+168	Pelymka Mansi.........	red	66	w	yɨ	r
+169	Jugan Khanty..........	red	66	w	e	r	t	ə
+169	Kazym Khanty..........	red	66	w	u	r	t	iː
+169	Konda Khanty..........	red	66	w	e	r	t	ə
+169	Nizjam Khanty.........	red	66	w	u	r	t	ə
+169	Sherkaly Khanty.......	red	66	w	u	r	t	ə
+169	Synja Khanty..........	red	66	w	u	r	t	iː
+169	Tremjugan Khanty......	red	66	w	e	r	t	ə
+169	Upper Demjanka Khanty.	red	66	w	e	r	t	ə
+169	Vakh Khanty...........	red	66	w	e	r	t	ə
+169	Vasjugan Khanty.......	red	66	w	e	r	t	ə
+170	Tavda Mansi...........	red	66	uː	r	q	ɔ	r
+
+171	Kazym Khanty..........	road	67	p	a	n	t
+171	Konda Khanty..........	road	67	p	e	n	t
+171	Nizjam Khanty.........	road	67	p	a	n	t
+171	Sherkaly Khanty.......	road	67	p	a	n	t
+171	Upper Demjanka Khanty.	road	67	p	e	n	t
+172	Jugan Khanty..........	road	67	ɭ	eː	kʷ
+172	Konda Mansi...........	road	67	ʎ	oː	ŋ	q
+172	Likrisovskoje Khanty..	road	67	ɭ	eː	kʷ
+172	Lower Lozva Mansi.....	road	67	ʎ	o	χ
+172	Malyj Jugan Khanty....	road	67	ɭ	eː	kʷ
+172	Middle Lozva Mansi....	road	67	ʎ	o	χ
+172	North Mansi...........	road	67	ʎ	ɔː	ŋ	χ
+172	Pelymka Mansi.........	road	67	ʎ	oː	ŋ	q
+172	Tavda Mansi...........	road	67	ʎ	ɔ	ŋ
+172	Tremjugan Khanty......	road	67	ɭ	eː	kʷ
+172	Vakh Khanty...........	road	67	ɭ	œː	k
+172	Vartovskoje Khanty....	road	67	ɭ	œː	k
+172	Vasjugan Khanty.......	road	67	ɭ	œː	k
+172	Verkhne-Kalymsk Khanty	road	67	ɭ	œː	k
+173	Obdorsk Khanty........	road	67	j	oː	s
+173	Synja Khanty..........	road	67	j	uː	ʃ
+
+174	Jugan Khanty..........	root	68	ɬ	o	r	t
+174	Konda Khanty..........	root	68	t	uː	r	t
+174	Malyj Jugan Khanty....	root	68	ɬ	o	r	t
+174	Tremjugan Khanty......	root	68	ɬ	o	r	t
+175	Konda Mansi...........	root	68	t	oɔ	r
+175	Lower Lozva Mansi.....	root	68	t	ɔː	r
+175	Middle Lozva Mansi....	root	68	t	oɔ	r
+175	North Mansi...........	root	68	t	aː	r
+175	Pelymka Mansi.........	root	68	t	ɔː	r
+175	Tavda Mansi...........	root	68	t	æː	r
+176	Likrisovskoje Khanty..	root	68	θ	ɔ	r
+176	Vakh Khanty...........	root	68	l	oː	r
+176	Vartovskoje Khanty....	root	68	ɬ	ɔ	r
+176	Vasjugan Khanty.......	root	68	j	oː	r
+176	Verkhne-Kalymsk Khanty	root	68	j	oː	r
+
+177	Jugan Khanty..........	round	69	p	e	ŋ	r	ə	k
+177	Tremjugan Khanty......	round	69	p	e	ŋ	r	ə	k
+177	Vakh Khanty...........	round	69	p	œː	ŋ	ɭ	ə	k
+177	Vasjugan Khanty.......	round	69	p	œː	ŋ	ɭ	ə	k
+178	Kazym Khanty..........	round	69	ɲ	ɵː	m	ə	r
+178	Nizjam Khanty.........	round	69	ɲ	uː	m	r	ə
+178	Synja Khanty..........	round	69	ɲ	uː	m	ə	r
+179	Konda Khanty..........	round	69	j	æ	ŋ	t	æː
+179	Obdorsk Khanty........	round	69	j	eː	ŋ	t	æː
+179	Kazym Khanty..........	round	69	j	ɛː	ŋ	t	aː
+179	Nizjam Khanty.........	round	69	j	eː	ŋ	t	aː
+179	Synja Khanty..........	round	69	j	eː	ŋ	t	aː
+180	Konda Mansi...........	round	69	p	æ	w	ə	r
+180	Lower Lozva Mansi.....	round	69	p	æː	r
+180	Middle Lozva Mansi....	round	69	p	æː	r
+180	North Mansi...........	round	69	p	uː	ɣ	ə	r
+180	Pelymka Mansi.........	round	69	p	æ	w	ə	r
+180	Tavda Mansi...........	round	69	p	əu	r
+181	Konda Mansi...........	round	69	m	æ	r	w	ə
+181	Middle Lozva Mansi....	round	69	m	æ	r	æu
+181	North Mansi...........	round	69	m	a	r	a	w	i
+181	Pelymka Mansi.........	round	69	m	æ	r	u
+
+182	Jugan Khanty..........	sand	70	s	a	ŋ	k	ɨː
+182	Konda Khanty..........	sand	70	s	a	ŋ	χ	ə
+182	Tremjugan Khanty......	sand	70	s	a	ŋ	k	ɨː
+182	Upper Demjanka Khanty.	sand	70	s	a	ŋ	χ	ə
+182	Vakh Khanty...........	sand	70	s	a	ŋ	k	ɨː
+182	Vasjugan Khanty.......	sand	70	s	a	ŋ	k	ɨː
+183	Kazym Khanty..........	sand	70	s	eː	j
+183	Nizjam Khanty.........	sand	70	s	eː	j
+183	Synja Khanty..........	sand	70	s	eː	j
+184	Konda Mansi...........	sand	70	j	ə	m
+184	Lower Lozva Mansi.....	sand	70	j	eː	m
+184	Middle Lozva Mansi....	sand	70	j	iː	m
+184	North Mansi...........	sand	70	j	eː	m
+184	Pelymka Mansi.........	sand	70	j	eː	m
+184	Tavda Mansi...........	sand	70	iː	m
+
+185	Jugan Khanty..........	say	71	j	æː	s	t	ə
+185	Konda Khanty..........	say	71	j	æː	s	t	ə
+185	Synja Khanty..........	say	71	j	aː	s	t	ə
+185	Tremjugan Khanty......	say	71	j	æː	s	t	ə
+185	Upper Demjanka Khanty.	say	71	j	æː	s	t	ə
+186	Kazym Khanty..........	say	71	ɭ	o	p
+186	Nizjam Khanty.........	say	71	l	o	p
+186	Sherkaly Khanty.......	say	71	l	o	p
+187	Konda Mansi...........	say	71	l	ɔː	w	i
+187	Lower Lozva Mansi.....	say	71	l	ɔːi
+187	Middle Lozva Mansi....	say	71	l	oɔ	ɣ	i
+187	North Mansi...........	say	71	l	aː	w	i
+187	Obdorsk Khanty........	say	71	l	æː	w
+187	Pelymka Mansi.........	say	71	l	ɔː	w	i
+187	Tavda Mansi...........	say	71	l	æː	n	t
+188	Vakh Khanty...........	say	71	t	o	ɭ	ɣ	ə	l	t
+189	Vasjugan Khanty.......	say	71	j	æː	s	ŋ	ə	l
+189	Verkhne-Kalymsk Khanty	say	71	j	æː	s	ŋ	ə	l
+
+190	Jugan Khanty..........	see	72	uː
+190	Konda Khanty..........	see	72	uː
+190	Nizjam Khanty.........	see	72	uː
+190	Sherkaly Khanty.......	see	72	uː
+190	Vasjugan Khanty.......	see	72	uː
+191	Kazym Khanty..........	see	72	w	aː	n	t
+191	North Mansi...........	see	72	w	aː	ɣ
+191	Obdorsk Khanty........	see	72	w	æː	n	t
+191	Synja Khanty..........	see	72	w	aː	t
+191	Tavda Mansi...........	see	72	w	a	j	a	n	t
+192	Konda Mansi...........	see	72	w	o	j
+192	Middle Lozva Mansi....	see	72	u	j
+193	Likrisovskoje Khanty..	see	72	w	uː
+193	Malyj Jugan Khanty....	see	72	w	uː
+193	Pelymka Mansi.........	see	72	w	əi
+193	Tremjugan Khanty......	see	72	w	uː
+193	Vakh Khanty...........	see	72	w	uː
+193	Vartovskoje Khanty....	see	72	w	uː
+193	Verkhne-Kalymsk Khanty	see	72	w	uː
+194	Upper Demjanka Khanty.	see	72	w	oː
+
+195	Konda Khanty..........	seed	73	j	eː	m
+195	Upper Demjanka Khanty.	seed	73	j	eː	m
+196	Konda Mansi...........	seed	73	t	oɔ	j	ə	m
+196	Pelymka Mansi.........	seed	73	t	a	j	i	m
+196	Tavda Mansi...........	seed	73	t	e	j	i	m
+197	Middle Lozva Mansi....	seed	73	u	r	l	ə	χ
+197	North Mansi...........	seed	73	uː	r	l	a	χ
+198	Nizjam Khanty.........	seed	73	s	j	eː	m	aː
+199	Vakh Khanty...........	seed	73	l	æː	s	eː	m
+
+200	Jugan Khanty..........	sit (V)	74	ɔː	m	ə	s
+200	Kazym Khanty..........	sit (V)	74	ɔː	m	ə	s
+200	Konda Khanty..........	sit (V)	74	oː	m	ə	s
+200	Likrisovskoje Khanty..	sit (V)	74	aː	m	ə	s
+200	Malyj Jugan Khanty....	sit (V)	74	aː	m	ə	s
+200	Nizjam Khanty.........	sit (V)	74	ɔː	m	ə	s
+200	Obdorsk Khanty........	sit (V)	74	aː	m	ə	s
+200	Sherkaly Khanty.......	sit (V)	74	ɔː	m	ə	s
+200	Synja Khanty..........	sit (V)	74	ɔː	m	ə	s
+200	Tremjugan Khanty......	sit (V)	74	ɔː	m	ə	s
+200	Upper Demjanka Khanty.	sit (V)	74	oː	m	ə	s
+200	Vakh Khanty...........	sit (V)	74	aː	m	ə	s
+200	Vasjugan Khanty.......	sit (V)	74	aː	m	ə	s
+200	Verkhne-Kalymsk Khanty	sit (V)	74	aː	m	ə	s
+201	Konda Mansi...........	sit (V)	74	w	o	n	l	i
+201	Lower Lozva Mansi.....	sit (V)	74	u	n	l	i
+201	Middle Lozva Mansi....	sit (V)	74	u	n	l	i
+201	North Mansi...........	sit (V)	74	uː	n	l	i
+201	Pelymka Mansi.........	sit (V)	74	w	u	n	l	i
+202	Tavda Mansi...........	sit (V)	74	oː	n	ɔ	n	t
+
+203	Jugan Khanty..........	skin	75	s	o	w
+203	Kazym Khanty..........	skin	75	s	o	χ
+203	Konda Khanty..........	skin	75	s	o	χ
+203	Likrisovskoje Khanty..	skin	75	s	o	ɣ
+203	Malyj Jugan Khanty....	skin	75	s	o	ɣʷ
+203	Nizjam Khanty.........	skin	75	s	o	χ
+203	Obdorsk Khanty........	skin	75	s	o	χ
+203	Sherkaly Khanty.......	skin	75	s	o	χ
+203	Synja Khanty..........	skin	75	s	o	χ
+203	Tremjugan Khanty......	skin	75	s	o	ɣʷ
+203	Upper Demjanka Khanty.	skin	75	s	o	χ
+203	Vakh Khanty...........	skin	75	s	o	ɣ
+203	Vartovskoje Khanty....	skin	75	s	o	ɣ
+203	Vasjugan Khanty.......	skin	75	s	o	ɣ
+203	Verkhne-Kalymsk Khanty	skin	75	s	o	ɣ
+204	Konda Mansi...........	skin	75	s	ɔu
+204	Middle Lozva Mansi....	skin	75	s	ɔu
+204	North Mansi...........	skin	75	s	ɔ	w
+204	Pelymka Mansi.........	skin	75	s	ɔu
+
+205	Jugan Khanty..........	sleep (V)	76	a	ɬ
+205	Kazym Khanty..........	sleep (V)	76	o	ɬ
+205	Konda Khanty..........	sleep (V)	76	a	t
+205	Sherkaly Khanty.......	sleep (V)	76	o	t
+205	Synja Khanty..........	sleep (V)	76	o	l
+205	Tremjugan Khanty......	sleep (V)	76	a	ɬ
+205	Upper Demjanka Khanty.	sleep (V)	76	a	t
+206	Konda Mansi...........	sleep (V)	76	q	o	j	i
+206	Lower Lozva Mansi.....	sleep (V)	76	q	u	j	i
+206	Middle Lozva Mansi....	sleep (V)	76	q	u	jː	i
+206	North Mansi...........	sleep (V)	76	χ	u	j	i
+206	Obdorsk Khanty........	sleep (V)	76	χ	oː	j
+206	Pelymka Mansi.........	sleep (V)	76	q	u	j	i
+206	Tavda Mansi...........	sleep (V)	76	q	u	j
+207	Vakh Khanty...........	sleep (V)	76	a	l	aː
+207	Vasjugan Khanty.......	sleep (V)	76	a	l	aː
+
+208	Jugan Khanty..........	small	77	æː	j
+208	Kazym Khanty..........	small	77	aː	j
+208	Konda Khanty..........	small	77	æː	j
+208	Likrisovskoje Khanty..	small	77	æː	j
+208	Malyj Jugan Khanty....	small	77	æː	j
+208	Nizjam Khanty.........	small	77	aː	j
+208	Obdorsk Khanty........	small	77	æː	j
+208	Sherkaly Khanty.......	small	77	aː	j
+208	Synja Khanty..........	small	77	aː	j
+208	Tremjugan Khanty......	small	77	æː	j
+208	Upper Demjanka Khanty.	small	77	æː	j
+208	Vakh Khanty...........	small	77	æː	j
+208	Vasjugan Khanty.......	small	77	æː	j
+208	Verkhne-Kalymsk Khanty	small	77	æː	j
+209	Konda Mansi...........	small	77	w	i	sʲ
+209	Lower Lozva Mansi.....	small	77	i	sʲ
+209	Middle Lozva Mansi....	small	77	w	y	sʲ
+209	Pelymka Mansi.........	small	77	i	sʲ
+209	Tavda Mansi...........	small	77	u	sʲ
+210	North Mansi...........	small	77	m	aː	ɲ
+211	Vartovskoje Khanty....	small	77	œ	k	ə	m
+
+212	Jugan Khanty..........	smoke	78	n	æː	j	ɬ	ɨː	p	ə	t
+212	Malyj Jugan Khanty....	smoke	78	ɬ	ɨː	p	ə	t
+212	Tremjugan Khanty......	smoke	78	n	æː	j	ɬ	ɨː	p	ə	t
+213	Kazym Khanty..........	smoke	78	p	ɵː	s	ə	ŋ
+213	Konda Mansi...........	smoke	78	p	ɔ	s	ə	m
+213	Lower Lozva Mansi.....	smoke	78	p	a	ʃː	ə	m
+213	Middle Lozva Mansi....	smoke	78	p	ɔ	ʃ	m
+213	Nizjam Khanty.........	smoke	78	p	uː	s	ə	ŋ
+213	North Mansi...........	smoke	78	p	o	s	i	m
+213	Obdorsk Khanty........	smoke	78	p	oː	s	ə	ŋ
+213	Pelymka Mansi.........	smoke	78	p	ɔ	ʃ	m
+213	Synja Khanty..........	smoke	78	p	uː	s	ə	ŋ
+213	Tavda Mansi...........	smoke	78	p	o	ʃ	ə	m
+214	Konda Khanty..........	smoke	78	ʧ	a	χ	iː	m
+214	Upper Demjanka Khanty.	smoke	78	ʧ	a	χ	eː	m
+215	Likrisovskoje Khanty..	smoke	78	t	œ	ɣ	ə	θ	ɨː	p	ə	t
+216	Vakh Khanty...........	smoke	78	p	o	r	k	ɨː
+216	Vasjugan Khanty.......	smoke	78	p	o	r	k	ɨː
+216	Verkhne-Kalymsk Khanty	smoke	78	p	o	r	k	ɨː
+
+217	Jugan Khanty..........	stand (V)	79	ɬ	j	oː	ɬ	j
+217	Kazym Khanty..........	stand (V)	79	ɬ	ɔː	ɬ	j
+217	Konda Khanty..........	stand (V)	79	t	j	oː	t	j
+217	Malyj Jugan Khanty....	stand (V)	79	ɬ	aː	ɬ	j
+217	Nizjam Khanty.........	stand (V)	79	t	ɔː	t	j
+217	Sherkaly Khanty.......	stand (V)	79	t	ɔː	t	j
+217	Synja Khanty..........	stand (V)	79	l	ɔː	j
+217	Tremjugan Khanty......	stand (V)	79	ɬ	j	ɔː	ɬ	j
+217	Upper Demjanka Khanty.	stand (V)	79	t	j	oː	t	j
+218	Konda Mansi...........	stand (V)	79	t	u	ɲ	sʲ	i
+218	Lower Lozva Mansi.....	stand (V)	79	t	o	ɲ	sʲ	i
+218	Middle Lozva Mansi....	stand (V)	79	t	u	ɲ	sʲ	i
+218	Pelymka Mansi.........	stand (V)	79	t	u	ɲ	sʲ	i
+218	Tavda Mansi...........	stand (V)	79	t	o	ɲ	sʲ
+219	Likrisovskoje Khanty..	stand (V)	79	θ	aː	θ
+219	Vakh Khanty...........	stand (V)	79	l	aː	ʎ
+219	Vasjugan Khanty.......	stand (V)	79	j	aː	ʎ
+219	Verkhne-Kalymsk Khanty	stand (V)	79	j	aː	ʎ
+220	North Mansi...........	stand (V)	79	ʎ	uː	ʎ	i
+
+221	Jugan Khanty..........	star	80	k	oː	s
+221	Kazym Khanty..........	star	80	χ	ɵː	s
+221	Konda Khanty..........	star	80	χ	uː	s
+221	Likrisovskoje Khanty..	star	80	k	oː	s
+221	Malyj Jugan Khanty....	star	80	k	oː	s
+221	Nizjam Khanty.........	star	80	χ	uː	s
+221	Obdorsk Khanty........	star	80	χ	oː	s
+221	Sherkaly Khanty.......	star	80	χ	uː	s
+221	Synja Khanty..........	star	80	χ	uː	s
+221	Tavda Mansi...........	star	80	q	oː	ɲ	sʲ
+221	Tremjugan Khanty......	star	80	k	oː	s
+221	Upper Demjanka Khanty.	star	80	χ	uː	s
+221	Vakh Khanty...........	star	80	k	ɔː	s
+221	Vartovskoje Khanty....	star	80	k	oː	s
+221	Vasjugan Khanty.......	star	80	k	ɔː	s
+221	Verkhne-Kalymsk Khanty	star	80	k	oː	s
+222	Konda Mansi...........	star	80	s	ɔu
+222	Lower Lozva Mansi.....	star	80	s	ɔ	w
+222	Middle Lozva Mansi....	star	80	s	ɔ	w
+222	North Mansi...........	star	80	s	ɔ	w
+223	Pelymka Mansi.........	star	80	s	ɔu
+
+224	Konda Mansi...........	stone	81	ə	χʷ	t	ə	s
+224	Lower Lozva Mansi.....	stone	81	əː	χ	t	ə	ʃ
+224	Middle Lozva Mansi....	stone	81	ə	χʷ	t	ə	ʃ
+224	North Mansi...........	stone	81	aː	χʷ	t	ə	s
+224	Pelymka Mansi.........	stone	81	ə	χʷ	t	ə	s
+225	Jugan Khanty..........	stone	81	k	æ	w
+225	Kazym Khanty..........	stone	81	k	eː	w
+225	Konda Khanty..........	stone	81	k	eː	w
+225	Likrisovskoje Khanty..	stone	81	k	æ	ɣʷ
+225	Malyj Jugan Khanty....	stone	81	k	æ	ɣʷ
+225	Nizjam Khanty.........	stone	81	k	eː	w
+225	Obdorsk Khanty........	stone	81	k	eː	w
+225	Sherkaly Khanty.......	stone	81	k	eː	w
+225	Synja Khanty..........	stone	81	k	eː	w
+225	Tavda Mansi...........	stone	81	k	uː
+225	Tremjugan Khanty......	stone	81	k	æ	ɣʷ
+225	Upper Demjanka Khanty.	stone	81	k	eː	w
+225	Vakh Khanty...........	stone	81	k	œː	ɣ
+225	Vartovskoje Khanty....	stone	81	k	œ	ɣ
+225	Vasjugan Khanty.......	stone	81	k	œː	ɣ
+225	Verkhne-Kalymsk Khanty	stone	81	k	œː	ɣ
+
+226	Jugan Khanty..........	sun	82	k	a	t	ɬ
+226	Kazym Khanty..........	sun	82	χ	a	t	ɬ
+226	Konda Khanty..........	sun	82	χ	a	t
+226	Konda Mansi...........	sun	82	q	o	t	ə	l
+226	Likrisovskoje Khanty..	sun	82	k	a	t	θ
+226	Lower Lozva Mansi.....	sun	82	q	a	t	ə	l
+226	Malyj Jugan Khanty....	sun	82	k	a	t	ɬ
+226	Middle Lozva Mansi....	sun	82	q	ɔ	t	ə	l
+226	Nizjam Khanty.........	sun	82	χ	a	t	ə	l
+226	North Mansi...........	sun	82	χ	ɔː	t	æ	l
+226	Obdorsk Khanty........	sun	82	χ	a	t	ə	l
+226	Pelymka Mansi.........	sun	82	q	ɔ	t	ə	l
+226	Sherkaly Khanty.......	sun	82	χ	a	t	ə	l
+226	Synja Khanty..........	sun	82	χ	a	t	ə	l
+226	Tavda Mansi...........	sun	82	q	ɔ	t	ə	l
+226	Tremjugan Khanty......	sun	82	k	a	t	ɬ
+226	Upper Demjanka Khanty.	sun	82	χ	a	t
+227	Vakh Khanty...........	sun	82	s	yː	ŋ	k
+227	Vasjugan Khanty.......	sun	82	s	yː	ŋ	k
+227	Verkhne-Kalymsk Khanty	sun	82	s	yː	ŋ	k
+
+228	Kazym Khanty..........	swim (V)	83	w	ɵː	s	j
+228	Konda Khanty..........	swim (V)	83	uː	t	j
+228	Nizjam Khanty.........	swim (V)	83	uː	s	j
+228	Obdorsk Khanty........	swim (V)	83	oː	s	j
+228	Sherkaly Khanty.......	swim (V)	83	uː	s	j
+228	Synja Khanty..........	swim (V)	83	uː	s	j
+228	Upper Demjanka Khanty.	swim (V)	83	uː	t	j
+228	Vakh Khanty...........	swim (V)	83	ɔː	t	j
+229	Konda Mansi...........	swim (V)	83	w	u	j	i
+229	Middle Lozva Mansi....	swim (V)	83	u	j	i
+229	North Mansi...........	swim (V)	83	u	j	i
+229	Pelymka Mansi.........	swim (V)	83	w	u	j	i
+229	Tavda Mansi...........	swim (V)	83	u	j	æ	n	t
+230	Tremjugan Khanty......	swim (V)	83	ɲ	a	r	ə	ɣ
+230	Vasjugan Khanty.......	swim (V)	83	ɲ	oː	r	ə	ɣ
+
+231	Jugan Khanty..........	tail	84	ɬ	e	ɣ
+231	Kazym Khanty..........	tail	84	ɬ	i	w
+231	Konda Khanty..........	tail	84	t	e	ɣ
+231	Konda Mansi...........	tail	84	l	ɨː
+231	Likrisovskoje Khanty..	tail	84	θ	e	ɣ
+231	Lower Lozva Mansi.....	tail	84	l	iː
+231	Malyj Jugan Khanty....	tail	84	ɬ	e	ɣ
+231	Middle Lozva Mansi....	tail	84	l	ɨː
+231	Nizjam Khanty.........	tail	84	t	i	ɣ
+231	North Mansi...........	tail	84	l	eːɨ	ɣ
+231	Pelymka Mansi.........	tail	84	l	ɨː
+231	Sherkaly Khanty.......	tail	84	t	i	ɣ
+231	Synja Khanty..........	tail	84	l	i	j
+231	Tremjugan Khanty......	tail	84	ɬ	e	ɣ
+231	Vakh Khanty...........	tail	84	l	e	ɣ
+231	Vartovskoje Khanty....	tail	84	ɬ	e	ɣ
+231	Vasjugan Khanty.......	tail	84	l	e	ɣ
+231	Verkhne-Kalymsk Khanty	tail	84	l	e	ɣ
+232	Obdorsk Khanty........	tail	84	p	oː	s	iː
+233	Tavda Mansi...........	tail	84	p	o	ŋ
+
+234	Kazym Khanty..........	that	85	t	o	m
+234	Konda Khanty..........	that	85	t	o	m
+234	Konda Mansi...........	that	85	t	ɔ	t
+234	Lower Lozva Mansi.....	that	85	t	a
+234	Middle Lozva Mansi....	that	85	t	a
+234	Nizjam Khanty.........	that	85	t	o	m
+234	North Mansi...........	that	85	t	a
+234	Obdorsk Khanty........	that	85	t	a	m
+234	Pelymka Mansi.........	that	85	t	æ
+234	Sherkaly Khanty.......	that	85	t	o	m
+234	Synja Khanty..........	that	85	t	u	m
+234	Tavda Mansi...........	that	85	t	a
+234	Tremjugan Khanty......	that	85	t	o	m
+234	Upper Demjanka Khanty.	that	85	t	o	m
+234	Vakh Khanty...........	that	85	t	oː	m
+234	Vasjugan Khanty.......	that	85	t	oː	m
+
+235	Jugan Khanty..........	this	86	t	eː	m
+235	Kazym Khanty..........	this	86	t	a	m
+235	Konda Khanty..........	this	86	t	æ	m
+235	Konda Mansi...........	this	86	t	ə
+235	Lower Lozva Mansi.....	this	86	t	i
+235	Middle Lozva Mansi....	this	86	tʲ	ə
+235	Nizjam Khanty.........	this	86	t	a	m
+235	North Mansi...........	this	86	t	i
+235	Pelymka Mansi.........	this	86	tʲ	i
+235	Sherkaly Khanty.......	this	86	t	a	m
+235	Synja Khanty..........	this	86	t	a	m
+235	Tavda Mansi...........	this	86	t	i
+235	Tremjugan Khanty......	this	86	t	eː	m
+235	Upper Demjanka Khanty.	this	86	t	æ	m
+235	Vakh Khanty...........	this	86	t	iː	m
+
+236	Jugan Khanty..........	thou	87	n	œ	ŋ
+236	Kazym Khanty..........	thou	87	n	a	ŋ
+236	Konda Khanty..........	thou	87	n	o	ŋ
+236	Konda Mansi...........	thou	87	n	æɨ	ɣ
+236	Lower Lozva Mansi.....	thou	87	n	æi
+236	Middle Lozva Mansi....	thou	87	n	æu
+236	Nizjam Khanty.........	thou	87	n	o	ŋ
+236	North Mansi...........	thou	87	n	a	ŋ
+236	Obdorsk Khanty........	thou	87	n	æ	ŋ
+236	Pelymka Mansi.........	thou	87	n	æɨ
+236	Sherkaly Khanty.......	thou	87	n	a	ŋ
+236	Synja Khanty..........	thou	87	n	a	ŋ
+236	Tavda Mansi...........	thou	87	n	əu
+236	Tremjugan Khanty......	thou	87	n	œ	ŋ
+236	Upper Demjanka Khanty.	thou	87	n	o	ŋ
+236	Vakh Khanty...........	thou	87	n	œ	ŋ
+236	Vasjugan Khanty.......	thou	87	n	œ	ŋ
+
+237	Jugan Khanty..........	tongue	88	ɲ	æː	ɬ	ə	m
+237	Kazym Khanty..........	tongue	88	ɲ	aː	ɬ	ə	m
+237	Konda Khanty..........	tongue	88	ɲ	æː	t	ə	m
+237	Konda Mansi...........	tongue	88	ɲ	i	l	ə	m
+237	Likrisovskoje Khanty..	tongue	88	ɲ	æː	θ	ə	m
+237	Lower Lozva Mansi.....	tongue	88	ɲ	i	l	m
+237	Malyj Jugan Khanty....	tongue	88	ɲ	æː	ɬ	ə	m
+237	Middle Lozva Mansi....	tongue	88	ɲ	i	l	m
+237	Nizjam Khanty.........	tongue	88	ɲ	aː	t	ə	m
+237	North Mansi...........	tongue	88	ɲ	e	l	m
+237	Obdorsk Khanty........	tongue	88	ɲ	æː	l	ə	m
+237	Pelymka Mansi.........	tongue	88	ɲ	i	l	ə	m
+237	Sherkaly Khanty.......	tongue	88	ɲ	aː	t	ə	m
+237	Synja Khanty..........	tongue	88	ɲ	aː	l	ə	m
+237	Tavda Mansi...........	tongue	88	ɲ	i	ʎ	ə	m
+237	Tremjugan Khanty......	tongue	88	ɲ	æː	ɬ	ə	m
+237	Upper Demjanka Khanty.	tongue	88	ɲ	æː	t	ə	m
+237	Vakh Khanty...........	tongue	88	ɲ	æː	l	ə	m
+237	Vartovskoje Khanty....	tongue	88	ɲ	æː	ɬ	ə	m
+237	Vasjugan Khanty.......	tongue	88	ɲ	æː	l	ə	m
+237	Verkhne-Kalymsk Khanty	tongue	88	ɲ	æː	l	ə	m
+
+238	Jugan Khanty..........	tooth	89	p	æ	ŋʷ	kʷ
+238	Kazym Khanty..........	tooth	89	p	ɛː	ŋ	k
+238	Konda Khanty..........	tooth	89	p	eː	ŋ	k
+238	Konda Mansi...........	tooth	89	p	æ	ŋ	k
+238	Likrisovskoje Khanty..	tooth	89	p	æ	ŋʷ	kʷ
+238	Lower Lozva Mansi.....	tooth	89	p	æ	ŋ	k
+238	Malyj Jugan Khanty....	tooth	89	p	æ	ŋʷ	kʷ
+238	Middle Lozva Mansi....	tooth	89	p	æ	ŋ	k
+238	Nizjam Khanty.........	tooth	89	p	eː	ŋ	k
+238	North Mansi...........	tooth	89	p	u	ŋ	k
+238	Obdorsk Khanty........	tooth	89	p	eː	ŋ	k
+238	Pelymka Mansi.........	tooth	89	p	æ	ŋ	k
+238	Sherkaly Khanty.......	tooth	89	p	eː	ŋ	k
+238	Synja Khanty..........	tooth	89	p	eː	k
+238	Tavda Mansi...........	tooth	89	p	ə	ŋ
+238	Tremjugan Khanty......	tooth	89	p	æ	ŋʷ	kʷ
+238	Upper Demjanka Khanty.	tooth	89	p	eː	ŋ	k
+238	Vakh Khanty...........	tooth	89	p	œː	ŋ	k
+238	Vartovskoje Khanty....	tooth	89	p	œː	ŋ	k
+238	Vasjugan Khanty.......	tooth	89	p	œː	ŋ	k
+238	Verkhne-Kalymsk Khanty	tooth	89	p	œː	ŋ	k
+
+239	Jugan Khanty..........	tree	90	j	uː	w
+239	Kazym Khanty..........	tree	90	j	u	χ
+239	Konda Khanty..........	tree	90	j	uː	χ
+239	Likrisovskoje Khanty..	tree	90	j	uː	ɣ
+239	Malyj Jugan Khanty....	tree	90	j	uː	ɣ
+239	Nizjam Khanty.........	tree	90	j	uː	χ
+239	Obdorsk Khanty........	tree	90	j	uː	χ
+239	Sherkaly Khanty.......	tree	90	j	uː	χ
+239	Synja Khanty..........	tree	90	j	u	χ
+239	Tremjugan Khanty......	tree	90	j	uː	ɣ
+239	Upper Demjanka Khanty.	tree	90	j	uː	χ
+239	Vakh Khanty...........	tree	90	j	uː	ɣ
+239	Vartovskoje Khanty....	tree	90	j	uː	ɣ
+239	Vasjugan Khanty.......	tree	90	j	uː	ɣ
+239	Verkhne-Kalymsk Khanty	tree	90	j	uː	ɣ
+240	Konda Mansi...........	tree	90	j	i	w
+240	Lower Lozva Mansi.....	tree	90	i	w
+240	Middle Lozva Mansi....	tree	90	j	i	w
+240	North Mansi...........	tree	90	j	i	w
+240	Tavda Mansi...........	tree	90	j	i	w
+241	Pelymka Mansi.........	tree	90	j	uː
+
+242	Jugan Khanty..........	two	91	k	æː	t
+242	Kazym Khanty..........	two	91	k	a	t
+242	Konda Khanty..........	two	91	k	æ	t
+242	Konda Mansi...........	two	91	k	i	t
+242	Lower Lozva Mansi.....	two	91	k	i	t
+242	Middle Lozva Mansi....	two	91	k	i	t
+242	Nizjam Khanty.........	two	91	k	a	t
+242	North Mansi...........	two	91	k	i	t
+242	Obdorsk Khanty........	two	91	k	æː	t
+242	Pelymka Mansi.........	two	91	k	i	t
+242	Sherkaly Khanty.......	two	91	k	a	t
+242	Synja Khanty..........	two	91	k	a	t
+242	Tavda Mansi...........	two	91	k	i	t
+242	Tremjugan Khanty......	two	91	k	æː	t
+242	Upper Demjanka Khanty.	two	91	k	e	t
+242	Vakh Khanty...........	two	91	k	æː	t
+242	Vasjugan Khanty.......	two	91	k	æː	t
+
+243	Jugan Khanty..........	walk (go)	92	m	e	n
+243	Kazym Khanty..........	walk (go)	92	m	a	n
+243	Konda Khanty..........	walk (go)	92	m	e	n
+243	Konda Mansi...........	walk (go)	92	m	ə	n	i
+243	Lower Lozva Mansi.....	walk (go)	92	m	i	n	i
+243	Middle Lozva Mansi....	walk (go)	92	m	i	n	i
+243	Nizjam Khanty.........	walk (go)	92	m	a	n
+243	North Mansi...........	walk (go)	92	m	i	n	i
+243	Obdorsk Khanty........	walk (go)	92	m	æ	n
+243	Pelymka Mansi.........	walk (go)	92	m	i	n	i
+243	Sherkaly Khanty.......	walk (go)	92	m	a	n
+243	Synja Khanty..........	walk (go)	92	m	a	n
+243	Tavda Mansi...........	walk (go)	92	m	i	ɲ	æ	n	t
+243	Tremjugan Khanty......	walk (go)	92	m	e	n
+243	Upper Demjanka Khanty.	walk (go)	92	m	e	n
+243	Vakh Khanty...........	walk (go)	92	m	e	n
+243	Vasjugan Khanty.......	walk (go)	92	m	e	n
+243	Verkhne-Kalymsk Khanty	walk (go)	92	m	e	n
+
+244	Jugan Khanty..........	warm (hot)	93	k	eː	w	r	ə	m
+244	Kazym Khanty..........	warm (hot)	93	k	aː	w	r	ə	m
+244	Konda Khanty..........	warm (hot)	93	k	æː	w	r	ə	m
+244	Konda Mansi...........	warm (hot)	93	ə	s	ə	m
+244	Lower Lozva Mansi.....	warm (hot)	93	i	ʃ	ə	m
+244	Middle Lozva Mansi....	warm (hot)	93	i	ʃ	ə	m
+244	Nizjam Khanty.........	warm (hot)	93	k	aː	w	r	ə	m
+244	North Mansi...........	warm (hot)	93	i	s	ə	m
+244	Obdorsk Khanty........	warm (hot)	93	k	æː	w	r	ə	m
+244	Pelymka Mansi.........	warm (hot)	93	i	ʃ	ə	m
+244	Sherkaly Khanty.......	warm (hot)	93	k	aː	w	r	ə	m
+244	Synja Khanty..........	warm (hot)	93	k	aː	w	r	ə	m
+244	Tavda Mansi...........	warm (hot)	93	ə	ʃ	ə	m
+244	Tremjugan Khanty......	warm (hot)	93	k	eː	ɣʷ	r	ə	m
+244	Upper Demjanka Khanty.	warm (hot)	93	k	æː	w	r	ə	m
+244	Vakh Khanty...........	warm (hot)	93	k	œː	ɣ	r	ə	m
+
+245	Jugan Khanty..........	water	94	j	e	ŋ	k
+245	Kazym Khanty..........	water	94	j	i	ŋ	k
+245	Konda Khanty..........	water	94	j	e	ŋ	k
+245	Likrisovskoje Khanty..	water	94	j	e	ŋ	k
+245	Malyj Jugan Khanty....	water	94	j	e	ŋ	k
+245	Nizjam Khanty.........	water	94	j	i	ŋ	k
+245	Obdorsk Khanty........	water	94	j	iː	ŋ	k
+245	Sherkaly Khanty.......	water	94	j	i	ŋ	k
+245	Synja Khanty..........	water	94	j	i	k
+245	Tremjugan Khanty......	water	94	j	e	ŋ	k
+245	Upper Demjanka Khanty.	water	94	j	e	ŋ	k
+245	Vakh Khanty...........	water	94	j	e	ŋ	k
+245	Vartovskoje Khanty....	water	94	j	e	ŋ	k
+245	Vasjugan Khanty.......	water	94	j	e	ŋ	k
+245	Verkhne-Kalymsk Khanty	water	94	j	e	ŋ	k
+246	Konda Mansi...........	water	94	w	i	tʲ
+246	Lower Lozva Mansi.....	water	94	y	tʲ
+246	Middle Lozva Mansi....	water	94	w	y	tʲ
+246	North Mansi...........	water	94	w	i	t
+246	Pelymka Mansi.........	water	94	w	y	tʲ
+246	Tavda Mansi...........	water	94	u	tʲ
+
+247	Jugan Khanty..........	we	95	m	e	ŋ
+247	Kazym Khanty..........	we	95	m	u	ŋ
+247	Konda Khanty..........	we	95	m	o	ŋ
+247	Konda Mansi...........	we	95	m	ɔ	n
+247	Lower Lozva Mansi.....	we	95	m	a	n
+247	Middle Lozva Mansi....	we	95	m	a	n
+247	Nizjam Khanty.........	we	95	m	o	ŋ
+247	North Mansi...........	we	95	m	a	n
+247	Obdorsk Khanty........	we	95	m	uː	ŋ
+247	Pelymka Mansi.........	we	95	m	a	n
+247	Sherkaly Khanty.......	we	95	m	o	ŋ
+247	Synja Khanty..........	we	95	m	u	ŋ
+247	Tavda Mansi...........	we	95	m	æ	ŋ
+247	Tremjugan Khanty......	we	95	m	e	ŋ
+247	Upper Demjanka Khanty.	we	95	m	o	ŋ
+247	Vakh Khanty...........	we	95	m	e	ŋ
+247	Vasjugan Khanty.......	we	95	m	e	ŋ
+
+248	Jugan Khanty..........	what	96	m	e	w	ə	ɬ	iː
+248	Obdorsk Khanty........	what	96	m	a	l	aː
+248	Tremjugan Khanty......	what	96	m	e	ɣʷ	ə	ɬ	iː
+248	Vakh Khanty...........	what	96	m	œ	ɣ	ə	ʎ	iː
+248	Vasjugan Khanty.......	what	96	m	œ	ɣ	ə	ʎ	iː
+249	Kazym Khanty..........	what	96	m	u	j
+249	Konda Khanty..........	what	96	m	e	t	oː	j	ə
+249	Nizjam Khanty.........	what	96	m	u	j
+249	Sherkaly Khanty.......	what	96	m	u	j
+249	Synja Khanty..........	what	96	m	u	j
+249	Upper Demjanka Khanty.	what	96	m	e	t	oː	j	ə
+250	Konda Mansi...........	what	96	n	æ	r
+250	Tavda Mansi...........	what	96	ɲ	æ	r
+251	Lower Lozva Mansi.....	what	96	m	æ	r
+251	Middle Lozva Mansi....	what	96	m	æ	n	ə	r
+251	North Mansi...........	what	96	m	a	n	ə	r
+251	Pelymka Mansi.........	what	96	m	æ	n	ə	r
+
+252	Jugan Khanty..........	white	97	n	eː	w	iː
+252	Kazym Khanty..........	white	97	n	o	w	iː
+252	Konda Khanty..........	white	97	n	a	w	ə
+252	Likrisovskoje Khanty..	white	97	n	æː	ɣ	iː
+252	Malyj Jugan Khanty....	white	97	n	eː	ɣʷ	iː
+252	Nizjam Khanty.........	white	97	n	o	w	ə
+252	Obdorsk Khanty........	white	97	n	æː	w	iː
+252	Sherkaly Khanty.......	white	97	n	o	w	ə
+252	Synja Khanty..........	white	97	n	o	w	iː
+252	Tremjugan Khanty......	white	97	n	eː	ɣʷ	iː
+252	Upper Demjanka Khanty.	white	97	n	o	w	ə
+252	Vakh Khanty...........	white	97	n	æː	ɣ	iː
+252	Vartovskoje Khanty....	white	97	n	æː	ɣ	iː
+252	Vasjugan Khanty.......	white	97	n	æː	ɣ	iː
+252	Verkhne-Kalymsk Khanty	white	97	n	æː	ɣ	iː
+253	Konda Mansi...........	white	97	s	ɔ	j	r	ə	ŋ
+253	Lower Lozva Mansi.....	white	97	s	a	r	ə	ɲ
+253	Middle Lozva Mansi....	white	97	s	ɔ	r	ɲ	ə	ŋ
+253	Pelymka Mansi.........	white	97	s	ai	r	i	ŋ
+253	Tavda Mansi...........	white	97	s	a	j	r	a	ŋ
+254	North Mansi...........	white	97	j	aː	ŋ	k
+
+255	Jugan Khanty..........	who	98	k	o	j	aː	ɣ	ə
+255	Kazym Khanty..........	who	98	χ	o	j
+255	Konda Khanty..........	who	98	χ	o	j	ə
+255	Nizjam Khanty.........	who	98	χ	o	j
+255	Obdorsk Khanty........	who	98	χ	o	j
+255	Sherkaly Khanty.......	who	98	χ	o	j
+255	Synja Khanty..........	who	98	χ	o	j
+255	Tremjugan Khanty......	who	98	k	o	j	aː	ɣ	ɨː
+255	Upper Demjanka Khanty.	who	98	χ	o	j	ə
+255	Vakh Khanty...........	who	98	k	ɔː	j	ɨː
+255	Vasjugan Khanty.......	who	98	k	ɔː	j	ɨː
+256	Konda Mansi...........	who	98	q	o	n
+256	Lower Lozva Mansi.....	who	98	q	a	n	q	a
+256	Middle Lozva Mansi....	who	98	q	a	ŋ	q	æ
+256	North Mansi...........	who	98	χ	ɔː	ŋ	χ	æ
+256	Pelymka Mansi.........	who	98	q	ɔ	n
+256	Tavda Mansi...........	who	98	q	ɔ	n
+
+257	Jugan Khanty..........	woman	99	n	eː
+257	Kazym Khanty..........	woman	99	n	ɛː
+257	Konda Khanty..........	woman	99	n	eː	ŋ
+257	Konda Mansi...........	woman	99	n	eː
+257	Likrisovskoje Khanty..	woman	99	n	iː
+257	Malyj Jugan Khanty....	woman	99	n	eː
+257	Middle Lozva Mansi....	woman	99	n	eː
+257	Nizjam Khanty.........	woman	99	n	eː
+257	North Mansi...........	woman	99	n	eː
+257	Obdorsk Khanty........	woman	99	n	iː	ŋ
+257	Pelymka Mansi.........	woman	99	n	eː
+257	Sherkaly Khanty.......	woman	99	n	eː
+257	Synja Khanty..........	woman	99	n	eː
+257	Tavda Mansi...........	woman	99	n	iː
+257	Tremjugan Khanty......	woman	99	n	eː
+257	Upper Demjanka Khanty.	woman	99	n	eː	ŋ
+257	Vakh Khanty...........	woman	99	n	iː
+257	Vartovskoje Khanty....	woman	99	n	iː
+257	Vasjugan Khanty.......	woman	99	n	iː
+257	Verkhne-Kalymsk Khanty	woman	99	n	iː
+
+258	Konda Khanty..........	yellow	100	χ	a	n	t	ə	w	a	s	t	ə
+258	Upper Demjanka Khanty.	yellow	100	w	a	s	t	ə
+259	Konda Mansi...........	yellow	100	k	æ	s	ə	m
+259	Middle Lozva Mansi....	yellow	100	k	æ	ʃ	m
+259	North Mansi...........	yellow	100	k	a	s	m
+259	Pelymka Mansi.........	yellow	100	k	æ	ʃ	m
+259	Tavda Mansi...........	yellow	100	k	ə	ʃ	ə	m
+
+260	Kazym Khanty..........	far	101	χ	u	w	aː
+260	Konda Khanty..........	far	101	χ	o	w	aː
+260	Nizjam Khanty.........	far	101	χ	u	w	aː
+260	Obdorsk Khanty........	far	101	χ	o	w	iː
+260	Upper Demjanka Khanty.	far	101	χ	o	w	aː
+261	Konda Mansi...........	far	101	qʷ	ɔ	ʃ	æ	t
+261	Middle Lozva Mansi....	far	101	q	ɔ	s	æ	t
+261	North Mansi...........	far	101	χ	ɔ	s	æ	t
+261	Pelymka Mansi.........	far	101	qʷ	ɔ	ʃ	æ	t
+261	Tavda Mansi...........	far	101	q	o	ʃ	o	t
+262	Tremjugan Khanty......	far	101	k	o	kː	ə
+262	Vakh Khanty...........	far	101	k	oː	kː	ə
+262	Vasjugan Khanty.......	far	101	k	oː	kː	ə
+
+263	Jugan Khanty..........	heavy	102	ɬ	æː	ɣ	ə	r	t
+263	Kazym Khanty..........	heavy	102	ɬ	aː	w	ə	r	t
+263	Konda Khanty..........	heavy	102	t	æː	ɣ	ə	r	t
+263	Likrisovskoje Khanty..	heavy	102	θ	æː	ɣ	ə	r	t
+263	Malyj Jugan Khanty....	heavy	102	ɬ	æː	ɣ	ə	r	t
+263	Nizjam Khanty.........	heavy	102	t	aː	w	ə	r	t
+263	Sherkaly Khanty.......	heavy	102	t	aː	ɣ	ə	r
+263	Synja Khanty..........	heavy	102	l	aː	w	ə	r
+263	Tremjugan Khanty......	heavy	102	ɬ	æː	ɣ	ə	r	t
+263	Upper Demjanka Khanty.	heavy	102	t	æː	ɣ	ə	r	t
+263	Vakh Khanty...........	heavy	102	l	æː	ɣ	ə	r	t
+263	Vartovskoje Khanty....	heavy	102	ɬ	æː	ɣ	ə	r	t
+263	Vasjugan Khanty.......	heavy	102	j	æː	ɣ	ə	r	t
+263	Verkhne-Kalymsk Khanty	heavy	102	j	æː	ɣ	ə	r	t
+264	Konda Mansi...........	heavy	102	t	oɔ	r	w	i	tʲ	i	ŋ
+264	Middle Lozva Mansi....	heavy	102	t	aː	r	y	tʲ	ə	ŋ
+264	North Mansi...........	heavy	102	t	aː	r	w	i	t	ə	ŋ
+264	Pelymka Mansi.........	heavy	102	t	aː	r	w	y	tʲ	i	ŋ
+264	Tavda Mansi...........	heavy	102	t	æ	r	k	u	tʲ	ə	ŋ
+265	Obdorsk Khanty........	heavy	102	s	j	oː	k	ə	t
+
+266	Jugan Khanty..........	near	103	w	æː	nː	ə
+266	Kazym Khanty..........	near	103	w	aː	ɳː	ə
+266	Konda Khanty..........	near	103	w	æː	nː	ə
+266	Nizjam Khanty.........	near	103	w	aː	nː	aː
+266	Obdorsk Khanty........	near	103	w	æː	nː	æː
+266	Tremjugan Khanty......	near	103	w	æː	ɳː	ə
+266	Upper Demjanka Khanty.	near	103	w	æː	nː	ə
+266	Vakh Khanty...........	near	103	w	æː	ɳː	ə
+267	Konda Mansi...........	near	103	æ	l	i
+267	Middle Lozva Mansi....	near	103	æ	l	æ
+267	Pelymka Mansi.........	near	103	æ	l	æɨ
+267	Tavda Mansi...........	near	103	æ	l	æu
+268	North Mansi...........	near	103	ʎ	a	p	æ
+269	Vasjugan Khanty.......	near	103	t	e	ŋ	t	ə	ɣ
+
+270	Jugan Khanty..........	salt	104	s	a	ɬː	ə
+270	Kazym Khanty..........	salt	104	s	o	ɬ
+270	Konda Khanty..........	salt	104	s	a	t
+270	Likrisovskoje Khanty..	salt	104	s	a	θ	n	ə
+270	Malyj Jugan Khanty....	salt	104	s	a	ɬː	ə
+270	Nizjam Khanty.........	salt	104	s	o	t	ə
+270	Obdorsk Khanty........	salt	104	s	a	l
+270	Sherkaly Khanty.......	salt	104	s	o	t	ə
+270	Tremjugan Khanty......	salt	104	s	a	ɬː	ə
+270	Upper Demjanka Khanty.	salt	104	s	a	t
+270	Vakh Khanty...........	salt	104	s	a	l	n	ə
+270	Vartovskoje Khanty....	salt	104	s	a	ɬ	n	ə
+270	Vasjugan Khanty.......	salt	104	s	a	l	n	aː
+270	Verkhne-Kalymsk Khanty	salt	104	s	a	l	n	aː
+271	Konda Mansi...........	salt	104	ʃ	æ	χ
+271	Lower Lozva Mansi.....	salt	104	ʃ	æ	χ
+271	Middle Lozva Mansi....	salt	104	sʲ	æ	χ
+271	Pelymka Mansi.........	salt	104	sʲ	æ	χ
+271	Tavda Mansi...........	salt	104	ʧ	i	χ
+272	North Mansi...........	salt	104	s	o	l	w	ə	l
+
+273	Jugan Khanty..........	short	105	w	æː	n
+273	Kazym Khanty..........	short	105	w	aː	ɳ
+273	Konda Khanty..........	short	105	w	æː	n
+273	Likrisovskoje Khanty..	short	105	w	æː	ɳ
+273	Malyj Jugan Khanty....	short	105	w	æː	n
+273	Nizjam Khanty.........	short	105	w	aː	n
+273	Obdorsk Khanty........	short	105	w	æː	n
+273	Sherkaly Khanty.......	short	105	w	aː	n
+273	Synja Khanty..........	short	105	w	aː	ɳ
+273	Tavda Mansi...........	short	105	oː	n
+273	Tremjugan Khanty......	short	105	w	æː	ɳ
+273	Upper Demjanka Khanty.	short	105	w	æː	n
+273	Vakh Khanty...........	short	105	w	æː	ɳ
+273	Vasjugan Khanty.......	short	105	w	æː	ɳ
+273	Verkhne-Kalymsk Khanty	short	105	w	æː	ɳ
+274	Konda Mansi...........	short	105	uː	ŋ	kʷ	ə
+274	Lower Lozva Mansi.....	short	105	œː	n	kʷ	ə
+274	Middle Lozva Mansi....	short	105	uː	ŋ	kʷ	æ
+274	Pelymka Mansi.........	short	105	uː	n	ə	k
+275	North Mansi...........	short	105	w	aː	tʲ	i
+
+276	Jugan Khanty..........	snake	106	m	e	kː	a	r	ɨ	w	ɔː	j	ə	ɣ
+276	Konda Khanty..........	snake	106	w	a	χ	t	ə	w	oː	j	ə
+276	Upper Demjanka Khanty.	snake	106	m	e	ɣ	χ	a	r	w	oː	j	ə
+277	Kazym Khanty..........	snake	106	j	ɛː	m	ə	ŋ	w	ɔː	j
+278	Konda Mansi...........	snake	106	ɲ	o	l	ɨ
+278	Lower Lozva Mansi.....	snake	106	ɲ	o	l	i
+278	Middle Lozva Mansi....	snake	106	ɲ	o	l	i
+278	North Mansi...........	snake	106	ɲ	ɔː	l	ɨ	ɣ
+278	Pelymka Mansi.........	snake	106	ɲ	o	l	i
+278	Tavda Mansi...........	snake	106	ɲ	ɔ	l	u
+279	Malyj Jugan Khanty....	snake	106	s	æ	ɣʷ	ə	r	w	aː	j	ə	ɣ
+280	Obdorsk Khanty........	snake	106	o	χ	t	iː	w	aː	j
+281	Vakh Khanty...........	snake	106	m	œː	ŋ	k	æː	m
+281	Vasjugan Khanty.......	snake	106	m	œː	ŋ	k	æː	m
+281	Verkhne-Kalymsk Khanty	snake	106	m	œː	ŋ	k	æː	m
+
+282	Jugan Khanty..........	thin	107	w	oː	ɣ	ə	ɬ
+282	Kazym Khanty..........	thin	107	ɵː	χ	ə	ɬ
+282	Konda Khanty..........	thin	107	w	oː	χ	ə	t
+282	Likrisovskoje Khanty..	thin	107	w	a	ɣʷ	ə	θ
+282	Malyj Jugan Khanty....	thin	107	w	o	ɣʷ	ə	ɬ
+282	Nizjam Khanty.........	thin	107	uː	χ	ə	t
+282	Obdorsk Khanty........	thin	107	oː	χ	ə	l
+282	Sherkaly Khanty.......	thin	107	uː	χ	ə	t
+282	Synja Khanty..........	thin	107	uː	χ	ə	l
+282	Tremjugan Khanty......	thin	107	w	o	ɣʷ	ə	ɬ
+282	Upper Demjanka Khanty.	thin	107	w	oː	χ	ə	t
+282	Vakh Khanty...........	thin	107	w	oː	ɣ	ə	ʎ
+282	Vartovskoje Khanty....	thin	107	w	ɔ	ɣ	ə	ɬ	j
+282	Vasjugan Khanty.......	thin	107	w	oː	ɣ	ə	ʎ
+282	Verkhne-Kalymsk Khanty	thin	107	w	oː	ɣ	ə	ʎ
+283	Konda Mansi...........	thin	107	w	ou	t	i
+283	Middle Lozva Mansi....	thin	107	w	æɨ	t	æ
+283	North Mansi...........	thin	107	w	ou	t	æ
+283	Pelymka Mansi.........	thin	107	w	æɨ	t	æ
+283	Tavda Mansi...........	thin	107	a	ʃ	t	ɔ
+284	Lower Lozva Mansi.....	thin	107	ɲ	i	ʃː	æ
+284	Middle Lozva Mansi....	thin	107	ɲ	i	sʲ	sʲ	æ
+285	Jugan Khanty..........	thin	107	w	æː	t	j
+285	Kazym Khanty..........	thin	107	w	aː	s	j
+285	Konda Khanty..........	thin	107	w	æː	t	j
+285	Likrisovskoje Khanty..	thin	107	w	æː	t	j
+285	Malyj Jugan Khanty....	thin	107	w	æː	t	j
+285	Nizjam Khanty.........	thin	107	w	aː	s	j
+285	Sherkaly Khanty.......	thin	107	w	aː	s	j
+285	Synja Khanty..........	thin	107	w	aː	s	j
+285	Tremjugan Khanty......	thin	107	w	æː	t	j
+285	Upper Demjanka Khanty.	thin	107	w	æː	t	j
+285	Vakh Khanty...........	thin	107	w	æː	ɲ	t	j
+285	Vasjugan Khanty.......	thin	107	w	æː	ɲ	t	j
+285	Verkhne-Kalymsk Khanty	thin	107	w	æː	ɲ	t	j
+286	North Mansi...........	thin	107	o	sʲ	sʲ	æ
+286	Obdorsk Khanty........	thin	107	a	s	æː
+
+287	Jugan Khanty..........	wind	108	w	ɔː	t
+287	Kazym Khanty..........	wind	108	w	ɔː	t
+287	Konda Khanty..........	wind	108	w	oː	t
+287	Konda Mansi...........	wind	108	w	uo	t
+287	Likrisovskoje Khanty..	wind	108	w	aː	t
+287	Malyj Jugan Khanty....	wind	108	w	aː	t
+287	Middle Lozva Mansi....	wind	108	w	uo	t
+287	Nizjam Khanty.........	wind	108	w	ɔː	t
+287	North Mansi...........	wind	108	w	oː	t
+287	Obdorsk Khanty........	wind	108	w	aː	t
+287	Pelymka Mansi.........	wind	108	w	oː	t
+287	Sherkaly Khanty.......	wind	108	w	ɔː	t
+287	Synja Khanty..........	wind	108	w	ɔː	t
+287	Tavda Mansi...........	wind	108	w	ɔː	t
+287	Tremjugan Khanty......	wind	108	w	ɔː	t
+287	Upper Demjanka Khanty.	wind	108	w	oː	t
+287	Vakh Khanty...........	wind	108	w	aː	t
+287	Vartovskoje Khanty....	wind	108	w	aː	t
+287	Vasjugan Khanty.......	wind	108	w	aː	t
+287	Verkhne-Kalymsk Khanty	wind	108	w	aː	t
+
+288	Jugan Khanty..........	worm	109	m	e	ɣ	ɬ	æ	r
+288	Kazym Khanty..........	worm	109	m	u	w	ɬ	ɛː	r
+288	Konda Khanty..........	worm	109	m	e	ɣ	t	eː	r
+288	Synja Khanty..........	worm	109	m	u	w	l	eː	r
+288	Tremjugan Khanty......	worm	109	m	e	ɣ	ɬ	æ	r
+288	Vakh Khanty...........	worm	109	m	e	ɣ	l	eː	r
+288	Vasjugan Khanty.......	worm	109	m	e	ɣ	j	eː	r
+289	Konda Mansi...........	worm	109	qʷ	ɔ	r
+289	Tavda Mansi...........	worm	109	q	o	r	t
+290	Lower Lozva Mansi.....	worm	109	p	eː	r	k
+290	Middle Lozva Mansi....	worm	109	p	eː	r	k
+290	North Mansi...........	worm	109	p	eː	r	k
+291	Pelymka Mansi.........	worm	109	w	u	j	aː	sʲ	ə	χ
+
+292	Jugan Khanty..........	year	110	ɔː	ɬ
+292	Kazym Khanty..........	year	110	ɔː	ɬ
+292	Konda Khanty..........	year	110	oː	t
+292	Konda Mansi...........	year	110	t	oɔ	l
+292	Likrisovskoje Khanty..	year	110	aː	θ
+292	Lower Lozva Mansi.....	year	110	t	ɔː	l
+292	Malyj Jugan Khanty....	year	110	aː	ɬ
+292	Middle Lozva Mansi....	year	110	t	oɔ	l
+292	Nizjam Khanty.........	year	110	ɔː	t
+292	North Mansi...........	year	110	t	aː	l
+292	Obdorsk Khanty........	year	110	t	æ	l
+292	Pelymka Mansi.........	year	110	t	ɔː	l
+292	Synja Khanty..........	year	110	t	a	l
+292	Tavda Mansi...........	year	110	t	eː	l
+292	Tremjugan Khanty......	year	110	ɔː	ɬ
+292	Upper Demjanka Khanty.	year	110	oː	t
+292	Vakh Khanty...........	year	110	aː	l
+292	Vartovskoje Khanty....	year	110	aː	ɬ
+292	Vasjugan Khanty.......	year	110	aː	l
+292	Verkhne-Kalymsk Khanty	year	110	aː	l
+293	Sherkaly Khanty.......	year	110	t	a	t	ə
