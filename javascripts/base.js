@@ -677,6 +677,10 @@ function findGloss(gloss)
     }
     else
     {
+      if(hit==1)
+      {
+        hit = 0;
+      }
       row.style.display = "none";
     }
   }
