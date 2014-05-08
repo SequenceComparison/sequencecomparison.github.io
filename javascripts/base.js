@@ -46,6 +46,7 @@ function clearit()
   document.getElementById('store').innerText = '';
   document.getElementById('application').style.display="none";
   document.getElementById('browser').style.display="none";
+  document.getElementById('text_search').style.display="none";
 }
 
 function toggleData(source)
@@ -129,6 +130,7 @@ function toggleData(source)
     browser.style.display = "block";
     browser.innerHTML = "Browse the Cognate Sets (Benchmark Data)";
     browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+    document.getElementById('text_search').style.display = "block";
 
     show.innerHTML = text;
   }
@@ -147,6 +149,7 @@ function toggleData(source)
     browser.style.display = "block";
     browser.innerHTML = "Browse the Cognate Sets (Results of the Automatic Analyses)";
     browser.innerHTML += ' <input type="button" onclick="clearit()" value="CLEAR" />';
+    document.getElementById('text_search').style.display = "block";
 
     show.innerHTML = text;
   }
@@ -171,7 +174,7 @@ function browseCSV(url)
   var store = document.getElementById('store');
   var data = store.innerText;
   var lines = data.split('\n');
-  var text = '<table style="border:2px solid black;max-width:900px;">';
+  var text = '<table id="csv_table" style="border:2px solid black;max-width:900px;">';
   var head = 0;
   for(var i=0,line;line=lines[i];i++)
   {
@@ -204,7 +207,7 @@ function browseCSV(url)
     {
       if(head != 0)
       {
-	text += '<tr style="border:1px solid black;background-color:lightgray;"><td colspan="'+headline.length+'"><hr width="100%" style="color:white;"></td></tr>';
+	      text += '<tr style="border:1px solid black;background-color:lightgray;"><td colspan="'+headline.length+'"><hr width="100%" style="color:white;"></td></tr>';
       }
     }
   }
@@ -615,4 +618,66 @@ function highLight()
 			tokens[i].innerHTML = word;
 		//}
 	}
+}
+
+function findGloss(gloss)
+{
+  var table = document.getElementById('csv_table');
+  // determine index of gloss
+  for(var i=0,cell;cell=table.rows[0].cells[i];i++)
+  {
+    if(cell.innerHTML == 'Gloss')
+    {
+      var idx = i;
+      break
+    }
+  }
+
+  if(gloss.replace(/["\s]/g,'') == "" || gloss == "")
+  {
+    for(var i=1,row;row=table.rows[i];i++)
+    {
+      row.style.display = 'table-row';
+    }
+    return;
+  }
+
+  var hit = 0;
+  for(var i=1,row;row=table.rows[i];i++)
+  {
+    if(row.cells.length > 1)
+    {
+      var cell = row.cells[idx];
+      if(cell.innerHTML.toLowerCase().indexOf(gloss.toLowerCase()) == -1)
+      {
+        if(cell.innerHTML.toLowerCase() != gloss.toLowerCase().replace(/[" ]/g,''))
+        {
+          row.style.display = "none";
+          hit = 0;
+        }
+        else
+        {
+          row.style.display = "table-row";
+          if(hit == 0)
+          {
+            table.rows[i-1].style.display = "table-row";
+            hit = 1;
+          }
+        }
+      }
+      else
+      {
+        row.style.display = "table-row";
+        if(hit == 0)
+        {
+          table.rows[i-1].style.display = 'table-row';
+          hit = 1;
+        }
+      }
+    }
+    else
+    {
+      row.style.display = "none";
+    }
+  }
 }

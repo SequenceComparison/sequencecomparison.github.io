@@ -229,3 +229,8 @@ h3 {font-size:105%;}
 #browser {
   display: none;
 }
+
+#text_search {
+  display: none;
+  padding-bottom: 20px;
+}

@@ -12,7 +12,7 @@
     <script type="text/javascript" src="javascripts/base.js"></script>
 
     <link rel="stylesheet" href="stylesheets/base.css">
-    <title>Sequencecomparison.github.io</title>
+    <title>Sequence Comparison</title>
   </head>
 
   <body>
@@ -32,11 +32,12 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
 <h3 onclick="clearit()" id="browser"></h3>
+<div id="text_search"><label for="textfield">Search for specific glosses:</label> <input type="text" size="40" onkeyup="findGloss(this.value)" id="textfield" /></div>
   <div id="application">
     <div id="store"></div>
-          <div id="show"></div>
-          <div id="puffer"><span style="color:white">.</span></div>
-          <div id="msa"></div>
+    <div id="show"></div>
+    <div id="puffer"><span style="color:white">.</span></div>
+    <div id="msa"></div>
     <div id="db" style="display:inline"></div>
   </div>
 <h3 onclick="clearit();"><a name='browse' style="color:black">Browse the Data</a></h3>
