@@ -291,13 +291,21 @@ Full-Width Styles
 
 #header_wrap {
   background: #28419b;
-  background: -moz-linear-gradient(top, #28419b, #7792c9);
-  background: -webkit-linear-gradient(top, #28419b, #7792c9);
-  background: -ms-linear-gradient(top, #28419b, #7792c9);
-  background: -o-linear-gradient(top, #28419b, #7792c9);
-  background: linear-gradient(top, #28419b, #7792c9);
+  //background: -moz-linear-gradient(top, #28419b, #7792c9);
+  //background: -webkit-linear-gradient(top, #28419b, #7792c9);
+  //background: -ms-linear-gradient(top, #28419b, #7792c9);
+  //background: -o-linear-gradient(top, #28419b, #7792c9);
+  //background: linear-gradient(top, #28419b, #7792c9);
 }
 
+//#header_wrap {
+//  background: #28419b;
+//  background: -moz-linear-gradient(top, #28419b, #7792c9);
+//  background: -webkit-linear-gradient(top, #28419b, #7792c9);
+//  background: -ms-linear-gradient(top, #28419b, #7792c9);
+//  background: -o-linear-gradient(top, #28419b, #7792c9);
+//  background: linear-gradient(top, #28419b, #7792c9);
+//}
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
 }
@@ -368,12 +376,14 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #7792c9;
-  background: -moz-linear-gradient(top, #7792c9, #28419b);
-  background: -webkit-linear-gradient(top, #7792c9, #28419b);
-  background: -ms-linear-gradient(top, #7792c9, #28419b);
-  background: -o-linear-gradient(top, #7792c9, #28419b);
-  background: linear-gradient(top, #7792c9, #28419b);
+  //height: auto;
+  //min-height:200px;
+  background: #28419b;
+  //background: -moz-linear-gradient(top, #7792c9, #28419b);
+  //background: -webkit-linear-gradient(top, #7792c9, #28419b);
+  //background: -ms-linear-gradient(top, #7792c9, #28419b);
+  //background: -o-linear-gradient(top, #7792c9, #28419b);
+  //background: linear-gradient(top, #7792c9, #28419b);
 }
 
 
