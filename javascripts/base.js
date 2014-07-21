@@ -13,13 +13,14 @@ var myfiles = [
 "SLV.csv"
 ];
 var mymodes = ["edit-tokens", "lexstat", "sca", "turchin"];
+var STORE = '';
 
 function storeText(data)
 {
-  var store = document.getElementById("store");
-  store.innerText = data;
+  //var store = document.getElementById("store");
+  STORE = data;
 
-  var db = document.getElementById("db");
+  //var db = document.getElementById("db");
   //db.innerHTML = store.innerText;
 }
 
@@ -47,6 +48,7 @@ function clearit()
   document.getElementById('application').style.display="none";
   document.getElementById('browser').style.display="none";
   document.getElementById('text_search').style.display="none";
+  STORE = '';
 }
 
 function toggleData(source)
@@ -76,8 +78,8 @@ function toggleData(source)
 
     var text = '<select class="selector" onchange="browseMSA(this.value);" size="30" >';
     loadFile('benchmark/msa/files.csv', false);
-    var store = document.getElementById('store');
-    var data = store.innerText;
+    //var store = document.getElementById('store');
+    var data = STORE; //store.innerText;
     var lines = data.split('\n');
     for(var i=0; i<lines.length-1;i++)
     {
@@ -98,8 +100,8 @@ function toggleData(source)
     document.getElementById('ralm').style.fontWeight = "bold";
     var text = '<select class="selector" size="12" onchange="selectMSA(this.value)">';
     loadFile('results/msa/analyses.csv', false);
-    var store = document.getElementById('store');
-    var data = store.innerText;
+    //var store = document.getElementById('store');
+    var data = STORE; //store.innerText;
     var lines = data.split('\n');
     for(var i=0; i<lines.length-1;i++)
     {
@@ -171,8 +173,8 @@ function showCSV(path)
 function browseCSV(url)
 {
   loadFile(url, false);
-  var store = document.getElementById('store');
-  var data = store.innerText;
+  //var store = document.getElementById('store');
+  var data = STORE; //store.innerText;
   var lines = data.split('\n');
   var text = '<table id="csv_table" style="border:2px solid black;max-width:900px;">';
   var head = 0;
@@ -223,8 +225,8 @@ function selectMSA(url)
   var show = document.getElementById('puffer');
   var text = '<select class="selector" size="30" onchange="browseMSA(this.value)">';
   loadFile('results/msa/'+url+'/files.csv', false);
-  var store = document.getElementById('store');
-  var data = store.innerText;
+  //var store = document.getElementById('store');
+  var data = STORE; //store.innerText;
   var lines = data.split('\n');
   for(var i=0; i<lines.length-1;i++)
   {
@@ -270,8 +272,8 @@ function browseMSA(url)
 
 function parseMSA()
 {
-  var store = document.getElementById('store');
-  var text = store.innerText;
+  //var store = document.getElementById('store');
+  var text = STORE; //store.innerText;
   var display = document.getElementById('msa');
   
   //var db = document.getElementById('db');

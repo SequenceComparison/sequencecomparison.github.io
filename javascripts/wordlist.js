@@ -763,7 +763,6 @@ function plotWord(word)
 
 function highLight()
 {
-	var db = document.getElementById('db');
 	var tokens = document.getElementsByClassName('TOKENS');
 	for(var i=0;i<tokens.length;i++)
 	{
